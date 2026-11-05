@@ -1,0 +1,2391 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tv generator-info-name="VinhEPG v1.0.0" generator-info-url="https://github.com/huuvinh-dev/epg-file">
+  <channel id="hbo-east">
+    <display-name lang="en">HBO East</display-name>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </channel>
+  <channel id="hbo2-east">
+    <display-name lang="en">HBO2 East</display-name>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </channel>
+  <channel id="hbo-signature-east">
+    <display-name lang="en">HBO Signature East</display-name>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </channel>
+  <channel id="hbo-comedy-east">
+    <display-name lang="en">HBO Comedy East</display-name>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </channel>
+  <channel id="hbo-zone-east">
+    <display-name lang="en">HBO Zone East</display-name>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </channel>
+  <channel id="hbo-latino-east">
+    <display-name lang="en">HBO Latino East</display-name>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </channel>
+  <channel id="hbo-west">
+    <display-name lang="en">HBO West</display-name>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </channel>
+  <channel id="hbo2-west">
+    <display-name lang="en">HBO2 West</display-name>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </channel>
+  <channel id="hbo-signature-west">
+    <display-name lang="en">HBO Signature West</display-name>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </channel>
+  <channel id="hbo-comedy-west">
+    <display-name lang="en">HBO Comedy West</display-name>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </channel>
+  <channel id="hbo-zone-west">
+    <display-name lang="en">HBO Zone West</display-name>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </channel>
+  <channel id="hbo-latino-west">
+    <display-name lang="en">HBO Latino West</display-name>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </channel>
+  <programme channel="hbo-zone-east" start="20261128001500 -0500" stop="20261128014900 -0500">
+    <title lang="en">The Land of Sometimes</title>
+    <desc lang="en">On Christmas Eve, twins Alfie and Elise wish for things beyond their reach. That evening they are visited by The Wish Collector, who takes them on a journey to a strange and magical world.</desc>
+    <date>2026</date>
+    <category lang="en">Family Adventures</category>
+    <category lang="en">Fantasy &amp; Sci-Fi</category>
+    <category lang="en">Kids &amp; Family</category>
+    <category lang="en">Animated Movies</category>
+    <category lang="en">Holiday</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/mISsV/eIaLJ80QhRL6wgN8g.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-comedy-east" start="20261128001900 -0500" stop="20261128004800 -0500">
+    <title lang="en">How to Clean Your Ears</title>
+    <desc lang="en">After having his ears properly cleaned, John wonders if better hearing is what he actually wants.</desc>
+    <date>2023</date>
+    <category lang="en">Documentaries</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Offbeat</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/sG_9t/ORVAF3CULIbDQ5cKw.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo2-east" start="20261128001900 -0500" stop="20261128015700 -0500">
+    <title lang="en">Final Destination</title>
+    <desc lang="en">Death comes for a group of teens who escaped their fate on a doomed airliner in this first frightening foray in the Final Destination series.</desc>
+    <date>2000</date>
+    <category lang="en">Horror</category>
+    <category lang="en">Thriller</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-east" start="20261128002000 -0500" stop="20261128011800 -0500">
+    <title lang="en">Good Taste</title>
+    <desc lang="en">Agnes attempts to regain control over the Presidential Dinner, Peggy’s career sparks a rift with William, and Ada runs into Dr. Harris.</desc>
+    <date>2026</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Period Pieces</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/T9Sg9/skwsJWyU2bU2MNunA.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-latino-east" start="20261128002000 -0500" stop="20261128010300 -0500">
+    <title lang="en">Episode 8</title>
+    <desc lang="en">Carla exposes Leo. Patricia and Rosa look toward the future. Losing grip on reality, Raquel prepares for her final blow.</desc>
+    <date>2026</date>
+    <category lang="en">Dark Comedy</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/hXnMk/jsYubNrVjMD8EF4pw.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-comedy-east" start="20261128004800 -0500" stop="20261128011700 -0500">
+    <title lang="en">How to Work Out</title>
+    <desc lang="en">John starts working out and tracks the pros and cons of big.</desc>
+    <date>2023</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Offbeat</category>
+    <category lang="en">Documentaries</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/587yO/DZYZp4c3Cxmv0djQg.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-signature-east" start="20261128005200 -0500" stop="20261128015100 -0500">
+    <title lang="en">Night Finds You</title>
+    <desc lang="en">Ray and Ani investigate a victim's depraved background, as does Frank, while Paul probes the Vinci PD.</desc>
+    <date>2015</date>
+    <category lang="en">Mystery &amp; Suspense</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Investigations</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/pU_FT/ItxI5gpey4dWhXQ1g.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-latino-east" start="20261128010300 -0500" stop="20261128020000 -0500">
+    <title lang="en">Celebrity Habla</title>
+    <desc lang="en">See what celebrated Latino actors, newsmakers and a music legend have to say about being Latino in the U.S.</desc>
+    <date>2009</date>
+    <category lang="en">Pop Culture &amp; Celebrities</category>
+    <category lang="en">Biographies</category>
+    <category lang="en">Documentaries</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/OLoNt/ZH9tn2YB0Nd55QjVw.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-comedy-east" start="20261128011700 -0500" stop="20261128014600 -0500">
+    <title lang="en">How to Watch the Game</title>
+    <desc lang="en">John’s discovery of the deeply-embedded rituals and bonding in sports leads to a greater appreciation of the game.</desc>
+    <date>2023</date>
+    <category lang="en">Documentaries</category>
+    <category lang="en">Offbeat</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/knN0c/Ksdj5PJaqth_OpUcg.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-east" start="20261128011800 -0500" stop="20261128025800 -0500">
+    <title lang="en">The First Purge</title>
+    <desc lang="en">A futuristic U.S. government pushes to lower crime by legalizing it for a single terrifying night. But dark efforts to ensure the program is successful during its test run on Staten Island wind up backfiring as the violence explodes beyond those borders.</desc>
+    <date>2018</date>
+    <category lang="en">Horror</category>
+    <category lang="en">Science Fiction</category>
+    <category lang="en">Thriller</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-comedy-east" start="20261128014600 -0500" stop="20261128021500 -0500">
+    <title lang="en">How to Watch Birds</title>
+    <desc lang="en">After realizing too much of his life is spent inside, John tries out birding, which opens up a world of possibility ... and dubious claims.</desc>
+    <date>2023</date>
+    <category lang="en">Documentaries</category>
+    <category lang="en">Offbeat</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/EV9R7/OMSBahIc5hUJFFl_g.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-zone-east" start="20261128014900 -0500" stop="20261128034300 -0500">
+    <title lang="en">Barbie</title>
+    <desc lang="en">To live in Barbie Land is to be a perfect being in a perfect place. Unless you have a full-on existential crisis. Or you're a Ken.</desc>
+    <date>2023</date>
+    <category lang="en">Comedy</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-signature-east" start="20261128015100 -0500" stop="20261128025000 -0500">
+    <title lang="en">Maybe Tomorrow</title>
+    <desc lang="en">Paul works the prostitute angle while Frank receives the first casualty in a secret war, and steps back into a world he'd left behind.</desc>
+    <date>2015</date>
+    <category lang="en">Mystery &amp; Suspense</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Investigations</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/pRtrk/w9G2V5Fuw_RWj5aVA.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo2-east" start="20261128015700 -0500" stop="20261128032800 -0500">
+    <title lang="en">Final Destination 2</title>
+    <desc lang="en">One year after the Flight 180 tragedy, a group of lucky individuals cheat death in a horrific chain-reaction highway wreck. But Death will not be denied, and it comes to claim their lives in increasingly ghastly (and creative) ways.</desc>
+    <date>2003</date>
+    <category lang="en">Horror</category>
+    <category lang="en">Supernatural</category>
+    <category lang="en">Thriller</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-latino-east" start="20261128020000 -0500" stop="20261128025800 -0500">
+    <title lang="en">Good Taste</title>
+    <desc lang="en">Agnes attempts to regain control over the Presidential Dinner, Peggy’s career sparks a rift with William, and Ada runs into Dr. Harris.</desc>
+    <date>2026</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Period Pieces</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/T9Sg9/skwsJWyU2bU2MNunA.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-comedy-east" start="20261128021500 -0500" stop="20261128025300 -0500">
+    <title lang="en">How to Track Your Package</title>
+    <desc lang="en">After having a delivery stolen, John investigates how to keep his packages secure.</desc>
+    <date>2023</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Offbeat</category>
+    <category lang="en">Documentaries</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/vktz3/_DnE2e_jvy8iK-Bjg.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-signature-east" start="20261128025000 -0500" stop="20261128034600 -0500">
+    <title lang="en">Down Will Come</title>
+    <desc lang="en">The detail works a pawn-shop lead to close in on a suspect in the Caspere case. Frank revisits his past to pay for his present.</desc>
+    <date>2015</date>
+    <category lang="en">Mystery &amp; Suspense</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Investigations</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/WA2Y8/77zn97paGofrOl8-g.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-comedy-east" start="20261128025300 -0500" stop="20261128044800 -0500">
+    <title lang="en">Tyler Perry's Madea's Witness Protection</title>
+    <desc lang="en">A clueless Wall Street investment banker, turning state's evidence against the mob, is relocated with his family to Aunt Madea's southern home as part of the Witness Protection program.</desc>
+    <date>2012</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Parody</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-east" start="20261128025800 -0500" stop="20261128045900 -0500">
+    <title lang="en">Deadpool 2</title>
+    <desc lang="en">Wisecracking antihero Deadpool must join forces with a motley collection of mutants in order to save a rebellious teenage mutant from the grip of a powerful enemy: a genetically enhanced super-soldier from the future known as Cable.</desc>
+    <date>2018</date>
+    <category lang="en">Action</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-latino-east" start="20261128025800 -0500" stop="20261128045900 -0500">
+    <title lang="en">Deadpool 2</title>
+    <desc lang="en">Wisecracking antihero Deadpool must join forces with a motley collection of mutants in order to save a rebellious teenage mutant from the grip of a powerful enemy: a genetically enhanced super-soldier from the future known as Cable.</desc>
+    <date>2018</date>
+    <category lang="en">Action</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-zone-west" start="20261128001500 -0800" stop="20261128014900 -0800">
+    <title lang="en">The Land of Sometimes</title>
+    <desc lang="en">On Christmas Eve, twins Alfie and Elise wish for things beyond their reach. That evening they are visited by The Wish Collector, who takes them on a journey to a strange and magical world.</desc>
+    <date>2026</date>
+    <category lang="en">Family Adventures</category>
+    <category lang="en">Fantasy &amp; Sci-Fi</category>
+    <category lang="en">Kids &amp; Family</category>
+    <category lang="en">Animated Movies</category>
+    <category lang="en">Holiday</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/mISsV/eIaLJ80QhRL6wgN8g.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-comedy-west" start="20261128001900 -0800" stop="20261128004800 -0800">
+    <title lang="en">How to Clean Your Ears</title>
+    <desc lang="en">After having his ears properly cleaned, John wonders if better hearing is what he actually wants.</desc>
+    <date>2023</date>
+    <category lang="en">Documentaries</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Offbeat</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/sG_9t/ORVAF3CULIbDQ5cKw.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo2-west" start="20261128001900 -0800" stop="20261128015700 -0800">
+    <title lang="en">Final Destination</title>
+    <desc lang="en">Death comes for a group of teens who escaped their fate on a doomed airliner in this first frightening foray in the Final Destination series.</desc>
+    <date>2000</date>
+    <category lang="en">Horror</category>
+    <category lang="en">Thriller</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-latino-west" start="20261128002000 -0800" stop="20261128010300 -0800">
+    <title lang="en">Episode 8</title>
+    <desc lang="en">Carla exposes Leo. Patricia and Rosa look toward the future. Losing grip on reality, Raquel prepares for her final blow.</desc>
+    <date>2026</date>
+    <category lang="en">Dark Comedy</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/hXnMk/jsYubNrVjMD8EF4pw.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-west" start="20261128002000 -0800" stop="20261128011800 -0800">
+    <title lang="en">Good Taste</title>
+    <desc lang="en">Agnes attempts to regain control over the Presidential Dinner, Peggy’s career sparks a rift with William, and Ada runs into Dr. Harris.</desc>
+    <date>2026</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Period Pieces</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/T9Sg9/skwsJWyU2bU2MNunA.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo2-east" start="20261128032800 -0500" stop="20261128050100 -0500">
+    <title lang="en">Final Destination 3</title>
+    <desc lang="en">Death makes a bloody date with a group of unlucky teens who escaped a fatal roller-coaster crash in this harrowing horror sequel.</desc>
+    <date>2006</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Suspense</category>
+    <category lang="en">Thriller</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-zone-east" start="20261128034300 -0500" stop="20261128054500 -0500">
+    <title lang="en">Sicario</title>
+    <desc lang="en">An idealistic FBI agent is enlisted by a government task force to aid in the escalating war against drugs at the border area between the U.S. and Mexico.</desc>
+    <date>2015</date>
+    <category lang="en">Action</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Mystery</category>
+    <category lang="en">Thriller</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-signature-east" start="20261128034600 -0500" stop="20261128044600 -0500">
+    <title lang="en">Other Lives</title>
+    <desc lang="en">Ray and Frank contemplate new life choices. Ani and Paul follow a lead up the coast.</desc>
+    <date>2015</date>
+    <category lang="en">Mystery &amp; Suspense</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Investigations</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/-xiJ3/AOAeK7fy-Hn1nuSTg.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-comedy-west" start="20261128004800 -0800" stop="20261128011700 -0800">
+    <title lang="en">How to Work Out</title>
+    <desc lang="en">John starts working out and tracks the pros and cons of big.</desc>
+    <date>2023</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Offbeat</category>
+    <category lang="en">Documentaries</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/587yO/DZYZp4c3Cxmv0djQg.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-signature-west" start="20261128005200 -0800" stop="20261128015100 -0800">
+    <title lang="en">Night Finds You</title>
+    <desc lang="en">Ray and Ani investigate a victim's depraved background, as does Frank, while Paul probes the Vinci PD.</desc>
+    <date>2015</date>
+    <category lang="en">Mystery &amp; Suspense</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Investigations</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/pU_FT/ItxI5gpey4dWhXQ1g.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-latino-west" start="20261128010300 -0800" stop="20261128020000 -0800">
+    <title lang="en">Celebrity Habla</title>
+    <desc lang="en">See what celebrated Latino actors, newsmakers and a music legend have to say about being Latino in the U.S.</desc>
+    <date>2009</date>
+    <category lang="en">Pop Culture &amp; Celebrities</category>
+    <category lang="en">Biographies</category>
+    <category lang="en">Documentaries</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/OLoNt/ZH9tn2YB0Nd55QjVw.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-comedy-west" start="20261128011700 -0800" stop="20261128014600 -0800">
+    <title lang="en">How to Watch the Game</title>
+    <desc lang="en">John’s discovery of the deeply-embedded rituals and bonding in sports leads to a greater appreciation of the game.</desc>
+    <date>2023</date>
+    <category lang="en">Documentaries</category>
+    <category lang="en">Offbeat</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/knN0c/Ksdj5PJaqth_OpUcg.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-west" start="20261128011800 -0800" stop="20261128025800 -0800">
+    <title lang="en">The First Purge</title>
+    <desc lang="en">A futuristic U.S. government pushes to lower crime by legalizing it for a single terrifying night. But dark efforts to ensure the program is successful during its test run on Staten Island wind up backfiring as the violence explodes beyond those borders.</desc>
+    <date>2018</date>
+    <category lang="en">Horror</category>
+    <category lang="en">Science Fiction</category>
+    <category lang="en">Thriller</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-comedy-west" start="20261128014600 -0800" stop="20261128021500 -0800">
+    <title lang="en">How to Watch Birds</title>
+    <desc lang="en">After realizing too much of his life is spent inside, John tries out birding, which opens up a world of possibility ... and dubious claims.</desc>
+    <date>2023</date>
+    <category lang="en">Documentaries</category>
+    <category lang="en">Offbeat</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/EV9R7/OMSBahIc5hUJFFl_g.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-signature-east" start="20261128044600 -0500" stop="20261128054600 -0500">
+    <title lang="en">Church in Ruins</title>
+    <desc lang="en">Desperate to locate a missing woman with intel about Caspere, Frank meets with Mexican drug dealers; Ani infiltrates an exclusive inner circle, with Ray and Paul keeping close tabs.</desc>
+    <date>2015</date>
+    <category lang="en">Mystery &amp; Suspense</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Investigations</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/1QKNT/UNJh7vpQFFFnVuORw.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-comedy-east" start="20261128044800 -0500" stop="20261128061600 -0500">
+    <title lang="en">Boys Go to Jupiter</title>
+    <desc lang="en">In writer/director Julian Glander's wildly unique adult animated tale, suburban teen Billy 5000 encounters various quirky characters--including a creature he names Donut--while working for a food delivery app.</desc>
+    <date>2024</date>
+    <category lang="en">Adult Animation</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/Pl8jd/Tg97xkXmezvj_-LAQ.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-zone-west" start="20261128014900 -0800" stop="20261128034300 -0800">
+    <title lang="en">Barbie</title>
+    <desc lang="en">To live in Barbie Land is to be a perfect being in a perfect place. Unless you have a full-on existential crisis. Or you're a Ken.</desc>
+    <date>2023</date>
+    <category lang="en">Comedy</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-signature-west" start="20261128015100 -0800" stop="20261128025000 -0800">
+    <title lang="en">Maybe Tomorrow</title>
+    <desc lang="en">Paul works the prostitute angle while Frank receives the first casualty in a secret war, and steps back into a world he'd left behind.</desc>
+    <date>2015</date>
+    <category lang="en">Mystery &amp; Suspense</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Investigations</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/pRtrk/w9G2V5Fuw_RWj5aVA.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo2-west" start="20261128015700 -0800" stop="20261128032800 -0800">
+    <title lang="en">Final Destination 2</title>
+    <desc lang="en">One year after the Flight 180 tragedy, a group of lucky individuals cheat death in a horrific chain-reaction highway wreck. But Death will not be denied, and it comes to claim their lives in increasingly ghastly (and creative) ways.</desc>
+    <date>2003</date>
+    <category lang="en">Horror</category>
+    <category lang="en">Supernatural</category>
+    <category lang="en">Thriller</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-east" start="20261128045900 -0500" stop="20261128053300 -0500">
+    <title lang="en">Wellness</title>
+    <desc lang="en">To hack the wellness industry, Oobah concocts a beauty serum made of children's tears and a supplement containing lab-grown human meat.</desc>
+    <date>2026</date>
+    <category lang="en">Offbeat</category>
+    <category lang="en">Variety, Talk &amp; Sketch</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Documentaries</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/ZIhHb/wq4f9dH02eScorlIA.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-latino-east" start="20261128045900 -0500" stop="20261128053300 -0500">
+    <title lang="en">Wellness</title>
+    <desc lang="en">To hack the wellness industry, Oobah concocts a beauty serum made of children's tears and a supplement containing lab-grown human meat.</desc>
+    <date>2026</date>
+    <category lang="en">Offbeat</category>
+    <category lang="en">Variety, Talk &amp; Sketch</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Documentaries</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/ZIhHb/wq4f9dH02eScorlIA.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-latino-west" start="20261128020000 -0800" stop="20261128025800 -0800">
+    <title lang="en">Good Taste</title>
+    <desc lang="en">Agnes attempts to regain control over the Presidential Dinner, Peggy’s career sparks a rift with William, and Ada runs into Dr. Harris.</desc>
+    <date>2026</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Period Pieces</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/T9Sg9/skwsJWyU2bU2MNunA.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo2-east" start="20261128050100 -0500" stop="20261128063500 -0500">
+    <title lang="en">Final Destination 5</title>
+    <desc lang="en">Thanks to a psychic vision, young sales rep Sam and a handful of his co-workers manage to survive a horrific bridge collapse. But Death doesn't like to be cheated, and one by one the unsuspecting souls end up meeting their gruesome fates.</desc>
+    <date>2011</date>
+    <category lang="en">Horror</category>
+    <category lang="en">Thriller</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-comedy-west" start="20261128021500 -0800" stop="20261128025300 -0800">
+    <title lang="en">How to Track Your Package</title>
+    <desc lang="en">After having a delivery stolen, John investigates how to keep his packages secure.</desc>
+    <date>2023</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Offbeat</category>
+    <category lang="en">Documentaries</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/vktz3/_DnE2e_jvy8iK-Bjg.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-east" start="20261128053300 -0500" stop="20261128063000 -0500">
+    <title lang="en">Good Taste</title>
+    <desc lang="en">Agnes attempts to regain control over the Presidential Dinner, Peggy’s career sparks a rift with William, and Ada runs into Dr. Harris.</desc>
+    <date>2026</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Period Pieces</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/T9Sg9/skwsJWyU2bU2MNunA.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-latino-east" start="20261128053300 -0500" stop="20261128063000 -0500">
+    <title lang="en">Good Taste</title>
+    <desc lang="en">Agnes attempts to regain control over the Presidential Dinner, Peggy’s career sparks a rift with William, and Ada runs into Dr. Harris.</desc>
+    <date>2026</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Period Pieces</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/T9Sg9/skwsJWyU2bU2MNunA.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-zone-east" start="20261128054500 -0500" stop="20261128064700 -0500">
+    <title lang="en">The Out List</title>
+    <desc lang="en">High-profile members of today's LGBTQ community reveal the struggles and triumphs of being "out" in America.</desc>
+    <date>2013</date>
+    <category lang="en">Pop Culture &amp; Celebrities</category>
+    <category lang="en">Documentaries</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/ffv_W/6Pco38Z8ZqLYOM4Ug.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-signature-east" start="20261128054600 -0500" stop="20261128065300 -0500">
+    <title lang="en">Black Maps and Motel Rooms</title>
+    <desc lang="en">Ray, Ani, and Paul take precautionary measures to elude detection and untangle a dark mystery;  Frank deals with the fallout of his betrayal.</desc>
+    <date>2015</date>
+    <category lang="en">Mystery &amp; Suspense</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Investigations</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/b7GpE/qTieWH0AHYhd0ZrQA.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-signature-west" start="20261128025000 -0800" stop="20261128034600 -0800">
+    <title lang="en">Down Will Come</title>
+    <desc lang="en">The detail works a pawn-shop lead to close in on a suspect in the Caspere case. Frank revisits his past to pay for his present.</desc>
+    <date>2015</date>
+    <category lang="en">Mystery &amp; Suspense</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Investigations</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/WA2Y8/77zn97paGofrOl8-g.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-comedy-west" start="20261128025300 -0800" stop="20261128044800 -0800">
+    <title lang="en">Tyler Perry's Madea's Witness Protection</title>
+    <desc lang="en">A clueless Wall Street investment banker, turning state's evidence against the mob, is relocated with his family to Aunt Madea's southern home as part of the Witness Protection program.</desc>
+    <date>2012</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Parody</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-latino-west" start="20261128025800 -0800" stop="20261128045900 -0800">
+    <title lang="en">Deadpool 2</title>
+    <desc lang="en">Wisecracking antihero Deadpool must join forces with a motley collection of mutants in order to save a rebellious teenage mutant from the grip of a powerful enemy: a genetically enhanced super-soldier from the future known as Cable.</desc>
+    <date>2018</date>
+    <category lang="en">Action</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-west" start="20261128025800 -0800" stop="20261128045900 -0800">
+    <title lang="en">Deadpool 2</title>
+    <desc lang="en">Wisecracking antihero Deadpool must join forces with a motley collection of mutants in order to save a rebellious teenage mutant from the grip of a powerful enemy: a genetically enhanced super-soldier from the future known as Cable.</desc>
+    <date>2018</date>
+    <category lang="en">Action</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-comedy-east" start="20261128061600 -0500" stop="20261128064900 -0500">
+    <title lang="en">Pilot</title>
+    <desc lang="en">Suburban couple Frances and Robert consider the state of their marriage after a drama-filled birthday party for their friend Diane.</desc>
+    <date>2016</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Romantic Comedy</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/Ukqr-/hbT0SN9bykGELL0PA.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo2-west" start="20261128032800 -0800" stop="20261128050100 -0800">
+    <title lang="en">Final Destination 3</title>
+    <desc lang="en">Death makes a bloody date with a group of unlucky teens who escaped a fatal roller-coaster crash in this harrowing horror sequel.</desc>
+    <date>2006</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Suspense</category>
+    <category lang="en">Thriller</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-east" start="20261128063000 -0500" stop="20261128084400 -0500">
+    <title lang="en">Rain Man</title>
+    <desc lang="en">A wheeler-dealer is shocked to learn that his father's estate is going to an autistic brother he never knew he had. When he kidnaps his brother from an institution to bargain for a share of the fortune, he discovers something worth far more than money.</desc>
+    <date>1988</date>
+    <category lang="en">Drama</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-latino-east" start="20261128063000 -0500" stop="20261128084400 -0500">
+    <title lang="en">Rain Man</title>
+    <desc lang="en">A wheeler-dealer is shocked to learn that his father's estate is going to an autistic brother he never knew he had. When he kidnaps his brother from an institution to bargain for a share of the fortune, he discovers something worth far more than money.</desc>
+    <date>1988</date>
+    <category lang="en">Drama</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo2-east" start="20261128063500 -0500" stop="20261128082500 -0500">
+    <title lang="en">Final Destination Bloodlines</title>
+    <desc lang="en">Plagued by a violent recurring nightmare, college student Stefani heads home to track down the one person who might be able to break the cycle -- her grandmother, Iris -- and save her family from the grisly demise that inevitably awaits them all.</desc>
+    <date>2025</date>
+    <category lang="en">Horror</category>
+    <category lang="en">Supernatural</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-zone-west" start="20261128034300 -0800" stop="20261128054500 -0800">
+    <title lang="en">Sicario</title>
+    <desc lang="en">An idealistic FBI agent is enlisted by a government task force to aid in the escalating war against drugs at the border area between the U.S. and Mexico.</desc>
+    <date>2015</date>
+    <category lang="en">Action</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Mystery</category>
+    <category lang="en">Thriller</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-signature-west" start="20261128034600 -0800" stop="20261128044600 -0800">
+    <title lang="en">Other Lives</title>
+    <desc lang="en">Ray and Frank contemplate new life choices. Ani and Paul follow a lead up the coast.</desc>
+    <date>2015</date>
+    <category lang="en">Mystery &amp; Suspense</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Investigations</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/-xiJ3/AOAeK7fy-Hn1nuSTg.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-zone-east" start="20261128064700 -0500" stop="20261128074500 -0500">
+    <title lang="en">The Trans List</title>
+    <desc lang="en">Inside the lives and experiences of several prominent transgender Americans, including Caitlyn Jenner, Buck Angel and others.</desc>
+    <date>2016</date>
+    <category lang="en">Documentaries</category>
+    <category lang="en">Change Makers</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/WWWp6/oAI5LKQNLZzo3oCUA.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-comedy-east" start="20261128064900 -0500" stop="20261128071500 -0500">
+    <title lang="en">Next Day</title>
+    <desc lang="en">After balking at signing a lease for her dream gallery, Frances rushes to intercept Robert before he tells the kids she wants a divorce.</desc>
+    <date>2016</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Romantic Comedy</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/zpI24/Lr7pSWSA5x5oTRMYQ.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-signature-east" start="20261128065300 -0500" stop="20261128082000 -0500">
+    <title lang="en">Omega Station</title>
+    <desc lang="en">Frank, Ray and Ani weigh their options as Caspere's killer and the scope of corruption are revealed.</desc>
+    <date>2015</date>
+    <category lang="en">Mystery &amp; Suspense</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Investigations</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/G9kt7/ZouZ9pLtydfKbdubw.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-comedy-east" start="20261128071500 -0500" stop="20261128074500 -0500">
+    <title lang="en">Counseling</title>
+    <desc lang="en">Robert and Frances undergo couples therapy before Frances arrives at an epiphany.</desc>
+    <date>2016</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Romantic Comedy</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/tWLnW/TNxf4v2q59UqvTm6w.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-comedy-east" start="20261128074500 -0500" stop="20261128081500 -0500">
+    <title lang="en">Mediation</title>
+    <desc lang="en">Frances and Robert meet with a mediator. Frances gets emotional at work, while Robert despairs over finances.</desc>
+    <date>2016</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Romantic Comedy</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/N2Jt0/38g9QckP_uP9iWttg.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-zone-east" start="20261128074500 -0500" stop="20261128091100 -0500">
+    <title lang="en">The Stroll</title>
+    <desc lang="en">The history of transgender sex workers in New York City’s Meatpacking District from the 1970s to the early 2000s is chronicled in this powerful and poignant documentary directed by Kristen Lovell and Zackary Drucker (HBO’s The Lady and The Dale).</desc>
+    <date>2023</date>
+    <category lang="en">Documentaries</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/MeGRG/oTG1wO74B3H0ThLRA.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-signature-west" start="20261128044600 -0800" stop="20261128054600 -0800">
+    <title lang="en">Church in Ruins</title>
+    <desc lang="en">Desperate to locate a missing woman with intel about Caspere, Frank meets with Mexican drug dealers; Ani infiltrates an exclusive inner circle, with Ray and Paul keeping close tabs.</desc>
+    <date>2015</date>
+    <category lang="en">Mystery &amp; Suspense</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Investigations</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/1QKNT/UNJh7vpQFFFnVuORw.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-comedy-west" start="20261128044800 -0800" stop="20261128061600 -0800">
+    <title lang="en">Boys Go to Jupiter</title>
+    <desc lang="en">In writer/director Julian Glander's wildly unique adult animated tale, suburban teen Billy 5000 encounters various quirky characters--including a creature he names Donut--while working for a food delivery app.</desc>
+    <date>2024</date>
+    <category lang="en">Adult Animation</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/Pl8jd/Tg97xkXmezvj_-LAQ.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-latino-west" start="20261128045900 -0800" stop="20261128053300 -0800">
+    <title lang="en">Wellness</title>
+    <desc lang="en">To hack the wellness industry, Oobah concocts a beauty serum made of children's tears and a supplement containing lab-grown human meat.</desc>
+    <date>2026</date>
+    <category lang="en">Offbeat</category>
+    <category lang="en">Variety, Talk &amp; Sketch</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Documentaries</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/ZIhHb/wq4f9dH02eScorlIA.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-west" start="20261128045900 -0800" stop="20261128053300 -0800">
+    <title lang="en">Wellness</title>
+    <desc lang="en">To hack the wellness industry, Oobah concocts a beauty serum made of children's tears and a supplement containing lab-grown human meat.</desc>
+    <date>2026</date>
+    <category lang="en">Offbeat</category>
+    <category lang="en">Variety, Talk &amp; Sketch</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Documentaries</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/ZIhHb/wq4f9dH02eScorlIA.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo2-west" start="20261128050100 -0800" stop="20261128063500 -0800">
+    <title lang="en">Final Destination 5</title>
+    <desc lang="en">Thanks to a psychic vision, young sales rep Sam and a handful of his co-workers manage to survive a horrific bridge collapse. But Death doesn't like to be cheated, and one by one the unsuspecting souls end up meeting their gruesome fates.</desc>
+    <date>2011</date>
+    <category lang="en">Horror</category>
+    <category lang="en">Thriller</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-comedy-east" start="20261128081500 -0500" stop="20261128084300 -0500">
+    <title lang="en">Gustav</title>
+    <desc lang="en">Frances discovers Robert has hired a lawyer, and responds in kind. Frances looks to connect with an influential artist.</desc>
+    <date>2016</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Romantic Comedy</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/HAMUy/0X_dX2wq2I3lQ_4tg.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-signature-east" start="20261128082000 -0500" stop="20261128091900 -0500">
+    <title lang="en">The Great War and Modern Memory</title>
+    <desc lang="en">Retired detective Wayne Hays revisits key moments from a haunting murder/kidnapping case that he and his partner Roland West investigated 35 years earlier in a rural Arkansas town.</desc>
+    <date>2019</date>
+    <category lang="en">Mystery &amp; Suspense</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Investigations</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/nFJoq/XRTdUpXUNcULO-BhQ.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo2-east" start="20261128082500 -0500" stop="20261128095800 -0500">
+    <title lang="en">Pitch Perfect 3</title>
+    <desc lang="en">Having won the World Championships of acapella singing and graduated from college, the Bellas have gone their separate ways...until a USO competition brings them together for one final chance to make their mark.</desc>
+    <date>2017</date>
+    <category lang="en">Adventure</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Musical</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-latino-west" start="20261128053300 -0800" stop="20261128063000 -0800">
+    <title lang="en">Good Taste</title>
+    <desc lang="en">Agnes attempts to regain control over the Presidential Dinner, Peggy’s career sparks a rift with William, and Ada runs into Dr. Harris.</desc>
+    <date>2026</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Period Pieces</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/T9Sg9/skwsJWyU2bU2MNunA.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-west" start="20261128053300 -0800" stop="20261128063000 -0800">
+    <title lang="en">Good Taste</title>
+    <desc lang="en">Agnes attempts to regain control over the Presidential Dinner, Peggy’s career sparks a rift with William, and Ada runs into Dr. Harris.</desc>
+    <date>2026</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Period Pieces</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/T9Sg9/skwsJWyU2bU2MNunA.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-comedy-east" start="20261128084300 -0500" stop="20261128091200 -0500">
+    <title lang="en">Christmas</title>
+    <desc lang="en">Frances and Robert try to set their differences aside and make their annual Christmas trip to her parents' house with the kids.</desc>
+    <date>2016</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Romantic Comedy</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/vwFM5/Pnc3QDRq7iSLHlwIA.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-east" start="20261128084400 -0500" stop="20261128094200 -0500">
+    <title lang="en">Good Taste</title>
+    <desc lang="en">Agnes attempts to regain control over the Presidential Dinner, Peggy’s career sparks a rift with William, and Ada runs into Dr. Harris.</desc>
+    <date>2026</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Period Pieces</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/T9Sg9/skwsJWyU2bU2MNunA.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-latino-east" start="20261128084400 -0500" stop="20261128094200 -0500">
+    <title lang="en">Good Taste</title>
+    <desc lang="en">Agnes attempts to regain control over the Presidential Dinner, Peggy’s career sparks a rift with William, and Ada runs into Dr. Harris.</desc>
+    <date>2026</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Period Pieces</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/T9Sg9/skwsJWyU2bU2MNunA.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-zone-west" start="20261128054500 -0800" stop="20261128064700 -0800">
+    <title lang="en">The Out List</title>
+    <desc lang="en">High-profile members of today's LGBTQ community reveal the struggles and triumphs of being "out" in America.</desc>
+    <date>2013</date>
+    <category lang="en">Pop Culture &amp; Celebrities</category>
+    <category lang="en">Documentaries</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/ffv_W/6Pco38Z8ZqLYOM4Ug.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-signature-west" start="20261128054600 -0800" stop="20261128065300 -0800">
+    <title lang="en">Black Maps and Motel Rooms</title>
+    <desc lang="en">Ray, Ani, and Paul take precautionary measures to elude detection and untangle a dark mystery;  Frank deals with the fallout of his betrayal.</desc>
+    <date>2015</date>
+    <category lang="en">Mystery &amp; Suspense</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Investigations</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/b7GpE/qTieWH0AHYhd0ZrQA.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-zone-east" start="20261128091100 -0500" stop="20261128104200 -0500">
+    <title lang="en">The Day the Earth Blew Up: A Looney Tunes Movie</title>
+    <desc lang="en">Porky Pig and Daffy Duck are Earth's only hope when facing the threat of alien invasion in this richly-crafted, hand-drawn 2D animated adventure that marks the first fully-animated feature-length film in Looney Tunes history.</desc>
+    <date>2025</date>
+    <category lang="en">Kids &amp; Family</category>
+    <category lang="en">Family Laughs</category>
+    <category lang="en">Animated Movies</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/YotvU/fvXJ3eFmqN2GVhTBQ.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-comedy-east" start="20261128091200 -0500" stop="20261128094100 -0500">
+    <title lang="en">Weekend Plans</title>
+    <desc lang="en">Frances discovers that Robert has misled her about their financial situation.</desc>
+    <date>2016</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Romantic Comedy</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/4O4Dn/AJQWjzU9fIWvhbvCg.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-comedy-west" start="20261128061600 -0800" stop="20261128064900 -0800">
+    <title lang="en">Pilot</title>
+    <desc lang="en">Suburban couple Frances and Robert consider the state of their marriage after a drama-filled birthday party for their friend Diane.</desc>
+    <date>2016</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Romantic Comedy</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/Ukqr-/hbT0SN9bykGELL0PA.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-signature-east" start="20261128091900 -0500" stop="20261128101700 -0500">
+    <title lang="en">Kiss Tomorrow Goodbye</title>
+    <desc lang="en">As Hays looks back at the aftermath of the 1980 Purcell case in West Finger, AR, including possible evidence left behind at the Devil's Den, two suspects emerge.</desc>
+    <date>2019</date>
+    <category lang="en">Mystery &amp; Suspense</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Investigations</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/CpKMY/lbsxATmR2T0STY2fw.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-latino-west" start="20261128063000 -0800" stop="20261128084400 -0800">
+    <title lang="en">Rain Man</title>
+    <desc lang="en">A wheeler-dealer is shocked to learn that his father's estate is going to an autistic brother he never knew he had. When he kidnaps his brother from an institution to bargain for a share of the fortune, he discovers something worth far more than money.</desc>
+    <date>1988</date>
+    <category lang="en">Drama</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-west" start="20261128063000 -0800" stop="20261128084400 -0800">
+    <title lang="en">Rain Man</title>
+    <desc lang="en">A wheeler-dealer is shocked to learn that his father's estate is going to an autistic brother he never knew he had. When he kidnaps his brother from an institution to bargain for a share of the fortune, he discovers something worth far more than money.</desc>
+    <date>1988</date>
+    <category lang="en">Drama</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo2-west" start="20261128063500 -0800" stop="20261128082500 -0800">
+    <title lang="en">Final Destination Bloodlines</title>
+    <desc lang="en">Plagued by a violent recurring nightmare, college student Stefani heads home to track down the one person who might be able to break the cycle -- her grandmother, Iris -- and save her family from the grisly demise that inevitably awaits them all.</desc>
+    <date>2025</date>
+    <category lang="en">Horror</category>
+    <category lang="en">Supernatural</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-comedy-east" start="20261128094100 -0500" stop="20261128101000 -0500">
+    <title lang="en">Church</title>
+    <desc lang="en">Frances pursues a new job, and is troubled that Robert suddenly seems to be so happy despite the divorce.</desc>
+    <date>2016</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Romantic Comedy</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/IHT1W/gX-oyOKUZbeGEqx4w.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-east" start="20261128094200 -0500" stop="20261128101500 -0500">
+    <title lang="en">Wellness</title>
+    <desc lang="en">To hack the wellness industry, Oobah concocts a beauty serum made of children's tears and a supplement containing lab-grown human meat.</desc>
+    <date>2026</date>
+    <category lang="en">Offbeat</category>
+    <category lang="en">Variety, Talk &amp; Sketch</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Documentaries</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/ZIhHb/wq4f9dH02eScorlIA.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-latino-east" start="20261128094200 -0500" stop="20261128101500 -0500">
+    <title lang="en">Wellness</title>
+    <desc lang="en">To hack the wellness industry, Oobah concocts a beauty serum made of children's tears and a supplement containing lab-grown human meat.</desc>
+    <date>2026</date>
+    <category lang="en">Offbeat</category>
+    <category lang="en">Variety, Talk &amp; Sketch</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Documentaries</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/ZIhHb/wq4f9dH02eScorlIA.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-zone-west" start="20261128064700 -0800" stop="20261128074500 -0800">
+    <title lang="en">The Trans List</title>
+    <desc lang="en">Inside the lives and experiences of several prominent transgender Americans, including Caitlyn Jenner, Buck Angel and others.</desc>
+    <date>2016</date>
+    <category lang="en">Documentaries</category>
+    <category lang="en">Change Makers</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/WWWp6/oAI5LKQNLZzo3oCUA.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-comedy-west" start="20261128064900 -0800" stop="20261128071500 -0800">
+    <title lang="en">Next Day</title>
+    <desc lang="en">After balking at signing a lease for her dream gallery, Frances rushes to intercept Robert before he tells the kids she wants a divorce.</desc>
+    <date>2016</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Romantic Comedy</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/zpI24/Lr7pSWSA5x5oTRMYQ.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-signature-west" start="20261128065300 -0800" stop="20261128082000 -0800">
+    <title lang="en">Omega Station</title>
+    <desc lang="en">Frank, Ray and Ani weigh their options as Caspere's killer and the scope of corruption are revealed.</desc>
+    <date>2015</date>
+    <category lang="en">Mystery &amp; Suspense</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Investigations</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/G9kt7/ZouZ9pLtydfKbdubw.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo2-east" start="20261128095800 -0500" stop="20261128103500 -0500">
+    <title lang="en">The Buffalo Miracle</title>
+    <desc lang="en">The extraordinary story of how strangers found sanctuary inside a McDonald's during a catastrophic blizzard in Buffalo on Christmas Eve.</desc>
+    <date>2026</date>
+    <category lang="en">Sports Stars &amp; Stories</category>
+    <category lang="en">Sports</category>
+    <category lang="en">Documentaries</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/JhP10/OupsOCwB0Ana1pvzw.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-comedy-east" start="20261128101000 -0500" stop="20261128104000 -0500">
+    <title lang="en">Another Party</title>
+    <desc lang="en">Frances takes issue with a lawyer's insinuations of negligence. Dallas makes a connection at Diane and Nick's latest party.</desc>
+    <date>2016</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Romantic Comedy</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/o9vCc/sjv2upyndjFxau1sQ.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-comedy-west" start="20261128071500 -0800" stop="20261128074500 -0800">
+    <title lang="en">Counseling</title>
+    <desc lang="en">Robert and Frances undergo couples therapy before Frances arrives at an epiphany.</desc>
+    <date>2016</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Romantic Comedy</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/tWLnW/TNxf4v2q59UqvTm6w.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-east" start="20261128101500 -0500" stop="20261128120000 -0500">
+    <title lang="en">The Man Who Invented Christmas</title>
+    <desc lang="en">In 1840s London, author Charles Dickens mixes real-life inspirations with his vivid imagination to create the unforgettable characters and timeless tale of "A Christmas Carol," forever changing the holiday season into the celebration we know today.</desc>
+    <date>2017</date>
+    <category lang="en">Biography</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Period Piece</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-latino-east" start="20261128101500 -0500" stop="20261128120000 -0500">
+    <title lang="en">The Man Who Invented Christmas</title>
+    <desc lang="en">In 1840s London, author Charles Dickens mixes real-life inspirations with his vivid imagination to create the unforgettable characters and timeless tale of "A Christmas Carol," forever changing the holiday season into the celebration we know today.</desc>
+    <date>2017</date>
+    <category lang="en">Biography</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Period Piece</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-signature-east" start="20261128101700 -0500" stop="20261128111200 -0500">
+    <title lang="en">The Big Never</title>
+    <desc lang="en">Hays recalls his early romance with Amelia, as well as some cracks in their relationship that surfaced after they married and had children. Ten years after the Purcell crimes took place, new evidence emerges, giving Hays a second chance at vindication.</desc>
+    <date>2019</date>
+    <category lang="en">Mystery &amp; Suspense</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Investigations</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/plZzK/iov7X0rciOQoudm7A.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo2-east" start="20261128103500 -0500" stop="20261128122100 -0500">
+    <title lang="en">How to Make a Killing</title>
+    <desc lang="en">Disowned at birth by his obscenely wealthy family, blue-collar Becket Redfellow (Glen Powell) will stop at nothing to reclaim his inheritance, no matter how many relatives stand in his way.</desc>
+    <date>2026</date>
+    <category lang="en">Dark Comedy</category>
+    <category lang="en">Thrillers</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/2iEpc/2jSsn40kRcOYZLkmQ.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-comedy-east" start="20261128104000 -0500" stop="20261128111100 -0500">
+    <title lang="en">Détente</title>
+    <desc lang="en">Tensions ease between Frances and Robert, but a move by Frances' new lawyer sends Robert on a vengeful path.</desc>
+    <date>2016</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Romantic Comedy</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/CDmhH/YT_YKlkgZx1zdAu6w.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-zone-east" start="20261128104200 -0500" stop="20261128120900 -0500">
+    <title lang="en">Dr. Seuss' Horton Hears A Who!</title>
+    <desc lang="en">The beloved Dr. Seuss tale of a big-hearted elephant who comes to the aid of a very small world is brought to colorful life.</desc>
+    <date>2008</date>
+    <category lang="en">Animated Movies</category>
+    <category lang="en">Kids &amp; Family</category>
+    <category lang="en">Family Laughs</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/P90sv/Bc6Ja6YTSL3a5OaXA.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-comedy-west" start="20261128074500 -0800" stop="20261128081500 -0800">
+    <title lang="en">Mediation</title>
+    <desc lang="en">Frances and Robert meet with a mediator. Frances gets emotional at work, while Robert despairs over finances.</desc>
+    <date>2016</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Romantic Comedy</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/N2Jt0/38g9QckP_uP9iWttg.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-zone-west" start="20261128074500 -0800" stop="20261128091100 -0800">
+    <title lang="en">The Stroll</title>
+    <desc lang="en">The history of transgender sex workers in New York City’s Meatpacking District from the 1970s to the early 2000s is chronicled in this powerful and poignant documentary directed by Kristen Lovell and Zackary Drucker (HBO’s The Lady and The Dale).</desc>
+    <date>2023</date>
+    <category lang="en">Documentaries</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/MeGRG/oTG1wO74B3H0ThLRA.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-comedy-east" start="20261128111100 -0500" stop="20261128114100 -0500">
+    <title lang="en">Night Moves</title>
+    <desc lang="en">Robert and Frances start their new, single lives after signing divorce papers.</desc>
+    <date>2018</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Romantic Comedy</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/mvAA9/eQjemXHXCTZh4e0Ig.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-signature-east" start="20261128111200 -0500" stop="20261128121900 -0500">
+    <title lang="en">The Hour and the Day</title>
+    <desc lang="en">Hays and West see a possible connection between the local church and the Purcell crimes. As the detectives search for one suspect and round up another one for interrogation, Woodard finds himself targeted by a vigilante group.</desc>
+    <date>2019</date>
+    <category lang="en">Mystery &amp; Suspense</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Investigations</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/W1ZfQ/z_hFpwjO2WOEsiNqg.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-comedy-west" start="20261128081500 -0800" stop="20261128084300 -0800">
+    <title lang="en">Gustav</title>
+    <desc lang="en">Frances discovers Robert has hired a lawyer, and responds in kind. Frances looks to connect with an influential artist.</desc>
+    <date>2016</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Romantic Comedy</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/HAMUy/0X_dX2wq2I3lQ_4tg.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-signature-west" start="20261128082000 -0800" stop="20261128091900 -0800">
+    <title lang="en">The Great War and Modern Memory</title>
+    <desc lang="en">Retired detective Wayne Hays revisits key moments from a haunting murder/kidnapping case that he and his partner Roland West investigated 35 years earlier in a rural Arkansas town.</desc>
+    <date>2019</date>
+    <category lang="en">Mystery &amp; Suspense</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Investigations</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/nFJoq/XRTdUpXUNcULO-BhQ.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo2-west" start="20261128082500 -0800" stop="20261128095800 -0800">
+    <title lang="en">Pitch Perfect 3</title>
+    <desc lang="en">Having won the World Championships of acapella singing and graduated from college, the Bellas have gone their separate ways...until a USO competition brings them together for one final chance to make their mark.</desc>
+    <date>2017</date>
+    <category lang="en">Adventure</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Musical</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-comedy-east" start="20261128114100 -0500" stop="20261128121100 -0500">
+    <title lang="en">Happy Now?</title>
+    <desc lang="en">Frances deals with Lila's bad attitude and a surprise setup, while Robert reconnects with the sexually adventurous Janice.</desc>
+    <date>2018</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Romantic Comedy</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/-uPrr/W3AXzH3MmfG9IMunA.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-comedy-west" start="20261128084300 -0800" stop="20261128091200 -0800">
+    <title lang="en">Christmas</title>
+    <desc lang="en">Frances and Robert try to set their differences aside and make their annual Christmas trip to her parents' house with the kids.</desc>
+    <date>2016</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Romantic Comedy</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/vwFM5/Pnc3QDRq7iSLHlwIA.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-latino-west" start="20261128084400 -0800" stop="20261128094200 -0800">
+    <title lang="en">Good Taste</title>
+    <desc lang="en">Agnes attempts to regain control over the Presidential Dinner, Peggy’s career sparks a rift with William, and Ada runs into Dr. Harris.</desc>
+    <date>2026</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Period Pieces</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/T9Sg9/skwsJWyU2bU2MNunA.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-west" start="20261128084400 -0800" stop="20261128094200 -0800">
+    <title lang="en">Good Taste</title>
+    <desc lang="en">Agnes attempts to regain control over the Presidential Dinner, Peggy’s career sparks a rift with William, and Ada runs into Dr. Harris.</desc>
+    <date>2026</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Period Pieces</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/T9Sg9/skwsJWyU2bU2MNunA.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-east" start="20261128120000 -0500" stop="20261128134000 -0500">
+    <title lang="en">Christmas with the Kranks</title>
+    <desc lang="en">Tim Allen and Jamie Lee Curtis star in this Christmas comedy as a married couple who decides to skip Christmas since her daughter is in Peru. But when she decides to come home at the last minute, they must rush to get Christmas set up for her.</desc>
+    <date>2004</date>
+    <category lang="en">Comedy</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-latino-east" start="20261128120000 -0500" stop="20261128134000 -0500">
+    <title lang="en">Christmas with the Kranks</title>
+    <desc lang="en">Tim Allen and Jamie Lee Curtis star in this Christmas comedy as a married couple who decides to skip Christmas since her daughter is in Peru. But when she decides to come home at the last minute, they must rush to get Christmas set up for her.</desc>
+    <date>2004</date>
+    <category lang="en">Comedy</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-zone-east" start="20261128120900 -0500" stop="20261128134700 -0500">
+    <title lang="en">Rise of the Guardians</title>
+    <desc lang="en">Santa Claus and other mythical cohorts unite to save the innocence of childhood from a devious villain in this animated tale.</desc>
+    <date>2012</date>
+    <category lang="en">Action</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Kids &amp; Family</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-comedy-east" start="20261128121100 -0500" stop="20261128124000 -0500">
+    <title lang="en">Worth It</title>
+    <desc lang="en">Frances is inspired by an unknown artist. Robert encounters a sexy, opinionated realtor.</desc>
+    <date>2018</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Romantic Comedy</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/-kFYd/TebbptyH09rH6GjQQ.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-zone-west" start="20261128091100 -0800" stop="20261128104200 -0800">
+    <title lang="en">The Day the Earth Blew Up: A Looney Tunes Movie</title>
+    <desc lang="en">Porky Pig and Daffy Duck are Earth's only hope when facing the threat of alien invasion in this richly-crafted, hand-drawn 2D animated adventure that marks the first fully-animated feature-length film in Looney Tunes history.</desc>
+    <date>2025</date>
+    <category lang="en">Kids &amp; Family</category>
+    <category lang="en">Family Laughs</category>
+    <category lang="en">Animated Movies</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/YotvU/fvXJ3eFmqN2GVhTBQ.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-comedy-west" start="20261128091200 -0800" stop="20261128094100 -0800">
+    <title lang="en">Weekend Plans</title>
+    <desc lang="en">Frances discovers that Robert has misled her about their financial situation.</desc>
+    <date>2016</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Romantic Comedy</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/4O4Dn/AJQWjzU9fIWvhbvCg.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-signature-east" start="20261128121900 -0500" stop="20261128131800 -0500">
+    <title lang="en">If You Have Ghosts</title>
+    <desc lang="en">Wayne finds himself in a no-win situation as new clues emerge. Roland wrestles with how to keep evidence secure as lawyers demand a new investigation. Amelia finds her relationship with Wayne imperiled by her writing aspirations and his jealousy.</desc>
+    <date>2019</date>
+    <category lang="en">Mystery &amp; Suspense</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Investigations</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/mG3vP/3jFE5i2BFdLxAPAlw.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-signature-west" start="20261128091900 -0800" stop="20261128101700 -0800">
+    <title lang="en">Kiss Tomorrow Goodbye</title>
+    <desc lang="en">As Hays looks back at the aftermath of the 1980 Purcell case in West Finger, AR, including possible evidence left behind at the Devil's Den, two suspects emerge.</desc>
+    <date>2019</date>
+    <category lang="en">Mystery &amp; Suspense</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Investigations</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/CpKMY/lbsxATmR2T0STY2fw.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo2-east" start="20261128122100 -0500" stop="20261128125400 -0500">
+    <title lang="en">Wellness</title>
+    <desc lang="en">To hack the wellness industry, Oobah concocts a beauty serum made of children's tears and a supplement containing lab-grown human meat.</desc>
+    <date>2026</date>
+    <category lang="en">Offbeat</category>
+    <category lang="en">Variety, Talk &amp; Sketch</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Documentaries</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/ZIhHb/wq4f9dH02eScorlIA.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-comedy-east" start="20261128124000 -0500" stop="20261128131000 -0500">
+    <title lang="en">Ohio</title>
+    <desc lang="en">In Ohio, Robert and Frances reminisce about happier times and deal with Robert's overbearing sister, Cathy.</desc>
+    <date>2018</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Romantic Comedy</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/v5Izb/e35pHTHApBgLccJ0Q.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-comedy-west" start="20261128094100 -0800" stop="20261128101000 -0800">
+    <title lang="en">Church</title>
+    <desc lang="en">Frances pursues a new job, and is troubled that Robert suddenly seems to be so happy despite the divorce.</desc>
+    <date>2016</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Romantic Comedy</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/IHT1W/gX-oyOKUZbeGEqx4w.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-latino-west" start="20261128094200 -0800" stop="20261128101500 -0800">
+    <title lang="en">Wellness</title>
+    <desc lang="en">To hack the wellness industry, Oobah concocts a beauty serum made of children's tears and a supplement containing lab-grown human meat.</desc>
+    <date>2026</date>
+    <category lang="en">Offbeat</category>
+    <category lang="en">Variety, Talk &amp; Sketch</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Documentaries</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/ZIhHb/wq4f9dH02eScorlIA.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-west" start="20261128094200 -0800" stop="20261128101500 -0800">
+    <title lang="en">Wellness</title>
+    <desc lang="en">To hack the wellness industry, Oobah concocts a beauty serum made of children's tears and a supplement containing lab-grown human meat.</desc>
+    <date>2026</date>
+    <category lang="en">Offbeat</category>
+    <category lang="en">Variety, Talk &amp; Sketch</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Documentaries</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/ZIhHb/wq4f9dH02eScorlIA.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo2-east" start="20261128125400 -0500" stop="20261128134900 -0500">
+    <title lang="en">Good Taste</title>
+    <desc lang="en">Agnes attempts to regain control over the Presidential Dinner, Peggy’s career sparks a rift with William, and Ada runs into Dr. Harris.</desc>
+    <date>2026</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Period Pieces</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/T9Sg9/skwsJWyU2bU2MNunA.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo2-west" start="20261128095800 -0800" stop="20261128103500 -0800">
+    <title lang="en">The Buffalo Miracle</title>
+    <desc lang="en">The extraordinary story of how strangers found sanctuary inside a McDonald's during a catastrophic blizzard in Buffalo on Christmas Eve.</desc>
+    <date>2026</date>
+    <category lang="en">Sports Stars &amp; Stories</category>
+    <category lang="en">Sports</category>
+    <category lang="en">Documentaries</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/JhP10/OupsOCwB0Ana1pvzw.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-comedy-east" start="20261128131000 -0500" stop="20261128134000 -0500">
+    <title lang="en">Breaking the Ice</title>
+    <desc lang="en">Frances learns that Robert has a new woman in his life, and enlists Diane and Dallas to get intel on her before Lila's 13th birthday party.</desc>
+    <date>2018</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Romantic Comedy</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/vwaC9/6jPa11NfWQieZSFjQ.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-comedy-west" start="20261128101000 -0800" stop="20261128104000 -0800">
+    <title lang="en">Another Party</title>
+    <desc lang="en">Frances takes issue with a lawyer's insinuations of negligence. Dallas makes a connection at Diane and Nick's latest party.</desc>
+    <date>2016</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Romantic Comedy</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/o9vCc/sjv2upyndjFxau1sQ.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-latino-west" start="20261128101500 -0800" stop="20261128120000 -0800">
+    <title lang="en">The Man Who Invented Christmas</title>
+    <desc lang="en">In 1840s London, author Charles Dickens mixes real-life inspirations with his vivid imagination to create the unforgettable characters and timeless tale of "A Christmas Carol," forever changing the holiday season into the celebration we know today.</desc>
+    <date>2017</date>
+    <category lang="en">Biography</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Period Piece</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-west" start="20261128101500 -0800" stop="20261128120000 -0800">
+    <title lang="en">The Man Who Invented Christmas</title>
+    <desc lang="en">In 1840s London, author Charles Dickens mixes real-life inspirations with his vivid imagination to create the unforgettable characters and timeless tale of "A Christmas Carol," forever changing the holiday season into the celebration we know today.</desc>
+    <date>2017</date>
+    <category lang="en">Biography</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Period Piece</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-signature-west" start="20261128101700 -0800" stop="20261128111200 -0800">
+    <title lang="en">The Big Never</title>
+    <desc lang="en">Hays recalls his early romance with Amelia, as well as some cracks in their relationship that surfaced after they married and had children. Ten years after the Purcell crimes took place, new evidence emerges, giving Hays a second chance at vindication.</desc>
+    <date>2019</date>
+    <category lang="en">Mystery &amp; Suspense</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Investigations</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/plZzK/iov7X0rciOQoudm7A.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-signature-east" start="20261128131800 -0500" stop="20261128141700 -0500">
+    <title lang="en">Hunters in the Dark</title>
+    <desc lang="en">Wayne and Roland revisit discrepancies in the Purcell case that have been hidden or forgotten over the years. Among those being reevaluated is Tom Purcell, as well as Lucy Purcell's cousin Dan O'Brien.</desc>
+    <date>2019</date>
+    <category lang="en">Mystery &amp; Suspense</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Investigations</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/hI0R8/p2tZuspotz3SnNgIg.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo2-west" start="20261128103500 -0800" stop="20261128122100 -0800">
+    <title lang="en">How to Make a Killing</title>
+    <desc lang="en">Disowned at birth by his obscenely wealthy family, blue-collar Becket Redfellow (Glen Powell) will stop at nothing to reclaim his inheritance, no matter how many relatives stand in his way.</desc>
+    <date>2026</date>
+    <category lang="en">Dark Comedy</category>
+    <category lang="en">Thrillers</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/2iEpc/2jSsn40kRcOYZLkmQ.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-comedy-east" start="20261128134000 -0500" stop="20261128140900 -0500">
+    <title lang="en">Losing It</title>
+    <desc lang="en">Frances and Robert try to establish new ground rules for the kids, and for their own dating behavior.</desc>
+    <date>2018</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Romantic Comedy</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/TZ8qj/KdFOWYLdXKwPwd_Ww.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-comedy-west" start="20261128104000 -0800" stop="20261128111100 -0800">
+    <title lang="en">Détente</title>
+    <desc lang="en">Tensions ease between Frances and Robert, but a move by Frances' new lawyer sends Robert on a vengeful path.</desc>
+    <date>2016</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Romantic Comedy</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/CDmhH/YT_YKlkgZx1zdAu6w.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-east" start="20261128134000 -0500" stop="20261128141800 -0500">
+    <title lang="en">The Hotline</title>
+    <desc lang="en">A portrait of compassion and connection, this documentary short offers a glimpse inside a grassroots overdose prevention hotline.</desc>
+    <date>2026</date>
+    <category lang="en">Documentaries</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/uZRy-/td5GVEvsblXQu9c0g.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-latino-east" start="20261128134000 -0500" stop="20261128141800 -0500">
+    <title lang="en">The Hotline</title>
+    <desc lang="en">A portrait of compassion and connection, this documentary short offers a glimpse inside a grassroots overdose prevention hotline.</desc>
+    <date>2026</date>
+    <category lang="en">Documentaries</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/uZRy-/td5GVEvsblXQu9c0g.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-zone-west" start="20261128104200 -0800" stop="20261128120900 -0800">
+    <title lang="en">Dr. Seuss' Horton Hears A Who!</title>
+    <desc lang="en">The beloved Dr. Seuss tale of a big-hearted elephant who comes to the aid of a very small world is brought to colorful life.</desc>
+    <date>2008</date>
+    <category lang="en">Animated Movies</category>
+    <category lang="en">Kids &amp; Family</category>
+    <category lang="en">Family Laughs</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/P90sv/Bc6Ja6YTSL3a5OaXA.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-zone-east" start="20261128134700 -0500" stop="20261128152200 -0500">
+    <title lang="en">Just Friends</title>
+    <desc lang="en">A recording industry executive comes face to face with his old high school crush -- a woman whose rejection of him turned him into a notorious womanizer. But now he realizes that she is his one true love.</desc>
+    <date>2005</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Romance</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo2-east" start="20261128134900 -0500" stop="20261128161000 -0500">
+    <title lang="en">Red Sparrow</title>
+    <desc lang="en">In this spy thriller, Jennifer Lawrence is Dominika, a former ballerina forced to enter Sparrow School, a government program that thrusts her into a treacherous game of espionage.</desc>
+    <date>2018</date>
+    <category lang="en">Thriller</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-comedy-east" start="20261128140900 -0500" stop="20261128143900 -0500">
+    <title lang="en">Going, Going...Gone</title>
+    <desc lang="en">Frances makes a connection with an art-world bigwig. Robert balks at starting a business with Jackie.</desc>
+    <date>2017</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Romantic Comedy</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/Gyzu9/oXKmPt90VnbmzPfiQ.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-comedy-west" start="20261128111100 -0800" stop="20261128114100 -0800">
+    <title lang="en">Night Moves</title>
+    <desc lang="en">Robert and Frances start their new, single lives after signing divorce papers.</desc>
+    <date>2018</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Romantic Comedy</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/mvAA9/eQjemXHXCTZh4e0Ig.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-signature-west" start="20261128111200 -0800" stop="20261128121900 -0800">
+    <title lang="en">The Hour and the Day</title>
+    <desc lang="en">Hays and West see a possible connection between the local church and the Purcell crimes. As the detectives search for one suspect and round up another one for interrogation, Woodard finds himself targeted by a vigilante group.</desc>
+    <date>2019</date>
+    <category lang="en">Mystery &amp; Suspense</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Investigations</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/W1ZfQ/z_hFpwjO2WOEsiNqg.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-signature-east" start="20261128141700 -0500" stop="20261128151500 -0500">
+    <title lang="en">The Final Country</title>
+    <desc lang="en">Following up on new leads, Wayne and Roland track down a man who left the police force in the midst of the Purcell investigation. Amelia visits Lucy Purcell's best friend in hopes of gaining insights into the whereabouts of the mysterious one-eyed man.</desc>
+    <date>2019</date>
+    <category lang="en">Mystery &amp; Suspense</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Investigations</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/Rkviy/DJ_vKKjIF2_aC5OwA.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-east" start="20261128141800 -0500" stop="20261128162700 -0500">
+    <title lang="en">The Bride!</title>
+    <desc lang="en">From Maggie Gyllenhaal and starring Jessie Buckley and Christian Bale comes THE BRIDE! A bold, iconoclastic take on one of the world's most compelling stories.</desc>
+    <date>2026</date>
+    <category lang="en">Romantic Dramas</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Creatures</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Romance</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/0t5cW/L5YJlof-5XnJK2_Kw.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-latino-east" start="20261128141800 -0500" stop="20261128162700 -0500">
+    <title lang="en">The Bride!</title>
+    <desc lang="en">From Maggie Gyllenhaal and starring Jessie Buckley and Christian Bale comes THE BRIDE! A bold, iconoclastic take on one of the world's most compelling stories.</desc>
+    <date>2026</date>
+    <category lang="en">Romantic Dramas</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Creatures</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Romance</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/0t5cW/L5YJlof-5XnJK2_Kw.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-comedy-east" start="20261128143900 -0500" stop="20261128151100 -0500">
+    <title lang="en">Alone Again, Naturally</title>
+    <desc lang="en">Frances needs Robert's help. Diane falls off the wagon.</desc>
+    <date>2018</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Romantic Comedy</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/3iifi/O9uiQo75NKjZrbm4Q.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-comedy-west" start="20261128114100 -0800" stop="20261128121100 -0800">
+    <title lang="en">Happy Now?</title>
+    <desc lang="en">Frances deals with Lila's bad attitude and a surprise setup, while Robert reconnects with the sexually adventurous Janice.</desc>
+    <date>2018</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Romantic Comedy</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/-uPrr/W3AXzH3MmfG9IMunA.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-latino-west" start="20261128120000 -0800" stop="20261128134000 -0800">
+    <title lang="en">Christmas with the Kranks</title>
+    <desc lang="en">Tim Allen and Jamie Lee Curtis star in this Christmas comedy as a married couple who decides to skip Christmas since her daughter is in Peru. But when she decides to come home at the last minute, they must rush to get Christmas set up for her.</desc>
+    <date>2004</date>
+    <category lang="en">Comedy</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-west" start="20261128120000 -0800" stop="20261128134000 -0800">
+    <title lang="en">Christmas with the Kranks</title>
+    <desc lang="en">Tim Allen and Jamie Lee Curtis star in this Christmas comedy as a married couple who decides to skip Christmas since her daughter is in Peru. But when she decides to come home at the last minute, they must rush to get Christmas set up for her.</desc>
+    <date>2004</date>
+    <category lang="en">Comedy</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-zone-west" start="20261128120900 -0800" stop="20261128134700 -0800">
+    <title lang="en">Rise of the Guardians</title>
+    <desc lang="en">Santa Claus and other mythical cohorts unite to save the innocence of childhood from a devious villain in this animated tale.</desc>
+    <date>2012</date>
+    <category lang="en">Action</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Kids &amp; Family</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-comedy-east" start="20261128151100 -0500" stop="20261128154000 -0500">
+    <title lang="en">Charred</title>
+    <desc lang="en">Frances and Robert discover that their new lives are more complicated than anticipated.</desc>
+    <date>2018</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Romantic Comedy</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/_65pQ/H7rZHFsGxR_JBqkoA.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-comedy-west" start="20261128121100 -0800" stop="20261128124000 -0800">
+    <title lang="en">Worth It</title>
+    <desc lang="en">Frances is inspired by an unknown artist. Robert encounters a sexy, opinionated realtor.</desc>
+    <date>2018</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Romantic Comedy</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/-kFYd/TebbptyH09rH6GjQQ.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-signature-east" start="20261128151500 -0500" stop="20261128163100 -0500">
+    <title lang="en">Now Am Found</title>
+    <desc lang="en">Wayne struggles to hold on to his memories, and his grip on reality, as the truth behind the Purcell case is finally revealed.</desc>
+    <date>2019</date>
+    <category lang="en">Mystery &amp; Suspense</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Investigations</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/X-UJq/zwVc6TrEIw1daArMA.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-signature-west" start="20261128121900 -0800" stop="20261128131800 -0800">
+    <title lang="en">If You Have Ghosts</title>
+    <desc lang="en">Wayne finds himself in a no-win situation as new clues emerge. Roland wrestles with how to keep evidence secure as lawyers demand a new investigation. Amelia finds her relationship with Wayne imperiled by her writing aspirations and his jealousy.</desc>
+    <date>2019</date>
+    <category lang="en">Mystery &amp; Suspense</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Investigations</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/mG3vP/3jFE5i2BFdLxAPAlw.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo2-west" start="20261128122100 -0800" stop="20261128125400 -0800">
+    <title lang="en">Wellness</title>
+    <desc lang="en">To hack the wellness industry, Oobah concocts a beauty serum made of children's tears and a supplement containing lab-grown human meat.</desc>
+    <date>2026</date>
+    <category lang="en">Offbeat</category>
+    <category lang="en">Variety, Talk &amp; Sketch</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Documentaries</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/ZIhHb/wq4f9dH02eScorlIA.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-zone-east" start="20261128152200 -0500" stop="20261128170700 -0500">
+    <title lang="en">Life of the Party</title>
+    <desc lang="en">Melissa McCarthy goes back to college in this raucous comedy that finds her playing a middle-aged mom on campus.</desc>
+    <date>2018</date>
+    <category lang="en">Comedy</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-comedy-east" start="20261128154000 -0500" stop="20261128160900 -0500">
+    <title lang="en">Miami</title>
+    <desc lang="en">Robert admits to pre-wedding jitters as Frances prepares for a weekend getaway with Henry.</desc>
+    <date>2019</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Romantic Comedy</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/q8lrD/EiKCo-LBHWsmwxXpg.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-comedy-west" start="20261128124000 -0800" stop="20261128131000 -0800">
+    <title lang="en">Ohio</title>
+    <desc lang="en">In Ohio, Robert and Frances reminisce about happier times and deal with Robert's overbearing sister, Cathy.</desc>
+    <date>2018</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Romantic Comedy</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/v5Izb/e35pHTHApBgLccJ0Q.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo2-west" start="20261128125400 -0800" stop="20261128134900 -0800">
+    <title lang="en">Good Taste</title>
+    <desc lang="en">Agnes attempts to regain control over the Presidential Dinner, Peggy’s career sparks a rift with William, and Ada runs into Dr. Harris.</desc>
+    <date>2026</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Period Pieces</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/T9Sg9/skwsJWyU2bU2MNunA.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-comedy-east" start="20261128160900 -0500" stop="20261128163800 -0500">
+    <title lang="en">Gaps &amp; Bunches</title>
+    <desc lang="en">Frances and Robert disagree on how to handle Tom's college application process.</desc>
+    <date>2019</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Romantic Comedy</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/-HuCO/9SwR7OpoeWGNWTo9g.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-comedy-west" start="20261128131000 -0800" stop="20261128134000 -0800">
+    <title lang="en">Breaking the Ice</title>
+    <desc lang="en">Frances learns that Robert has a new woman in his life, and enlists Diane and Dallas to get intel on her before Lila's 13th birthday party.</desc>
+    <date>2018</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Romantic Comedy</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/vwaC9/6jPa11NfWQieZSFjQ.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo2-east" start="20261128161000 -0500" stop="20261128175000 -0500">
+    <title lang="en">Knock Knock</title>
+    <desc lang="en">When two gorgeous strangers come knocking on his door, a happily married dad makes the mistake of his life letting them in. What follows is a male fantasy that goes terribly wrong as they seduce him ... and then begin to punish him for his indiscretion.</desc>
+    <date>2015</date>
+    <category lang="en">Crime</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Suspense</category>
+    <category lang="en">Thriller</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-signature-west" start="20261128131800 -0800" stop="20261128141700 -0800">
+    <title lang="en">Hunters in the Dark</title>
+    <desc lang="en">Wayne and Roland revisit discrepancies in the Purcell case that have been hidden or forgotten over the years. Among those being reevaluated is Tom Purcell, as well as Lucy Purcell's cousin Dan O'Brien.</desc>
+    <date>2019</date>
+    <category lang="en">Mystery &amp; Suspense</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Investigations</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/hI0R8/p2tZuspotz3SnNgIg.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-east" start="20261128162700 -0500" stop="20261128170000 -0500">
+    <title lang="en">Wellness</title>
+    <desc lang="en">To hack the wellness industry, Oobah concocts a beauty serum made of children's tears and a supplement containing lab-grown human meat.</desc>
+    <date>2026</date>
+    <category lang="en">Offbeat</category>
+    <category lang="en">Variety, Talk &amp; Sketch</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Documentaries</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/ZIhHb/wq4f9dH02eScorlIA.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-latino-east" start="20261128162700 -0500" stop="20261128170000 -0500">
+    <title lang="en">Wellness</title>
+    <desc lang="en">To hack the wellness industry, Oobah concocts a beauty serum made of children's tears and a supplement containing lab-grown human meat.</desc>
+    <date>2026</date>
+    <category lang="en">Offbeat</category>
+    <category lang="en">Variety, Talk &amp; Sketch</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Documentaries</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/ZIhHb/wq4f9dH02eScorlIA.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-signature-east" start="20261128163100 -0500" stop="20261128173000 -0500">
+    <title lang="en">Night Country: Part 1</title>
+    <desc lang="en">When eight researchers at Tsalal Station vanish without a trace, Danvers orders a search. After handling a workplace dispute, Navarro tries to convince a skeptical Danvers that the men's disappearance is connected to the murder of a local activist.</desc>
+    <date>2024</date>
+    <category lang="en">Crime</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Investigation</category>
+    <category lang="en">Mystery</category>
+    <category lang="en">Thriller</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-comedy-east" start="20261128163800 -0500" stop="20261128170500 -0500">
+    <title lang="en">Bad Manners</title>
+    <desc lang="en">At a dinner party gone wrong, both Robert and Frances' relationships are tested. Frances makes a big effort at work.</desc>
+    <date>2019</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Romantic Comedy</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/3cThg/HWXORSuAP1U7EKNmA.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-comedy-west" start="20261128134000 -0800" stop="20261128140900 -0800">
+    <title lang="en">Losing It</title>
+    <desc lang="en">Frances and Robert try to establish new ground rules for the kids, and for their own dating behavior.</desc>
+    <date>2018</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Romantic Comedy</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/TZ8qj/KdFOWYLdXKwPwd_Ww.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-latino-west" start="20261128134000 -0800" stop="20261128141800 -0800">
+    <title lang="en">The Hotline</title>
+    <desc lang="en">A portrait of compassion and connection, this documentary short offers a glimpse inside a grassroots overdose prevention hotline.</desc>
+    <date>2026</date>
+    <category lang="en">Documentaries</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/uZRy-/td5GVEvsblXQu9c0g.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-west" start="20261128134000 -0800" stop="20261128141800 -0800">
+    <title lang="en">The Hotline</title>
+    <desc lang="en">A portrait of compassion and connection, this documentary short offers a glimpse inside a grassroots overdose prevention hotline.</desc>
+    <date>2026</date>
+    <category lang="en">Documentaries</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/uZRy-/td5GVEvsblXQu9c0g.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-zone-west" start="20261128134700 -0800" stop="20261128152200 -0800">
+    <title lang="en">Just Friends</title>
+    <desc lang="en">A recording industry executive comes face to face with his old high school crush -- a woman whose rejection of him turned him into a notorious womanizer. But now he realizes that she is his one true love.</desc>
+    <date>2005</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Romance</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo2-west" start="20261128134900 -0800" stop="20261128161000 -0800">
+    <title lang="en">Red Sparrow</title>
+    <desc lang="en">In this spy thriller, Jennifer Lawrence is Dominika, a former ballerina forced to enter Sparrow School, a government program that thrusts her into a treacherous game of espionage.</desc>
+    <date>2018</date>
+    <category lang="en">Thriller</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-east" start="20261128170000 -0500" stop="20261128175700 -0500">
+    <title lang="en">Good Taste</title>
+    <desc lang="en">Agnes attempts to regain control over the Presidential Dinner, Peggy’s career sparks a rift with William, and Ada runs into Dr. Harris.</desc>
+    <date>2026</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Period Pieces</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/T9Sg9/skwsJWyU2bU2MNunA.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-latino-east" start="20261128170000 -0500" stop="20261128175700 -0500">
+    <title lang="en">Good Taste</title>
+    <desc lang="en">Agnes attempts to regain control over the Presidential Dinner, Peggy’s career sparks a rift with William, and Ada runs into Dr. Harris.</desc>
+    <date>2026</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Period Pieces</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/T9Sg9/skwsJWyU2bU2MNunA.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-comedy-east" start="20261128170500 -0500" stop="20261128173500 -0500">
+    <title lang="en">Away Games</title>
+    <desc lang="en">Robert and Frances are thrown together for a weekend as they chaperone Lila's away-game.</desc>
+    <date>2019</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Romantic Comedy</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/vOrkm/UekZV717Pi_6--XtQ.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-zone-east" start="20261128170700 -0500" stop="20261128190200 -0500">
+    <title lang="en">American Made</title>
+    <desc lang="en">Tom Cruise stars in an international escapade based on the outrageous, true exploits of hustler and pilot recruited to run one of the biggest covert operations in the US.</desc>
+    <date>2017</date>
+    <category lang="en">Action</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Drama</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-comedy-west" start="20261128140900 -0800" stop="20261128143900 -0800">
+    <title lang="en">Going, Going...Gone</title>
+    <desc lang="en">Frances makes a connection with an art-world bigwig. Robert balks at starting a business with Jackie.</desc>
+    <date>2017</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Romantic Comedy</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/Gyzu9/oXKmPt90VnbmzPfiQ.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-signature-west" start="20261128141700 -0800" stop="20261128151500 -0800">
+    <title lang="en">The Final Country</title>
+    <desc lang="en">Following up on new leads, Wayne and Roland track down a man who left the police force in the midst of the Purcell investigation. Amelia visits Lucy Purcell's best friend in hopes of gaining insights into the whereabouts of the mysterious one-eyed man.</desc>
+    <date>2019</date>
+    <category lang="en">Mystery &amp; Suspense</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Investigations</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/Rkviy/DJ_vKKjIF2_aC5OwA.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-latino-west" start="20261128141800 -0800" stop="20261128162700 -0800">
+    <title lang="en">The Bride!</title>
+    <desc lang="en">From Maggie Gyllenhaal and starring Jessie Buckley and Christian Bale comes THE BRIDE! A bold, iconoclastic take on one of the world's most compelling stories.</desc>
+    <date>2026</date>
+    <category lang="en">Romantic Dramas</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Creatures</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Romance</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/0t5cW/L5YJlof-5XnJK2_Kw.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-west" start="20261128141800 -0800" stop="20261128162700 -0800">
+    <title lang="en">The Bride!</title>
+    <desc lang="en">From Maggie Gyllenhaal and starring Jessie Buckley and Christian Bale comes THE BRIDE! A bold, iconoclastic take on one of the world's most compelling stories.</desc>
+    <date>2026</date>
+    <category lang="en">Romantic Dramas</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Creatures</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Romance</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/0t5cW/L5YJlof-5XnJK2_Kw.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-signature-east" start="20261128173000 -0500" stop="20261128183300 -0500">
+    <title lang="en">Night Country: Part 2</title>
+    <desc lang="en">As Danvers and Prior learn more about Tsalal -- and find an unlikely location for the physical evidence -- Captain Connelly threatens to move the case to Anchorage. Later, Navarro and Danvers find a connection between one of the Tsalal men and Annie.</desc>
+    <date>2024</date>
+    <category lang="en">Crime</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Investigation</category>
+    <category lang="en">Mystery</category>
+    <category lang="en">Thriller</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-comedy-east" start="20261128173500 -0500" stop="20261128180500 -0500">
+    <title lang="en">Knock Knock</title>
+    <desc lang="en">As each of their relationships reach a moment of truth, Frances and Robert face the realities of post-divorce life.</desc>
+    <date>2019</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Romantic Comedy</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/8YhCb/S0-d20_65trCG5hbw.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-comedy-west" start="20261128143900 -0800" stop="20261128151100 -0800">
+    <title lang="en">Alone Again, Naturally</title>
+    <desc lang="en">Frances needs Robert's help. Diane falls off the wagon.</desc>
+    <date>2018</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Romantic Comedy</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/3iifi/O9uiQo75NKjZrbm4Q.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo2-east" start="20261128175000 -0500" stop="20261128193400 -0500">
+    <title lang="en">Cocktail</title>
+    <desc lang="en">Young hotshot bartender Tom Cruise takes the Third Avenue bar scene by storm in this intoxicating drama.</desc>
+    <date>1988</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Romance</category>
+    <category lang="en">Romantic Comedy</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-east" start="20261128175700 -0500" stop="20261128200000 -0500">
+    <title lang="en">Crazy Rich Asians</title>
+    <desc lang="en">A New Yorker accompanies her boyfriend to Singapore to meet his family for the first time, only to discover that he's the scion of one of the country's wealthiest families with a disapproving mother and a slew of socialites trying to steal him away.</desc>
+    <date>2018</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Romance</category>
+    <category lang="en">Romantic Comedy</category>
+    <category lang="en">Romantic Drama</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-latino-east" start="20261128175700 -0500" stop="20261128200000 -0500">
+    <title lang="en">Crazy Rich Asians</title>
+    <desc lang="en">A New Yorker accompanies her boyfriend to Singapore to meet his family for the first time, only to discover that he's the scion of one of the country's wealthiest families with a disapproving mother and a slew of socialites trying to steal him away.</desc>
+    <date>2018</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Romance</category>
+    <category lang="en">Romantic Comedy</category>
+    <category lang="en">Romantic Drama</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-comedy-east" start="20261128180500 -0500" stop="20261128182200 -0500">
+    <title lang="en">Shadows</title>
+    <desc lang="en">During the fragile chapter when a girl faces womanhood, Naya explores her independence on homecoming night away from her watchful family.</desc>
+    <date>2020</date>
+    <category lang="en">Family Relationships</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/xYuYx/xCSdqhTGjLzD583Bw.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-comedy-west" start="20261128151100 -0800" stop="20261128154000 -0800">
+    <title lang="en">Charred</title>
+    <desc lang="en">Frances and Robert discover that their new lives are more complicated than anticipated.</desc>
+    <date>2018</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Romantic Comedy</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/_65pQ/H7rZHFsGxR_JBqkoA.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-signature-west" start="20261128151500 -0800" stop="20261128163100 -0800">
+    <title lang="en">Now Am Found</title>
+    <desc lang="en">Wayne struggles to hold on to his memories, and his grip on reality, as the truth behind the Purcell case is finally revealed.</desc>
+    <date>2019</date>
+    <category lang="en">Mystery &amp; Suspense</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Investigations</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/X-UJq/zwVc6TrEIw1daArMA.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-comedy-east" start="20261128182200 -0500" stop="20261128185100 -0500">
+    <title lang="en">Lockjaw</title>
+    <desc lang="en">After a surprising diagnosis, Alex deals with Ruari’s graduation stunt, her ex’s decision to move to Canada, and a setup with an older man</desc>
+    <date>2026</date>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/ExkaC/Osc71D6UFTdRz10vQ.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-zone-west" start="20261128152200 -0800" stop="20261128170700 -0800">
+    <title lang="en">Life of the Party</title>
+    <desc lang="en">Melissa McCarthy goes back to college in this raucous comedy that finds her playing a middle-aged mom on campus.</desc>
+    <date>2018</date>
+    <category lang="en">Comedy</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-signature-east" start="20261128183300 -0500" stop="20261128193200 -0500">
+    <title lang="en">Night Country: Part 3</title>
+    <desc lang="en">While Hank leads the search for Clark, Prior asks Danvers about the murder-suicide case that drove a wedge between her and Navarro. Then, Navarro and Danvers seek out a local hairdresser for insight on Annie -- which leads to a tip.</desc>
+    <date>2024</date>
+    <category lang="en">Crime</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Investigation</category>
+    <category lang="en">Mystery</category>
+    <category lang="en">Thriller</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-comedy-west" start="20261128154000 -0800" stop="20261128160900 -0800">
+    <title lang="en">Miami</title>
+    <desc lang="en">Robert admits to pre-wedding jitters as Frances prepares for a weekend getaway with Henry.</desc>
+    <date>2019</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Romantic Comedy</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/q8lrD/EiKCo-LBHWsmwxXpg.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-comedy-east" start="20261128185100 -0500" stop="20261128192000 -0500">
+    <title lang="en">Wagon Burner</title>
+    <desc lang="en">Alex has a delicate meeting with the agency’s most lucrative author, tries to get Ruari to open up, and reconnects with Patrick.</desc>
+    <date>2026</date>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/sJ-EX/lsbuU6fM4CVqcK_dg.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-zone-east" start="20261128190200 -0500" stop="20261128210200 -0500">
+    <title lang="en">Greenland</title>
+    <desc lang="en">Gerard Butler stars as a man who embarks on a harrowing journey of survival with his family in this epic end-of-the-world thriller.</desc>
+    <date>2020</date>
+    <category lang="en">Action</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Suspense</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-comedy-west" start="20261128160900 -0800" stop="20261128163800 -0800">
+    <title lang="en">Gaps &amp; Bunches</title>
+    <desc lang="en">Frances and Robert disagree on how to handle Tom's college application process.</desc>
+    <date>2019</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Romantic Comedy</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/-HuCO/9SwR7OpoeWGNWTo9g.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo2-west" start="20261128161000 -0800" stop="20261128175000 -0800">
+    <title lang="en">Knock Knock</title>
+    <desc lang="en">When two gorgeous strangers come knocking on his door, a happily married dad makes the mistake of his life letting them in. What follows is a male fantasy that goes terribly wrong as they seduce him ... and then begin to punish him for his indiscretion.</desc>
+    <date>2015</date>
+    <category lang="en">Crime</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Suspense</category>
+    <category lang="en">Thriller</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-comedy-east" start="20261128192000 -0500" stop="20261128194900 -0500">
+    <title lang="en">Welcome to the Rat's Nest</title>
+    <desc lang="en">At the Frankfurt Book Fair, Alex tries to keep Ruari occupied while being bombarded by the viral success of Malcolm’s self-published novel.</desc>
+    <date>2026</date>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/BhL8z/NRKNVJUbmdXmm7Hcw.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-latino-west" start="20261128162700 -0800" stop="20261128170000 -0800">
+    <title lang="en">Wellness</title>
+    <desc lang="en">To hack the wellness industry, Oobah concocts a beauty serum made of children's tears and a supplement containing lab-grown human meat.</desc>
+    <date>2026</date>
+    <category lang="en">Offbeat</category>
+    <category lang="en">Variety, Talk &amp; Sketch</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Documentaries</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/ZIhHb/wq4f9dH02eScorlIA.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-west" start="20261128162700 -0800" stop="20261128170000 -0800">
+    <title lang="en">Wellness</title>
+    <desc lang="en">To hack the wellness industry, Oobah concocts a beauty serum made of children's tears and a supplement containing lab-grown human meat.</desc>
+    <date>2026</date>
+    <category lang="en">Offbeat</category>
+    <category lang="en">Variety, Talk &amp; Sketch</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Documentaries</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/ZIhHb/wq4f9dH02eScorlIA.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-signature-west" start="20261128163100 -0800" stop="20261128173000 -0800">
+    <title lang="en">Night Country: Part 1</title>
+    <desc lang="en">When eight researchers at Tsalal Station vanish without a trace, Danvers orders a search. After handling a workplace dispute, Navarro tries to convince a skeptical Danvers that the men's disappearance is connected to the murder of a local activist.</desc>
+    <date>2024</date>
+    <category lang="en">Crime</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Investigation</category>
+    <category lang="en">Mystery</category>
+    <category lang="en">Thriller</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-signature-east" start="20261128193200 -0500" stop="20261128203300 -0500">
+    <title lang="en">Night Country: Part 4</title>
+    <desc lang="en">When Julia's mental health struggles resurface, Navarro brings her to a local facility, promising that this time will be better. Later, Danvers and Navarro confirm the location of Annie's murder, and Danvers levies a harsh punishment on Leah.</desc>
+    <date>2024</date>
+    <category lang="en">Crime</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Investigation</category>
+    <category lang="en">Mystery</category>
+    <category lang="en">Thriller</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo2-east" start="20261128193400 -0500" stop="20261128202900 -0500">
+    <title lang="en">Good Taste</title>
+    <desc lang="en">Agnes attempts to regain control over the Presidential Dinner, Peggy’s career sparks a rift with William, and Ada runs into Dr. Harris.</desc>
+    <date>2026</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Period Pieces</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/T9Sg9/skwsJWyU2bU2MNunA.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-comedy-west" start="20261128163800 -0800" stop="20261128170500 -0800">
+    <title lang="en">Bad Manners</title>
+    <desc lang="en">At a dinner party gone wrong, both Robert and Frances' relationships are tested. Frances makes a big effort at work.</desc>
+    <date>2019</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Romantic Comedy</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/3cThg/HWXORSuAP1U7EKNmA.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-comedy-east" start="20261128194900 -0500" stop="20261128201800 -0500">
+    <title lang="en">Michael Man</title>
+    <desc lang="en">Sam gives Alex the unsavory task of getting Malcom back as a client. Later, Alex leans on Michael at a family dinner.</desc>
+    <date>2026</date>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/DWo9K/GPse4g2WlWzJVkNBQ.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-east" start="20261128200000 -0500" stop="20261128215300 -0500">
+    <title lang="en">The Magic Faraway Tree</title>
+    <desc lang="en">This family tale follows Polly and Tim and their children Beth, Joe and Fran – a modern family who are forced to relocate to the remote English countryside, where they discover a magical tree and its extraordinary and eccentric residents.</desc>
+    <date>2026</date>
+    <category lang="en">Family Adventures</category>
+    <category lang="en">Epic Quests</category>
+    <category lang="en">Fantasy &amp; Sci-Fi</category>
+    <category lang="en">Kids &amp; Family</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/-PAbp/nrYvgG3u-pXaUDAog.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-latino-east" start="20261128200000 -0500" stop="20261128215300 -0500">
+    <title lang="en">The Magic Faraway Tree</title>
+    <desc lang="en">This family tale follows Polly and Tim and their children Beth, Joe and Fran – a modern family who are forced to relocate to the remote English countryside, where they discover a magical tree and its extraordinary and eccentric residents.</desc>
+    <date>2026</date>
+    <category lang="en">Family Adventures</category>
+    <category lang="en">Epic Quests</category>
+    <category lang="en">Fantasy &amp; Sci-Fi</category>
+    <category lang="en">Kids &amp; Family</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/-PAbp/nrYvgG3u-pXaUDAog.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-latino-west" start="20261128170000 -0800" stop="20261128175700 -0800">
+    <title lang="en">Good Taste</title>
+    <desc lang="en">Agnes attempts to regain control over the Presidential Dinner, Peggy’s career sparks a rift with William, and Ada runs into Dr. Harris.</desc>
+    <date>2026</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Period Pieces</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/T9Sg9/skwsJWyU2bU2MNunA.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-west" start="20261128170000 -0800" stop="20261128175700 -0800">
+    <title lang="en">Good Taste</title>
+    <desc lang="en">Agnes attempts to regain control over the Presidential Dinner, Peggy’s career sparks a rift with William, and Ada runs into Dr. Harris.</desc>
+    <date>2026</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Period Pieces</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/T9Sg9/skwsJWyU2bU2MNunA.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-comedy-west" start="20261128170500 -0800" stop="20261128173500 -0800">
+    <title lang="en">Away Games</title>
+    <desc lang="en">Robert and Frances are thrown together for a weekend as they chaperone Lila's away-game.</desc>
+    <date>2019</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Romantic Comedy</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/vOrkm/UekZV717Pi_6--XtQ.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-zone-west" start="20261128170700 -0800" stop="20261128190200 -0800">
+    <title lang="en">American Made</title>
+    <desc lang="en">Tom Cruise stars in an international escapade based on the outrageous, true exploits of hustler and pilot recruited to run one of the biggest covert operations in the US.</desc>
+    <date>2017</date>
+    <category lang="en">Action</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Drama</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-comedy-east" start="20261128201800 -0500" stop="20261128204800 -0500">
+    <title lang="en">The Holiday</title>
+    <desc lang="en">In Ibiza for Sam and Frank's 10-year anniversary, Alex finds herself on a couples' holiday with her ex-husband Lorcan and ex-fling Patrick, both of their new girlfriends, and Ruari as her plus one.</desc>
+    <date>2026</date>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/SdDmD/sXj7br1gn3j6oYRHw.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo2-east" start="20261128202900 -0500" stop="20261128223200 -0500">
+    <title lang="en">The Death of Robin Hood</title>
+    <desc lang="en">Grappling with his past after a life of crime and murder, Robin Hood finds himself gravely injured after a battle he thought would be his last. In the hands of a mysterious woman, he is offered a chance at salvation.</desc>
+    <date>2026</date>
+    <category lang="en">Action</category>
+    <category lang="en">Period Pieces</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/3Iqra/qhQtYdeD6h6OnP2AA.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-signature-west" start="20261128173000 -0800" stop="20261128183300 -0800">
+    <title lang="en">Night Country: Part 2</title>
+    <desc lang="en">As Danvers and Prior learn more about Tsalal -- and find an unlikely location for the physical evidence -- Captain Connelly threatens to move the case to Anchorage. Later, Navarro and Danvers find a connection between one of the Tsalal men and Annie.</desc>
+    <date>2024</date>
+    <category lang="en">Crime</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Investigation</category>
+    <category lang="en">Mystery</category>
+    <category lang="en">Thriller</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-signature-east" start="20261128203300 -0500" stop="20261128213700 -0500">
+    <title lang="en">Night Country: Part 5</title>
+    <desc lang="en">As Prior digs into the links between Tsalal and mining company Silver Sky, Navarro rescues Leah from a local protest that has turned violent. At a meeting with Silver Sky exec Kate McKitterick, Danvers is warned not to pursue the case any further.</desc>
+    <date>2024</date>
+    <category lang="en">Crime</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Investigation</category>
+    <category lang="en">Mystery</category>
+    <category lang="en">Thriller</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-comedy-west" start="20261128173500 -0800" stop="20261128180500 -0800">
+    <title lang="en">Knock Knock</title>
+    <desc lang="en">As each of their relationships reach a moment of truth, Frances and Robert face the realities of post-divorce life.</desc>
+    <date>2019</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Romantic Comedy</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/8YhCb/S0-d20_65trCG5hbw.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-comedy-east" start="20261128204800 -0500" stop="20261128211700 -0500">
+    <title lang="en">Desperate Measures</title>
+    <desc lang="en">After getting asked out on a date, Alex tries to make sense of where things stand with Patrick. As Ruari starts his internship at the agency, Sam and Alex attempt to win back Malcolm before Grayson swoops in.</desc>
+    <date>2026</date>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/izW2R/wJlRIUAz4r227khfg.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo2-west" start="20261128175000 -0800" stop="20261128193400 -0800">
+    <title lang="en">Cocktail</title>
+    <desc lang="en">Young hotshot bartender Tom Cruise takes the Third Avenue bar scene by storm in this intoxicating drama.</desc>
+    <date>1988</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Romance</category>
+    <category lang="en">Romantic Comedy</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-latino-west" start="20261128175700 -0800" stop="20261128200000 -0800">
+    <title lang="en">Crazy Rich Asians</title>
+    <desc lang="en">A New Yorker accompanies her boyfriend to Singapore to meet his family for the first time, only to discover that he's the scion of one of the country's wealthiest families with a disapproving mother and a slew of socialites trying to steal him away.</desc>
+    <date>2018</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Romance</category>
+    <category lang="en">Romantic Comedy</category>
+    <category lang="en">Romantic Drama</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-west" start="20261128175700 -0800" stop="20261128200000 -0800">
+    <title lang="en">Crazy Rich Asians</title>
+    <desc lang="en">A New Yorker accompanies her boyfriend to Singapore to meet his family for the first time, only to discover that he's the scion of one of the country's wealthiest families with a disapproving mother and a slew of socialites trying to steal him away.</desc>
+    <date>2018</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Romance</category>
+    <category lang="en">Romantic Comedy</category>
+    <category lang="en">Romantic Drama</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-zone-east" start="20261128210200 -0500" stop="20261128224100 -0500">
+    <title lang="en">Greenland 2: Migration</title>
+    <desc lang="en">In the aftermath of a comet strike that decimated most of the earth, this sequel follows the Garrity family as they are forced to leave the safety of their bunker in Greenland to traverse a shattered world in search of a new home.</desc>
+    <date>2026</date>
+    <category lang="en">Action</category>
+    <category lang="en">High Octane Thrillers</category>
+    <category lang="en">Fantasy &amp; Sci-Fi</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/DbhZW/D5RZu7qbyoPFgfDYQ.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-comedy-west" start="20261128180500 -0800" stop="20261128182200 -0800">
+    <title lang="en">Shadows</title>
+    <desc lang="en">During the fragile chapter when a girl faces womanhood, Naya explores her independence on homecoming night away from her watchful family.</desc>
+    <date>2020</date>
+    <category lang="en">Family Relationships</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/xYuYx/xCSdqhTGjLzD583Bw.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-comedy-east" start="20261128211700 -0500" stop="20261128215000 -0500">
+    <title lang="en">Last Night on Earth</title>
+    <desc lang="en">While Alex finally starts to feel like she has it all, Sam navigates new insecurities in her marriage.</desc>
+    <date>2026</date>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/fOVwb/l1NapU2kq_iFCM_nQ.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-comedy-west" start="20261128182200 -0800" stop="20261128185100 -0800">
+    <title lang="en">Lockjaw</title>
+    <desc lang="en">After a surprising diagnosis, Alex deals with Ruari’s graduation stunt, her ex’s decision to move to Canada, and a setup with an older man</desc>
+    <date>2026</date>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/ExkaC/Osc71D6UFTdRz10vQ.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-signature-west" start="20261128183300 -0800" stop="20261128193200 -0800">
+    <title lang="en">Night Country: Part 3</title>
+    <desc lang="en">While Hank leads the search for Clark, Prior asks Danvers about the murder-suicide case that drove a wedge between her and Navarro. Then, Navarro and Danvers seek out a local hairdresser for insight on Annie -- which leads to a tip.</desc>
+    <date>2024</date>
+    <category lang="en">Crime</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Investigation</category>
+    <category lang="en">Mystery</category>
+    <category lang="en">Thriller</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-signature-east" start="20261128213700 -0500" stop="20261128225300 -0500">
+    <title lang="en">Night Country: Part 6</title>
+    <desc lang="en">In the midst of a bad storm, Danvers and Navarro find themselves stuck at Tsalal with no electricity or means of contact. As the truth about what happened to Annie and the Tsalal men unfolds, Navarro and Danvers each confront the demons from their past.</desc>
+    <date>2024</date>
+    <category lang="en">Crime</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Investigation</category>
+    <category lang="en">Mystery</category>
+    <category lang="en">Thriller</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-comedy-east" start="20261128215000 -0500" stop="20261128232300 -0500">
+    <title lang="en">Pitch Perfect 3</title>
+    <desc lang="en">Having won the World Championships of acapella singing and graduated from college, the Bellas have gone their separate ways...until a USO competition brings them together for one final chance to make their mark.</desc>
+    <date>2017</date>
+    <category lang="en">Adventure</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Musical</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-comedy-west" start="20261128185100 -0800" stop="20261128192000 -0800">
+    <title lang="en">Wagon Burner</title>
+    <desc lang="en">Alex has a delicate meeting with the agency’s most lucrative author, tries to get Ruari to open up, and reconnects with Patrick.</desc>
+    <date>2026</date>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/sJ-EX/lsbuU6fM4CVqcK_dg.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-east" start="20261128215300 -0500" stop="20261128222800 -0500">
+    <title lang="en">Wellness</title>
+    <desc lang="en">To hack the wellness industry, Oobah concocts a beauty serum made of children's tears and a supplement containing lab-grown human meat.</desc>
+    <date>2026</date>
+    <category lang="en">Offbeat</category>
+    <category lang="en">Variety, Talk &amp; Sketch</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Documentaries</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/ZIhHb/wq4f9dH02eScorlIA.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-latino-east" start="20261128215300 -0500" stop="20261128222800 -0500">
+    <title lang="en">Wellness</title>
+    <desc lang="en">To hack the wellness industry, Oobah concocts a beauty serum made of children's tears and a supplement containing lab-grown human meat.</desc>
+    <date>2026</date>
+    <category lang="en">Offbeat</category>
+    <category lang="en">Variety, Talk &amp; Sketch</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Documentaries</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/ZIhHb/wq4f9dH02eScorlIA.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-zone-west" start="20261128190200 -0800" stop="20261128210200 -0800">
+    <title lang="en">Greenland</title>
+    <desc lang="en">Gerard Butler stars as a man who embarks on a harrowing journey of survival with his family in this epic end-of-the-world thriller.</desc>
+    <date>2020</date>
+    <category lang="en">Action</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Suspense</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-comedy-west" start="20261128192000 -0800" stop="20261128194900 -0800">
+    <title lang="en">Welcome to the Rat's Nest</title>
+    <desc lang="en">At the Frankfurt Book Fair, Alex tries to keep Ruari occupied while being bombarded by the viral success of Malcolm’s self-published novel.</desc>
+    <date>2026</date>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/BhL8z/NRKNVJUbmdXmm7Hcw.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-east" start="20261128222800 -0500" stop="20261128232600 -0500">
+    <title lang="en">Good Taste</title>
+    <desc lang="en">Agnes attempts to regain control over the Presidential Dinner, Peggy’s career sparks a rift with William, and Ada runs into Dr. Harris.</desc>
+    <date>2026</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Period Pieces</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/T9Sg9/skwsJWyU2bU2MNunA.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-latino-east" start="20261128222800 -0500" stop="20261128232600 -0500">
+    <title lang="en">Good Taste</title>
+    <desc lang="en">Agnes attempts to regain control over the Presidential Dinner, Peggy’s career sparks a rift with William, and Ada runs into Dr. Harris.</desc>
+    <date>2026</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Period Pieces</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/T9Sg9/skwsJWyU2bU2MNunA.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-signature-west" start="20261128193200 -0800" stop="20261128203300 -0800">
+    <title lang="en">Night Country: Part 4</title>
+    <desc lang="en">When Julia's mental health struggles resurface, Navarro brings her to a local facility, promising that this time will be better. Later, Danvers and Navarro confirm the location of Annie's murder, and Danvers levies a harsh punishment on Leah.</desc>
+    <date>2024</date>
+    <category lang="en">Crime</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Investigation</category>
+    <category lang="en">Mystery</category>
+    <category lang="en">Thriller</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo2-east" start="20261128223200 -0500" stop="20261129001100 -0500">
+    <title lang="en">Stoker</title>
+    <desc lang="en">Reeling from the death of her beloved father, an introverted young girl is changed by the sudden arrival of a mysterious relative. Although she's wary of "Uncle Charlie," her unstable mother lets him move in, leading all of them down a dark, twisted path.</desc>
+    <date>2013</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Thriller</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo2-west" start="20261128193400 -0800" stop="20261128202900 -0800">
+    <title lang="en">Good Taste</title>
+    <desc lang="en">Agnes attempts to regain control over the Presidential Dinner, Peggy’s career sparks a rift with William, and Ada runs into Dr. Harris.</desc>
+    <date>2026</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Period Pieces</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/T9Sg9/skwsJWyU2bU2MNunA.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-zone-east" start="20261128224100 -0500" stop="20261129001300 -0500">
+    <title lang="en">Normal</title>
+    <desc lang="en">After a botched bank robbery, the interim sheriff in a small Minnesota town uncovers a conspiracy involving an international crime syndicate.</desc>
+    <date>2026</date>
+    <category lang="en">High Octane Thrillers</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Action</category>
+    <category lang="en">Big Screen Crime</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/QNrSy/sg-yqCvwcx1fLGq1A.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-comedy-west" start="20261128194900 -0800" stop="20261128201800 -0800">
+    <title lang="en">Michael Man</title>
+    <desc lang="en">Sam gives Alex the unsavory task of getting Malcom back as a client. Later, Alex leans on Michael at a family dinner.</desc>
+    <date>2026</date>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/DWo9K/GPse4g2WlWzJVkNBQ.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-signature-east" start="20261128225300 -0500" stop="20261128233300 -0500">
+    <title lang="en">The Hotline</title>
+    <desc lang="en">A portrait of compassion and connection, this documentary short offers a glimpse inside a grassroots overdose prevention hotline.</desc>
+    <date>2026</date>
+    <category lang="en">Documentaries</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/uZRy-/td5GVEvsblXQu9c0g.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-latino-west" start="20261128200000 -0800" stop="20261128215300 -0800">
+    <title lang="en">The Magic Faraway Tree</title>
+    <desc lang="en">This family tale follows Polly and Tim and their children Beth, Joe and Fran – a modern family who are forced to relocate to the remote English countryside, where they discover a magical tree and its extraordinary and eccentric residents.</desc>
+    <date>2026</date>
+    <category lang="en">Family Adventures</category>
+    <category lang="en">Epic Quests</category>
+    <category lang="en">Fantasy &amp; Sci-Fi</category>
+    <category lang="en">Kids &amp; Family</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/-PAbp/nrYvgG3u-pXaUDAog.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-west" start="20261128200000 -0800" stop="20261128215300 -0800">
+    <title lang="en">The Magic Faraway Tree</title>
+    <desc lang="en">This family tale follows Polly and Tim and their children Beth, Joe and Fran – a modern family who are forced to relocate to the remote English countryside, where they discover a magical tree and its extraordinary and eccentric residents.</desc>
+    <date>2026</date>
+    <category lang="en">Family Adventures</category>
+    <category lang="en">Epic Quests</category>
+    <category lang="en">Fantasy &amp; Sci-Fi</category>
+    <category lang="en">Kids &amp; Family</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/-PAbp/nrYvgG3u-pXaUDAog.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-comedy-west" start="20261128201800 -0800" stop="20261128204800 -0800">
+    <title lang="en">The Holiday</title>
+    <desc lang="en">In Ibiza for Sam and Frank's 10-year anniversary, Alex finds herself on a couples' holiday with her ex-husband Lorcan and ex-fling Patrick, both of their new girlfriends, and Ruari as her plus one.</desc>
+    <date>2026</date>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/SdDmD/sXj7br1gn3j6oYRHw.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-comedy-east" start="20261128232300 -0500" stop="20261129010800 -0500">
+    <title lang="en">Life of the Party</title>
+    <desc lang="en">Melissa McCarthy goes back to college in this raucous comedy that finds her playing a middle-aged mom on campus.</desc>
+    <date>2018</date>
+    <category lang="en">Comedy</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-east" start="20261128232600 -0500" stop="20261129011500 -0500">
+    <title lang="en">The Roses</title>
+    <desc lang="en">Life seems easy for picture-perfect couple Ivy (Olivia Colman) and Theo (Benedict Cumberbatch). But beneath the façade of their supposed ideal life, a storm is brewing in this reimagining of the 1989 classic film The War of the Roses.</desc>
+    <date>2025</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/O9tn2/6gfNRBEuP95jRrmmQ.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-latino-east" start="20261128232600 -0500" stop="20261129011500 -0500">
+    <title lang="en">The Roses</title>
+    <desc lang="en">Life seems easy for picture-perfect couple Ivy (Olivia Colman) and Theo (Benedict Cumberbatch). But beneath the façade of their supposed ideal life, a storm is brewing in this reimagining of the 1989 classic film The War of the Roses.</desc>
+    <date>2025</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/O9tn2/6gfNRBEuP95jRrmmQ.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo2-west" start="20261128202900 -0800" stop="20261128223200 -0800">
+    <title lang="en">The Death of Robin Hood</title>
+    <desc lang="en">Grappling with his past after a life of crime and murder, Robin Hood finds himself gravely injured after a battle he thought would be his last. In the hands of a mysterious woman, he is offered a chance at salvation.</desc>
+    <date>2026</date>
+    <category lang="en">Action</category>
+    <category lang="en">Period Pieces</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/3Iqra/qhQtYdeD6h6OnP2AA.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-signature-east" start="20261128233300 -0500" stop="20261129001200 -0500">
+    <title lang="en">The Buffalo Miracle</title>
+    <desc lang="en">The extraordinary story of how strangers found sanctuary inside a McDonald's during a catastrophic blizzard in Buffalo on Christmas Eve.</desc>
+    <date>2026</date>
+    <category lang="en">Sports Stars &amp; Stories</category>
+    <category lang="en">Sports</category>
+    <category lang="en">Documentaries</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/JhP10/OupsOCwB0Ana1pvzw.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-signature-west" start="20261128203300 -0800" stop="20261128213700 -0800">
+    <title lang="en">Night Country: Part 5</title>
+    <desc lang="en">As Prior digs into the links between Tsalal and mining company Silver Sky, Navarro rescues Leah from a local protest that has turned violent. At a meeting with Silver Sky exec Kate McKitterick, Danvers is warned not to pursue the case any further.</desc>
+    <date>2024</date>
+    <category lang="en">Crime</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Investigation</category>
+    <category lang="en">Mystery</category>
+    <category lang="en">Thriller</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-comedy-west" start="20261128204800 -0800" stop="20261128211700 -0800">
+    <title lang="en">Desperate Measures</title>
+    <desc lang="en">After getting asked out on a date, Alex tries to make sense of where things stand with Patrick. As Ruari starts his internship at the agency, Sam and Alex attempt to win back Malcolm before Grayson swoops in.</desc>
+    <date>2026</date>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/izW2R/wJlRIUAz4r227khfg.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-zone-west" start="20261128210200 -0800" stop="20261128224100 -0800">
+    <title lang="en">Greenland 2: Migration</title>
+    <desc lang="en">In the aftermath of a comet strike that decimated most of the earth, this sequel follows the Garrity family as they are forced to leave the safety of their bunker in Greenland to traverse a shattered world in search of a new home.</desc>
+    <date>2026</date>
+    <category lang="en">Action</category>
+    <category lang="en">High Octane Thrillers</category>
+    <category lang="en">Fantasy &amp; Sci-Fi</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/DbhZW/D5RZu7qbyoPFgfDYQ.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-comedy-west" start="20261128211700 -0800" stop="20261128215000 -0800">
+    <title lang="en">Last Night on Earth</title>
+    <desc lang="en">While Alex finally starts to feel like she has it all, Sam navigates new insecurities in her marriage.</desc>
+    <date>2026</date>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/fOVwb/l1NapU2kq_iFCM_nQ.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-signature-west" start="20261128213700 -0800" stop="20261128225300 -0800">
+    <title lang="en">Night Country: Part 6</title>
+    <desc lang="en">In the midst of a bad storm, Danvers and Navarro find themselves stuck at Tsalal with no electricity or means of contact. As the truth about what happened to Annie and the Tsalal men unfolds, Navarro and Danvers each confront the demons from their past.</desc>
+    <date>2024</date>
+    <category lang="en">Crime</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Investigation</category>
+    <category lang="en">Mystery</category>
+    <category lang="en">Thriller</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-comedy-west" start="20261128215000 -0800" stop="20261128232300 -0800">
+    <title lang="en">Pitch Perfect 3</title>
+    <desc lang="en">Having won the World Championships of acapella singing and graduated from college, the Bellas have gone their separate ways...until a USO competition brings them together for one final chance to make their mark.</desc>
+    <date>2017</date>
+    <category lang="en">Adventure</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Musical</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-latino-west" start="20261128215300 -0800" stop="20261128222800 -0800">
+    <title lang="en">Wellness</title>
+    <desc lang="en">To hack the wellness industry, Oobah concocts a beauty serum made of children's tears and a supplement containing lab-grown human meat.</desc>
+    <date>2026</date>
+    <category lang="en">Offbeat</category>
+    <category lang="en">Variety, Talk &amp; Sketch</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Documentaries</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/ZIhHb/wq4f9dH02eScorlIA.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-west" start="20261128215300 -0800" stop="20261128222800 -0800">
+    <title lang="en">Wellness</title>
+    <desc lang="en">To hack the wellness industry, Oobah concocts a beauty serum made of children's tears and a supplement containing lab-grown human meat.</desc>
+    <date>2026</date>
+    <category lang="en">Offbeat</category>
+    <category lang="en">Variety, Talk &amp; Sketch</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Documentaries</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/ZIhHb/wq4f9dH02eScorlIA.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-latino-west" start="20261128222800 -0800" stop="20261128232600 -0800">
+    <title lang="en">Good Taste</title>
+    <desc lang="en">Agnes attempts to regain control over the Presidential Dinner, Peggy’s career sparks a rift with William, and Ada runs into Dr. Harris.</desc>
+    <date>2026</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Period Pieces</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/T9Sg9/skwsJWyU2bU2MNunA.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-west" start="20261128222800 -0800" stop="20261128232600 -0800">
+    <title lang="en">Good Taste</title>
+    <desc lang="en">Agnes attempts to regain control over the Presidential Dinner, Peggy’s career sparks a rift with William, and Ada runs into Dr. Harris.</desc>
+    <date>2026</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Period Pieces</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/T9Sg9/skwsJWyU2bU2MNunA.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo2-west" start="20261128223200 -0800" stop="20261129001100 -0800">
+    <title lang="en">Stoker</title>
+    <desc lang="en">Reeling from the death of her beloved father, an introverted young girl is changed by the sudden arrival of a mysterious relative. Although she's wary of "Uncle Charlie," her unstable mother lets him move in, leading all of them down a dark, twisted path.</desc>
+    <date>2013</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Thriller</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-zone-west" start="20261128224100 -0800" stop="20261129001300 -0800">
+    <title lang="en">Normal</title>
+    <desc lang="en">After a botched bank robbery, the interim sheriff in a small Minnesota town uncovers a conspiracy involving an international crime syndicate.</desc>
+    <date>2026</date>
+    <category lang="en">High Octane Thrillers</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Action</category>
+    <category lang="en">Big Screen Crime</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/QNrSy/sg-yqCvwcx1fLGq1A.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-signature-west" start="20261128225300 -0800" stop="20261128233300 -0800">
+    <title lang="en">The Hotline</title>
+    <desc lang="en">A portrait of compassion and connection, this documentary short offers a glimpse inside a grassroots overdose prevention hotline.</desc>
+    <date>2026</date>
+    <category lang="en">Documentaries</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/uZRy-/td5GVEvsblXQu9c0g.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-comedy-west" start="20261128232300 -0800" stop="20261129010800 -0800">
+    <title lang="en">Life of the Party</title>
+    <desc lang="en">Melissa McCarthy goes back to college in this raucous comedy that finds her playing a middle-aged mom on campus.</desc>
+    <date>2018</date>
+    <category lang="en">Comedy</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-latino-west" start="20261128232600 -0800" stop="20261129011500 -0800">
+    <title lang="en">The Roses</title>
+    <desc lang="en">Life seems easy for picture-perfect couple Ivy (Olivia Colman) and Theo (Benedict Cumberbatch). But beneath the façade of their supposed ideal life, a storm is brewing in this reimagining of the 1989 classic film The War of the Roses.</desc>
+    <date>2025</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/O9tn2/6gfNRBEuP95jRrmmQ.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-west" start="20261128232600 -0800" stop="20261129011500 -0800">
+    <title lang="en">The Roses</title>
+    <desc lang="en">Life seems easy for picture-perfect couple Ivy (Olivia Colman) and Theo (Benedict Cumberbatch). But beneath the façade of their supposed ideal life, a storm is brewing in this reimagining of the 1989 classic film The War of the Roses.</desc>
+    <date>2025</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/O9tn2/6gfNRBEuP95jRrmmQ.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-signature-west" start="20261128233300 -0800" stop="20261129001200 -0800">
+    <title lang="en">The Buffalo Miracle</title>
+    <desc lang="en">The extraordinary story of how strangers found sanctuary inside a McDonald's during a catastrophic blizzard in Buffalo on Christmas Eve.</desc>
+    <date>2026</date>
+    <category lang="en">Sports Stars &amp; Stories</category>
+    <category lang="en">Sports</category>
+    <category lang="en">Documentaries</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/JhP10/OupsOCwB0Ana1pvzw.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+</tv>
