@@ -1,0 +1,2101 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tv generator-info-name="VinhEPG v1.0.0" generator-info-url="https://github.com/huuvinh-dev/epg-file">
+  <channel id="hbo-east">
+    <display-name lang="en">HBO East</display-name>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </channel>
+  <channel id="hbo2-east">
+    <display-name lang="en">HBO2 East</display-name>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </channel>
+  <channel id="hbo-signature-east">
+    <display-name lang="en">HBO Signature East</display-name>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </channel>
+  <channel id="hbo-comedy-east">
+    <display-name lang="en">HBO Comedy East</display-name>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </channel>
+  <channel id="hbo-zone-east">
+    <display-name lang="en">HBO Zone East</display-name>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </channel>
+  <channel id="hbo-latino-east">
+    <display-name lang="en">HBO Latino East</display-name>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </channel>
+  <channel id="hbo-west">
+    <display-name lang="en">HBO West</display-name>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </channel>
+  <channel id="hbo2-west">
+    <display-name lang="en">HBO2 West</display-name>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </channel>
+  <channel id="hbo-signature-west">
+    <display-name lang="en">HBO Signature West</display-name>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </channel>
+  <channel id="hbo-comedy-west">
+    <display-name lang="en">HBO Comedy West</display-name>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </channel>
+  <channel id="hbo-zone-west">
+    <display-name lang="en">HBO Zone West</display-name>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </channel>
+  <channel id="hbo-latino-west">
+    <display-name lang="en">HBO Latino West</display-name>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </channel>
+  <programme channel="hbo-latino-east" start="20261107000000 -0500" stop="20261107003700 -0500">
+    <title lang="en">Episode 5</title>
+    <desc lang="en">India positions Patricia as a star, Chema returns home, Tina is reunited with her mother, and Carla meets Leo.</desc>
+    <date>2026</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Dark Comedy</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/9bWym/4flWAzmS_3GSZHRiw.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-east" start="20261107000200 -0500" stop="20261107010200 -0500">
+    <title lang="en">November 6, 2026: Peter Berg, Coleman Hughes, Ali Vitali</title>
+    <desc lang="en">Guests: Peter Berg, Coleman Hughes, Ali Vitali.</desc>
+    <date>2026</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Current Events</category>
+    <category lang="en">News</category>
+    <category lang="en">Talk Show</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-signature-east" start="20261107003600 -0500" stop="20261107012700 -0500">
+    <title lang="en">B.J. and the A.C.</title>
+    <desc lang="en">Kevin encounters unexpected holiday surprises, while Tom and Christine run into more trouble on the road.</desc>
+    <date>2014</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Science Fiction</category>
+    <category lang="en">Suspense</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-latino-east" start="20261107003700 -0500" stop="20261107013000 -0500">
+    <title lang="en">The Simple Act of Paying Attention</title>
+    <desc lang="en">When Molly discovers a troubling error, Johnny tries to downplay the situation, while Serena and Nick question the staff.</desc>
+    <date>2026</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Thrillers</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/ULN-e/z1sfOg7RGD4UiLwCg.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-zone-east" start="20261107003700 -0500" stop="20261107021100 -0500">
+    <title lang="en">Undertone</title>
+    <desc lang="en">After moving back home to care for her mother, a young paranormal podcaster begins receiving eerie recordings in this spine-tingling tale.</desc>
+    <date>2026</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Haunted Horror</category>
+    <category lang="en">Thrillers</category>
+    <category lang="en">Horror</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/Deo7g/S8AOqbTpTrfURHfRA.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-east" start="20261107010200 -0500" stop="20261107015500 -0500">
+    <title lang="en">The Simple Act of Paying Attention</title>
+    <desc lang="en">When Molly discovers a troubling error, Johnny tries to downplay the situation, while Serena and Nick question the staff.</desc>
+    <date>2026</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Thrillers</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/ULN-e/z1sfOg7RGD4UiLwCg.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-signature-east" start="20261107012700 -0500" stop="20261107022300 -0500">
+    <title lang="en">Gladys</title>
+    <desc lang="en">Laurie is put to the test in the wake of a brutal crime. Kevin turns down an outside offer of assistance.</desc>
+    <date>2014</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Science Fiction</category>
+    <category lang="en">Suspense</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-latino-east" start="20261107013000 -0500" stop="20261107025500 -0500">
+    <title lang="en">Icebox</title>
+    <desc lang="en">Riveting feature film about a young boy from Honduras who gets trapped inside America's rigid and terrifying immigration system. ​</desc>
+    <date>2018</date>
+    <category lang="en">Drama</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo2-east" start="20261107013600 -0500" stop="20261107023300 -0500">
+    <title lang="en">Ring the Bells</title>
+    <desc lang="en">Bertha faces Gladys’s difficult childbirth, Peggy achieves a milestone, and Agnes makes plans to host a prestigious dinner.</desc>
+    <date>2026</date>
+    <category lang="en">Period Pieces</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/5GORZ/EY910Iz0_fVVcGDKw.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-comedy-east" start="20261107014300 -0500" stop="20261107032900 -0500">
+    <title lang="en">Thanksgiving</title>
+    <desc lang="en">A year after a tragic Black Friday riot, a mysterious Thanksgiving-inspired killer terrorizes the residents of Plymouth, Massachusetts — the birthplace of the infamous holiday — seeking revenge.</desc>
+    <date>2023</date>
+    <category lang="en">Horror</category>
+    <category lang="en">Mystery</category>
+    <category lang="en">Thriller</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-east" start="20261107015500 -0500" stop="20261107025500 -0500">
+    <title lang="en">November 6, 2026: Peter Berg, Coleman Hughes, Ali Vitali</title>
+    <desc lang="en">Guests: Peter Berg, Coleman Hughes, Ali Vitali.</desc>
+    <date>2026</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Current Events</category>
+    <category lang="en">News</category>
+    <category lang="en">Talk Show</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-zone-east" start="20261107021100 -0500" stop="20261107034500 -0500">
+    <title lang="en">Night Is Not Eternal</title>
+    <desc lang="en">​​From filmmaker Nanfu Wang, this deeply personal exploration of political activism follows Rosa María Payá, a young activist and daughter of five-time Nobel Peace Prize nominee Oswaldo Payá, in her fight for democratic change in Cuba.</desc>
+    <date>2024</date>
+    <category lang="en">Politics &amp; Politicians</category>
+    <category lang="en">History &amp; Civilizations</category>
+    <category lang="en">Documentaries</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/VQVrb/bSFSxHyNBfR3lHvsQ.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-signature-east" start="20261107022300 -0500" stop="20261107031500 -0500">
+    <title lang="en">Guest</title>
+    <desc lang="en">Nora Durst finds herself adrift during a Departure-related conference in New York.</desc>
+    <date>2014</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Science Fiction</category>
+    <category lang="en">Suspense</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo2-east" start="20261107023300 -0500" stop="20261107032500 -0500">
+    <title lang="en">The Simple Act of Paying Attention</title>
+    <desc lang="en">When Molly discovers a troubling error, Johnny tries to downplay the situation, while Serena and Nick question the staff.</desc>
+    <date>2026</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Thrillers</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/ULN-e/z1sfOg7RGD4UiLwCg.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-east" start="20261107025500 -0500" stop="20261107032500 -0500">
+    <title lang="en">Agent of the Year</title>
+    <desc lang="en">Amid personal and professional crises, Alex and Sam each try to keep things together at the Women’s Literature Awards ceremony. Later, Ruari grows frustrated with Alex when he tries to talk to her about Plum.</desc>
+    <date>2026</date>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/LLaer/Edk9GdcEqxO9guYMA.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-latino-east" start="20261107025500 -0500" stop="20261107032500 -0500">
+    <title lang="en">Agent of the Year</title>
+    <desc lang="en">Amid personal and professional crises, Alex and Sam each try to keep things together at the Women’s Literature Awards ceremony. Later, Ruari grows frustrated with Alex when he tries to talk to her about Plum.</desc>
+    <date>2026</date>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/LLaer/Edk9GdcEqxO9guYMA.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-latino-west" start="20261107000000 -0800" stop="20261107003700 -0800">
+    <title lang="en">Episode 5</title>
+    <desc lang="en">India positions Patricia as a star, Chema returns home, Tina is reunited with her mother, and Carla meets Leo.</desc>
+    <date>2026</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Dark Comedy</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/9bWym/4flWAzmS_3GSZHRiw.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-west" start="20261107000200 -0800" stop="20261107010200 -0800">
+    <title lang="en">November 6, 2026: Peter Berg, Coleman Hughes, Ali Vitali</title>
+    <desc lang="en">Guests: Peter Berg, Coleman Hughes, Ali Vitali.</desc>
+    <date>2026</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Current Events</category>
+    <category lang="en">News</category>
+    <category lang="en">Talk Show</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-signature-east" start="20261107031500 -0500" stop="20261107041300 -0500">
+    <title lang="en">Solace for Tired Feet</title>
+    <desc lang="en">Kevin's father wreaks havoc after escaping the psych hospital; Tom makes an unsettling discovery.</desc>
+    <date>2014</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Science Fiction</category>
+    <category lang="en">Suspense</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-east" start="20261107032500 -0500" stop="20261107052600 -0500">
+    <title lang="en">Deadpool 2</title>
+    <desc lang="en">Wisecracking antihero Deadpool must join forces with a motley collection of mutants in order to save a rebellious teenage mutant from the grip of a powerful enemy: a genetically enhanced super-soldier from the future known as Cable.</desc>
+    <date>2018</date>
+    <category lang="en">Action</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-latino-east" start="20261107032500 -0500" stop="20261107052600 -0500">
+    <title lang="en">Deadpool 2</title>
+    <desc lang="en">Wisecracking antihero Deadpool must join forces with a motley collection of mutants in order to save a rebellious teenage mutant from the grip of a powerful enemy: a genetically enhanced super-soldier from the future known as Cable.</desc>
+    <date>2018</date>
+    <category lang="en">Action</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo2-east" start="20261107032500 -0500" stop="20261107051800 -0500">
+    <title lang="en">This Is Not a War Story</title>
+    <desc lang="en">Follow a ragtag group of veterans in NY whose anti-war community binds them, despite the specter of their friend's suicide and the impossibility of healing from war.</desc>
+    <date>2021</date>
+    <category lang="en">Drama</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-comedy-east" start="20261107032900 -0500" stop="20261107052600 -0500">
+    <title lang="en">Materialists</title>
+    <desc lang="en">Dakota Johnson, Pedro Pascal, and Chris Evans take part in a love triangle in this romantic drama as a successful matchmaker, her perfect match... and her imperfect ex.</desc>
+    <date>2025</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Romantic Dramas</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/dxqTU/lGsH5hGSSiVidPAKA.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-signature-west" start="20261107003600 -0800" stop="20261107012700 -0800">
+    <title lang="en">B.J. and the A.C.</title>
+    <desc lang="en">Kevin encounters unexpected holiday surprises, while Tom and Christine run into more trouble on the road.</desc>
+    <date>2014</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Science Fiction</category>
+    <category lang="en">Suspense</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-latino-west" start="20261107003700 -0800" stop="20261107013000 -0800">
+    <title lang="en">The Simple Act of Paying Attention</title>
+    <desc lang="en">When Molly discovers a troubling error, Johnny tries to downplay the situation, while Serena and Nick question the staff.</desc>
+    <date>2026</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Thrillers</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/ULN-e/z1sfOg7RGD4UiLwCg.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-zone-west" start="20261107003700 -0800" stop="20261107021100 -0800">
+    <title lang="en">Undertone</title>
+    <desc lang="en">After moving back home to care for her mother, a young paranormal podcaster begins receiving eerie recordings in this spine-tingling tale.</desc>
+    <date>2026</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Haunted Horror</category>
+    <category lang="en">Thrillers</category>
+    <category lang="en">Horror</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/Deo7g/S8AOqbTpTrfURHfRA.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-zone-east" start="20261107034500 -0500" stop="20261107053500 -0500">
+    <title lang="en">Love, Simon</title>
+    <desc lang="en">Simon Spier is an average American teen leading a perfectly "normal" life, except that he's gay and hasn't told anyone. How he deals with his sexual identity and comes out to his family and friends is the focus of this charming coming-of-age tale.</desc>
+    <date>2018</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Romantic Comedy</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-west" start="20261107010200 -0800" stop="20261107015500 -0800">
+    <title lang="en">The Simple Act of Paying Attention</title>
+    <desc lang="en">When Molly discovers a troubling error, Johnny tries to downplay the situation, while Serena and Nick question the staff.</desc>
+    <date>2026</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Thrillers</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/ULN-e/z1sfOg7RGD4UiLwCg.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-signature-east" start="20261107041300 -0500" stop="20261107051000 -0500">
+    <title lang="en">Cairo</title>
+    <desc lang="en">Kevin faces the consequences after an alarming memory lapse; Meg loses control; Jill and Aimee feud.</desc>
+    <date>2014</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Science Fiction</category>
+    <category lang="en">Suspense</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-signature-west" start="20261107012700 -0800" stop="20261107022300 -0800">
+    <title lang="en">Gladys</title>
+    <desc lang="en">Laurie is put to the test in the wake of a brutal crime. Kevin turns down an outside offer of assistance.</desc>
+    <date>2014</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Science Fiction</category>
+    <category lang="en">Suspense</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-latino-west" start="20261107013000 -0800" stop="20261107025500 -0800">
+    <title lang="en">Icebox</title>
+    <desc lang="en">Riveting feature film about a young boy from Honduras who gets trapped inside America's rigid and terrifying immigration system. ​</desc>
+    <date>2018</date>
+    <category lang="en">Drama</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo2-west" start="20261107013600 -0800" stop="20261107023300 -0800">
+    <title lang="en">Ring the Bells</title>
+    <desc lang="en">Bertha faces Gladys’s difficult childbirth, Peggy achieves a milestone, and Agnes makes plans to host a prestigious dinner.</desc>
+    <date>2026</date>
+    <category lang="en">Period Pieces</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/5GORZ/EY910Iz0_fVVcGDKw.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-comedy-west" start="20261107014300 -0800" stop="20261107032900 -0800">
+    <title lang="en">Thanksgiving</title>
+    <desc lang="en">A year after a tragic Black Friday riot, a mysterious Thanksgiving-inspired killer terrorizes the residents of Plymouth, Massachusetts — the birthplace of the infamous holiday — seeking revenge.</desc>
+    <date>2023</date>
+    <category lang="en">Horror</category>
+    <category lang="en">Mystery</category>
+    <category lang="en">Thriller</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-west" start="20261107015500 -0800" stop="20261107025500 -0800">
+    <title lang="en">November 6, 2026: Peter Berg, Coleman Hughes, Ali Vitali</title>
+    <desc lang="en">Guests: Peter Berg, Coleman Hughes, Ali Vitali.</desc>
+    <date>2026</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Current Events</category>
+    <category lang="en">News</category>
+    <category lang="en">Talk Show</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-signature-east" start="20261107051000 -0500" stop="20261107060800 -0500">
+    <title lang="en">The Garveys at Their Best</title>
+    <desc lang="en">Kevin tries to suppress bad habits. Laurie receives some not-unexpected news. Nora has a job interview.</desc>
+    <date>2014</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Science Fiction</category>
+    <category lang="en">Suspense</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-zone-west" start="20261107021100 -0800" stop="20261107034500 -0800">
+    <title lang="en">Night Is Not Eternal</title>
+    <desc lang="en">​​From filmmaker Nanfu Wang, this deeply personal exploration of political activism follows Rosa María Payá, a young activist and daughter of five-time Nobel Peace Prize nominee Oswaldo Payá, in her fight for democratic change in Cuba.</desc>
+    <date>2024</date>
+    <category lang="en">Politics &amp; Politicians</category>
+    <category lang="en">History &amp; Civilizations</category>
+    <category lang="en">Documentaries</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/VQVrb/bSFSxHyNBfR3lHvsQ.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo2-east" start="20261107051800 -0500" stop="20261107071000 -0500">
+    <title lang="en">The Conjuring</title>
+    <desc lang="en">A family calls on supernatural investigators Ed &amp; Lorraine Warren for help against a terrifying evil in their house.</desc>
+    <date>2013</date>
+    <category lang="en">Horror</category>
+    <category lang="en">Mystery</category>
+    <category lang="en">Suspense</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-signature-west" start="20261107022300 -0800" stop="20261107031500 -0800">
+    <title lang="en">Guest</title>
+    <desc lang="en">Nora Durst finds herself adrift during a Departure-related conference in New York.</desc>
+    <date>2014</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Science Fiction</category>
+    <category lang="en">Suspense</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-comedy-east" start="20261107052600 -0500" stop="20261107063100 -0500">
+    <title lang="en">Seth Meyers: Dad Man Walking</title>
+    <desc lang="en">​Emmy®-winning writer, New York Times bestselling author, and SNL alum Seth Meyers stars in his first HBO stand-up special. Taped at The Vic Theatre in Chicago, Meyers shares his hilarious reflections on family, generational legacies, and more.</desc>
+    <date>2024</date>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-east" start="20261107052600 -0500" stop="20261107070100 -0500">
+    <title lang="en">Pitch Perfect 3</title>
+    <desc lang="en">Having won the World Championships of acapella singing and graduated from college, the Bellas have gone their separate ways...until a USO competition brings them together for one final chance to make their mark.</desc>
+    <date>2017</date>
+    <category lang="en">Adventure</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Musical</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-latino-east" start="20261107052600 -0500" stop="20261107070100 -0500">
+    <title lang="en">Pitch Perfect 3</title>
+    <desc lang="en">Having won the World Championships of acapella singing and graduated from college, the Bellas have gone their separate ways...until a USO competition brings them together for one final chance to make their mark.</desc>
+    <date>2017</date>
+    <category lang="en">Adventure</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Musical</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo2-west" start="20261107023300 -0800" stop="20261107032500 -0800">
+    <title lang="en">The Simple Act of Paying Attention</title>
+    <desc lang="en">When Molly discovers a troubling error, Johnny tries to downplay the situation, while Serena and Nick question the staff.</desc>
+    <date>2026</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Thrillers</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/ULN-e/z1sfOg7RGD4UiLwCg.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-zone-east" start="20261107053500 -0500" stop="20261107073400 -0500">
+    <title lang="en">The Post</title>
+    <desc lang="en">Washington Post publisher Katharine Graham and executive editor Ben Bradlee put the fate of the paper on the line to chronicle one of the most explosive stories of the 1970s as their staff fights to publish the classified Pentagon Papers.</desc>
+    <date>2017</date>
+    <category lang="en">Biography</category>
+    <category lang="en">Drama</category>
+    <category lang="en">History</category>
+    <category lang="en">Legal</category>
+    <category lang="en">Period Piece</category>
+    <category lang="en">Thriller</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-latino-west" start="20261107025500 -0800" stop="20261107032500 -0800">
+    <title lang="en">Agent of the Year</title>
+    <desc lang="en">Amid personal and professional crises, Alex and Sam each try to keep things together at the Women’s Literature Awards ceremony. Later, Ruari grows frustrated with Alex when he tries to talk to her about Plum.</desc>
+    <date>2026</date>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/LLaer/Edk9GdcEqxO9guYMA.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-west" start="20261107025500 -0800" stop="20261107032500 -0800">
+    <title lang="en">Agent of the Year</title>
+    <desc lang="en">Amid personal and professional crises, Alex and Sam each try to keep things together at the Women’s Literature Awards ceremony. Later, Ruari grows frustrated with Alex when he tries to talk to her about Plum.</desc>
+    <date>2026</date>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/LLaer/Edk9GdcEqxO9guYMA.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo2-east" start="20261107060500 -0500" stop="20261107073200 -0500">
+    <title lang="en">Boys Go to Jupiter</title>
+    <desc lang="en">In writer/director Julian Glander's wildly unique adult animated tale, suburban teen Billy 5000 encounters various quirky characters--including a creature he names Donut--while working for a food delivery app.</desc>
+    <date>2024</date>
+    <category lang="en">Adult Animation</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/Pl8jd/Tg97xkXmezvj_-LAQ.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-signature-east" start="20261107060800 -0500" stop="20261107070200 -0500">
+    <title lang="en">The Prodigal Son Returns</title>
+    <desc lang="en">Chaos ensues when the Guilty Remnant execute an elaborate Memorial Day plan.</desc>
+    <date>2014</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Science Fiction</category>
+    <category lang="en">Suspense</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-signature-west" start="20261107031500 -0800" stop="20261107041300 -0800">
+    <title lang="en">Solace for Tired Feet</title>
+    <desc lang="en">Kevin's father wreaks havoc after escaping the psych hospital; Tom makes an unsettling discovery.</desc>
+    <date>2014</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Science Fiction</category>
+    <category lang="en">Suspense</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-latino-west" start="20261107032500 -0800" stop="20261107052600 -0800">
+    <title lang="en">Deadpool 2</title>
+    <desc lang="en">Wisecracking antihero Deadpool must join forces with a motley collection of mutants in order to save a rebellious teenage mutant from the grip of a powerful enemy: a genetically enhanced super-soldier from the future known as Cable.</desc>
+    <date>2018</date>
+    <category lang="en">Action</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-west" start="20261107032500 -0800" stop="20261107052600 -0800">
+    <title lang="en">Deadpool 2</title>
+    <desc lang="en">Wisecracking antihero Deadpool must join forces with a motley collection of mutants in order to save a rebellious teenage mutant from the grip of a powerful enemy: a genetically enhanced super-soldier from the future known as Cable.</desc>
+    <date>2018</date>
+    <category lang="en">Action</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo2-west" start="20261107032500 -0800" stop="20261107051800 -0800">
+    <title lang="en">This Is Not a War Story</title>
+    <desc lang="en">Follow a ragtag group of veterans in NY whose anti-war community binds them, despite the specter of their friend's suicide and the impossibility of healing from war.</desc>
+    <date>2021</date>
+    <category lang="en">Drama</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-comedy-west" start="20261107032900 -0800" stop="20261107052600 -0800">
+    <title lang="en">Materialists</title>
+    <desc lang="en">Dakota Johnson, Pedro Pascal, and Chris Evans take part in a love triangle in this romantic drama as a successful matchmaker, her perfect match... and her imperfect ex.</desc>
+    <date>2025</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Romantic Dramas</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/dxqTU/lGsH5hGSSiVidPAKA.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-comedy-east" start="20261107063100 -0500" stop="20261107072600 -0500">
+    <title lang="en">Ramy Youssef: More Feelings</title>
+    <desc lang="en">Ramy Youssef reflects on issues big and small–from global events to his childhood book report to finding unity in our divided world.</desc>
+    <date>2024</date>
+    <category lang="en">Comedy</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-zone-west" start="20261107034500 -0800" stop="20261107053500 -0800">
+    <title lang="en">Love, Simon</title>
+    <desc lang="en">Simon Spier is an average American teen leading a perfectly "normal" life, except that he's gay and hasn't told anyone. How he deals with his sexual identity and comes out to his family and friends is the focus of this charming coming-of-age tale.</desc>
+    <date>2018</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Romantic Comedy</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-east" start="20261107070100 -0500" stop="20261107073100 -0500">
+    <title lang="en">Agent of the Year</title>
+    <desc lang="en">Amid personal and professional crises, Alex and Sam each try to keep things together at the Women’s Literature Awards ceremony. Later, Ruari grows frustrated with Alex when he tries to talk to her about Plum.</desc>
+    <date>2026</date>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/LLaer/Edk9GdcEqxO9guYMA.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-latino-east" start="20261107070100 -0500" stop="20261107073100 -0500">
+    <title lang="en">Agent of the Year</title>
+    <desc lang="en">Amid personal and professional crises, Alex and Sam each try to keep things together at the Women’s Literature Awards ceremony. Later, Ruari grows frustrated with Alex when he tries to talk to her about Plum.</desc>
+    <date>2026</date>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/LLaer/Edk9GdcEqxO9guYMA.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-signature-east" start="20261107070200 -0500" stop="20261107080400 -0500">
+    <title lang="en">Axis Mundi</title>
+    <desc lang="en">A prominent family meets their new neighbors in the only Departure-free town in America.</desc>
+    <date>2015</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Science Fiction</category>
+    <category lang="en">Suspense</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo2-east" start="20261107071200 -0500" stop="20261107092600 -0500">
+    <title lang="en">The Conjuring 2</title>
+    <desc lang="en">In this spine-tingling tale inspired by the real-life Enfield Haunting, paranormal investigators Ed and Lorraine Warren come to the aid of a single mother and her four children who are being terrorized by a malevolent spirit.</desc>
+    <date>2016</date>
+    <category lang="en">Horror</category>
+    <category lang="en">Mystery</category>
+    <category lang="en">Supernatural</category>
+    <category lang="en">Thriller</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-signature-west" start="20261107041300 -0800" stop="20261107051000 -0800">
+    <title lang="en">Cairo</title>
+    <desc lang="en">Kevin faces the consequences after an alarming memory lapse; Meg loses control; Jill and Aimee feud.</desc>
+    <date>2014</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Science Fiction</category>
+    <category lang="en">Suspense</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-comedy-east" start="20261107072600 -0500" stop="20261107083000 -0500">
+    <title lang="en">Ramy Youssef: In Love</title>
+    <desc lang="en">Events. Stand-Up Specials. Stand-Up. Comedy. TV-MA. 2026</desc>
+    <date>2026</date>
+    <category lang="en">Events</category>
+    <category lang="en">Stand-Up Specials</category>
+    <category lang="en">Stand-Up</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">TV-MA</category>
+    <category lang="en">2026</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-east" start="20261107073100 -0500" stop="20261107083300 -0500">
+    <title lang="en">Ring the Bells</title>
+    <desc lang="en">Bertha faces Gladys’s difficult childbirth, Peggy achieves a milestone, and Agnes makes plans to host a prestigious dinner.</desc>
+    <date>2026</date>
+    <category lang="en">Period Pieces</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/5GORZ/EY910Iz0_fVVcGDKw.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-latino-east" start="20261107073100 -0500" stop="20261107083300 -0500">
+    <title lang="en">Ring the Bells</title>
+    <desc lang="en">Bertha faces Gladys’s difficult childbirth, Peggy achieves a milestone, and Agnes makes plans to host a prestigious dinner.</desc>
+    <date>2026</date>
+    <category lang="en">Period Pieces</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/5GORZ/EY910Iz0_fVVcGDKw.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-zone-east" start="20261107073400 -0500" stop="20261107090900 -0500">
+    <title lang="en">Just Friends</title>
+    <desc lang="en">A recording industry executive comes face to face with his old high school crush -- a woman whose rejection of him turned him into a notorious womanizer. But now he realizes that she is his one true love.</desc>
+    <date>2005</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Romance</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-signature-east" start="20261107080400 -0500" stop="20261107090100 -0500">
+    <title lang="en">A Matter of Geography</title>
+    <desc lang="en">Looking for a fresh start, Kevin, Nora, Jill and Lily leave Mapleton for the "Miracle" town of Jarden, TX.</desc>
+    <date>2015</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Science Fiction</category>
+    <category lang="en">Suspense</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-signature-west" start="20261107051000 -0800" stop="20261107060800 -0800">
+    <title lang="en">The Garveys at Their Best</title>
+    <desc lang="en">Kevin tries to suppress bad habits. Laurie receives some not-unexpected news. Nora has a job interview.</desc>
+    <date>2014</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Science Fiction</category>
+    <category lang="en">Suspense</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo2-west" start="20261107051800 -0800" stop="20261107071000 -0800">
+    <title lang="en">The Conjuring</title>
+    <desc lang="en">A family calls on supernatural investigators Ed &amp; Lorraine Warren for help against a terrifying evil in their house.</desc>
+    <date>2013</date>
+    <category lang="en">Horror</category>
+    <category lang="en">Mystery</category>
+    <category lang="en">Suspense</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-comedy-west" start="20261107052600 -0800" stop="20261107063100 -0800">
+    <title lang="en">Seth Meyers: Dad Man Walking</title>
+    <desc lang="en">​Emmy®-winning writer, New York Times bestselling author, and SNL alum Seth Meyers stars in his first HBO stand-up special. Taped at The Vic Theatre in Chicago, Meyers shares his hilarious reflections on family, generational legacies, and more.</desc>
+    <date>2024</date>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-latino-west" start="20261107052600 -0800" stop="20261107070100 -0800">
+    <title lang="en">Pitch Perfect 3</title>
+    <desc lang="en">Having won the World Championships of acapella singing and graduated from college, the Bellas have gone their separate ways...until a USO competition brings them together for one final chance to make their mark.</desc>
+    <date>2017</date>
+    <category lang="en">Adventure</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Musical</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-west" start="20261107052600 -0800" stop="20261107070100 -0800">
+    <title lang="en">Pitch Perfect 3</title>
+    <desc lang="en">Having won the World Championships of acapella singing and graduated from college, the Bellas have gone their separate ways...until a USO competition brings them together for one final chance to make their mark.</desc>
+    <date>2017</date>
+    <category lang="en">Adventure</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Musical</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-comedy-east" start="20261107083000 -0500" stop="20261107093000 -0500">
+    <title lang="en">Josh Johnson: Symphony</title>
+    <desc lang="en">In his debut HBO special, comedian Josh Johnson weaves stories of strange childhood experiences, family, and his ever-present awkwardness.</desc>
+    <date>2026</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Stand-Up Specials</category>
+    <category lang="en">Events</category>
+    <category lang="en">Stand-Up</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/3hDc_/O467xIRZ1ZCz6hWQQ.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-east" start="20261107083300 -0500" stop="20261107101000 -0500">
+    <title lang="en">Smallfoot</title>
+    <desc lang="en">Migo is a friendly Yeti who discovers something that he didn't know existed -- a human. When his fellow villagers refuse to believe him, Migo embarks on an epic journey to find the mysterious creature that can put him back in his community's good graces.</desc>
+    <date>2018</date>
+    <category lang="en">Adventure</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Fantasy</category>
+    <category lang="en">Kids &amp; Family</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-latino-east" start="20261107083300 -0500" stop="20261107101500 -0500">
+    <title lang="en">Smallfoot</title>
+    <desc lang="en">Migo is a friendly Yeti who discovers something that he didn't know existed -- a human. When his fellow villagers refuse to believe him, Migo embarks on an epic journey to find the mysterious creature that can put him back in his community's good graces.</desc>
+    <date>2018</date>
+    <category lang="en">Adventure</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Fantasy</category>
+    <category lang="en">Kids &amp; Family</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-zone-west" start="20261107053500 -0800" stop="20261107073400 -0800">
+    <title lang="en">The Post</title>
+    <desc lang="en">Washington Post publisher Katharine Graham and executive editor Ben Bradlee put the fate of the paper on the line to chronicle one of the most explosive stories of the 1970s as their staff fights to publish the classified Pentagon Papers.</desc>
+    <date>2017</date>
+    <category lang="en">Biography</category>
+    <category lang="en">Drama</category>
+    <category lang="en">History</category>
+    <category lang="en">Legal</category>
+    <category lang="en">Period Piece</category>
+    <category lang="en">Thriller</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-signature-east" start="20261107090100 -0500" stop="20261107095800 -0500">
+    <title lang="en">Off Ramp</title>
+    <desc lang="en">Laurie writes a tell-all book, and enlists Tom to help rescue a troubled Guilty Remnant recruit.</desc>
+    <date>2015</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Science Fiction</category>
+    <category lang="en">Suspense</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo2-west" start="20261107060500 -0800" stop="20261107073200 -0800">
+    <title lang="en">Boys Go to Jupiter</title>
+    <desc lang="en">In writer/director Julian Glander's wildly unique adult animated tale, suburban teen Billy 5000 encounters various quirky characters--including a creature he names Donut--while working for a food delivery app.</desc>
+    <date>2024</date>
+    <category lang="en">Adult Animation</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/Pl8jd/Tg97xkXmezvj_-LAQ.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-signature-west" start="20261107060800 -0800" stop="20261107070200 -0800">
+    <title lang="en">The Prodigal Son Returns</title>
+    <desc lang="en">Chaos ensues when the Guilty Remnant execute an elaborate Memorial Day plan.</desc>
+    <date>2014</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Science Fiction</category>
+    <category lang="en">Suspense</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-zone-east" start="20261107090900 -0500" stop="20261107100900 -0500">
+    <title lang="en">The Out List</title>
+    <desc lang="en">Pop Culture &amp; Celebrities. Documentaries. TV-MA. 2013</desc>
+    <date>2013</date>
+    <category lang="en">Pop Culture &amp; Celebrities</category>
+    <category lang="en">Documentaries</category>
+    <category lang="en">TV-MA</category>
+    <category lang="en">2013</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo2-east" start="20261107092600 -0500" stop="20261107114200 -0500">
+    <title lang="en">The Conjuring: Last Rites</title>
+    <desc lang="en">From New Line Cinema comes the ninth entry in the more than $2 billion theatrical Conjuring Universe, The Conjuring: Last Rites, which delivers another thrilling chapter based on real events.</desc>
+    <date>2025</date>
+    <category lang="en">Horror</category>
+    <category lang="en">Supernatural</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-comedy-east" start="20261107093000 -0500" stop="20261107104600 -0500">
+    <title lang="en">Chris Fleming: Live at the Palace</title>
+    <desc lang="en">From the Cadillac Palace Theatre in Chicago, comedian Chris Fleming bursts onto the screen with a fun and lighthearted blend of skillful storytelling and wild physicality in his first HBO stand-up special.</desc>
+    <date>2026</date>
+    <category lang="en">Events</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Stand-Up Specials</category>
+    <category lang="en">Stand-Up</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/rTWiA/UVFaRX0COsXi1YESw.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-comedy-west" start="20261107063100 -0800" stop="20261107072600 -0800">
+    <title lang="en">Ramy Youssef: More Feelings</title>
+    <desc lang="en">Ramy Youssef reflects on issues big and small–from global events to his childhood book report to finding unity in our divided world.</desc>
+    <date>2024</date>
+    <category lang="en">Comedy</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-signature-east" start="20261107095800 -0500" stop="20261107105400 -0500">
+    <title lang="en">Orange Sticker</title>
+    <desc lang="en">Nora is plagued by new fears, while Kevin and John try to piece together a missing-persons mystery.</desc>
+    <date>2015</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Science Fiction</category>
+    <category lang="en">Suspense</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-latino-west" start="20261107070100 -0800" stop="20261107073100 -0800">
+    <title lang="en">Agent of the Year</title>
+    <desc lang="en">Amid personal and professional crises, Alex and Sam each try to keep things together at the Women’s Literature Awards ceremony. Later, Ruari grows frustrated with Alex when he tries to talk to her about Plum.</desc>
+    <date>2026</date>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/LLaer/Edk9GdcEqxO9guYMA.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-west" start="20261107070100 -0800" stop="20261107073100 -0800">
+    <title lang="en">Agent of the Year</title>
+    <desc lang="en">Amid personal and professional crises, Alex and Sam each try to keep things together at the Women’s Literature Awards ceremony. Later, Ruari grows frustrated with Alex when he tries to talk to her about Plum.</desc>
+    <date>2026</date>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/LLaer/Edk9GdcEqxO9guYMA.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-signature-west" start="20261107070200 -0800" stop="20261107080400 -0800">
+    <title lang="en">Axis Mundi</title>
+    <desc lang="en">A prominent family meets their new neighbors in the only Departure-free town in America.</desc>
+    <date>2015</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Science Fiction</category>
+    <category lang="en">Suspense</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-zone-east" start="20261107100900 -0500" stop="20261107110700 -0500">
+    <title lang="en">The Trans List</title>
+    <desc lang="en">Documentaries. Change Makers. TV-MA. 2016</desc>
+    <date>2016</date>
+    <category lang="en">Documentaries</category>
+    <category lang="en">Change Makers</category>
+    <category lang="en">TV-MA</category>
+    <category lang="en">2016</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-east" start="20261107101000 -0500" stop="20261107111000 -0500">
+    <title lang="en">November 6, 2026: Peter Berg, Coleman Hughes, Ali Vitali</title>
+    <desc lang="en">Guests: Peter Berg, Coleman Hughes, Ali Vitali.</desc>
+    <date>2026</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Current Events</category>
+    <category lang="en">News</category>
+    <category lang="en">Talk Show</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo2-west" start="20261107071200 -0800" stop="20261107092600 -0800">
+    <title lang="en">The Conjuring 2</title>
+    <desc lang="en">In this spine-tingling tale inspired by the real-life Enfield Haunting, paranormal investigators Ed and Lorraine Warren come to the aid of a single mother and her four children who are being terrorized by a malevolent spirit.</desc>
+    <date>2016</date>
+    <category lang="en">Horror</category>
+    <category lang="en">Mystery</category>
+    <category lang="en">Supernatural</category>
+    <category lang="en">Thriller</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-latino-east" start="20261107101500 -0500" stop="20261107111000 -0500">
+    <title lang="en">En Letra de Otro: Goyo</title>
+    <desc lang="en">Colombian artist Goyo of the trio ChocQuibTown offers a glimpse of her history, influences and what the future holds for her career.</desc>
+    <date>2022</date>
+    <category lang="en">Documentary</category>
+    <category lang="en">Musical</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-comedy-west" start="20261107072600 -0800" stop="20261107083000 -0800">
+    <title lang="en">Ramy Youssef: In Love</title>
+    <desc lang="en">Events. Stand-Up Specials. Stand-Up. Comedy. TV-MA. 2026</desc>
+    <date>2026</date>
+    <category lang="en">Events</category>
+    <category lang="en">Stand-Up Specials</category>
+    <category lang="en">Stand-Up</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">TV-MA</category>
+    <category lang="en">2026</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-latino-west" start="20261107073100 -0800" stop="20261107083300 -0800">
+    <title lang="en">Ring the Bells</title>
+    <desc lang="en">Bertha faces Gladys’s difficult childbirth, Peggy achieves a milestone, and Agnes makes plans to host a prestigious dinner.</desc>
+    <date>2026</date>
+    <category lang="en">Period Pieces</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/5GORZ/EY910Iz0_fVVcGDKw.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-west" start="20261107073100 -0800" stop="20261107083300 -0800">
+    <title lang="en">Ring the Bells</title>
+    <desc lang="en">Bertha faces Gladys’s difficult childbirth, Peggy achieves a milestone, and Agnes makes plans to host a prestigious dinner.</desc>
+    <date>2026</date>
+    <category lang="en">Period Pieces</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/5GORZ/EY910Iz0_fVVcGDKw.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-zone-west" start="20261107073400 -0800" stop="20261107090900 -0800">
+    <title lang="en">Just Friends</title>
+    <desc lang="en">A recording industry executive comes face to face with his old high school crush -- a woman whose rejection of him turned him into a notorious womanizer. But now he realizes that she is his one true love.</desc>
+    <date>2005</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Romance</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-comedy-east" start="20261107104600 -0500" stop="20261107122600 -0500">
+    <title lang="en">Happy Feet Two</title>
+    <desc lang="en">After a humiliating public experience, Mumble's son, Erik, runs away from home. With Mumble on a desperate search to find his boy, calamity strikes, leaving their entire penguin population trapped. Can Mumble and Erik find a way to save the day?</desc>
+    <date>2011</date>
+    <category lang="en">Adventure</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Kids &amp; Family</category>
+    <category lang="en">Musical</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-signature-east" start="20261107105400 -0500" stop="20261107115100 -0500">
+    <title lang="en">No Room at the Inn</title>
+    <desc lang="en">A trip out of Miracle turns into a harrowing ordeal for Reverend Matt and his unresponsive wife, Mary.</desc>
+    <date>2015</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Science Fiction</category>
+    <category lang="en">Suspense</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-signature-west" start="20261107080400 -0800" stop="20261107090100 -0800">
+    <title lang="en">A Matter of Geography</title>
+    <desc lang="en">Looking for a fresh start, Kevin, Nora, Jill and Lily leave Mapleton for the "Miracle" town of Jarden, TX.</desc>
+    <date>2015</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Science Fiction</category>
+    <category lang="en">Suspense</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-zone-east" start="20261107110700 -0500" stop="20261107123300 -0500">
+    <title lang="en">The Stroll</title>
+    <desc lang="en">The history of transgender sex workers in New York City’s Meatpacking District from the 1970s to the early 2000s is chronicled in this powerful and poignant documentary directed by Kristen Lovell and Zackary Drucker (HBO’s The Lady and The Dale).</desc>
+    <date>2023</date>
+    <category lang="en">Documentaries</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/MeGRG/oTG1wO74B3H0ThLRA.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-east" start="20261107111000 -0500" stop="20261107121200 -0500">
+    <title lang="en">Ring the Bells</title>
+    <desc lang="en">Bertha faces Gladys’s difficult childbirth, Peggy achieves a milestone, and Agnes makes plans to host a prestigious dinner.</desc>
+    <date>2026</date>
+    <category lang="en">Period Pieces</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/5GORZ/EY910Iz0_fVVcGDKw.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-latino-east" start="20261107111000 -0500" stop="20261107121200 -0500">
+    <title lang="en">Ring the Bells</title>
+    <desc lang="en">Bertha faces Gladys’s difficult childbirth, Peggy achieves a milestone, and Agnes makes plans to host a prestigious dinner.</desc>
+    <date>2026</date>
+    <category lang="en">Period Pieces</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/5GORZ/EY910Iz0_fVVcGDKw.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-comedy-west" start="20261107083000 -0800" stop="20261107093000 -0800">
+    <title lang="en">Josh Johnson: Symphony</title>
+    <desc lang="en">In his debut HBO special, comedian Josh Johnson weaves stories of strange childhood experiences, family, and his ever-present awkwardness.</desc>
+    <date>2026</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Stand-Up Specials</category>
+    <category lang="en">Events</category>
+    <category lang="en">Stand-Up</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/3hDc_/O467xIRZ1ZCz6hWQQ.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-latino-west" start="20261107083300 -0800" stop="20261107101500 -0800">
+    <title lang="en">Smallfoot</title>
+    <desc lang="en">Migo is a friendly Yeti who discovers something that he didn't know existed -- a human. When his fellow villagers refuse to believe him, Migo embarks on an epic journey to find the mysterious creature that can put him back in his community's good graces.</desc>
+    <date>2018</date>
+    <category lang="en">Adventure</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Fantasy</category>
+    <category lang="en">Kids &amp; Family</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-west" start="20261107083300 -0800" stop="20261107101000 -0800">
+    <title lang="en">Smallfoot</title>
+    <desc lang="en">Migo is a friendly Yeti who discovers something that he didn't know existed -- a human. When his fellow villagers refuse to believe him, Migo embarks on an epic journey to find the mysterious creature that can put him back in his community's good graces.</desc>
+    <date>2018</date>
+    <category lang="en">Adventure</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Fantasy</category>
+    <category lang="en">Kids &amp; Family</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo2-east" start="20261107114200 -0500" stop="20261107122500 -0500">
+    <title lang="en">Kordell Stewart / Slash &amp; Burn</title>
+    <desc lang="en">Former Pittsburgh Steelers quarterback/wide receiver Kordell Stewart reflects on how his on-field success as the phenom "Slash" was met with off-the-field backlash, including a malicious rumor that shook the foundation of his life and career.</desc>
+    <date>2026</date>
+    <category lang="en">Documentaries</category>
+    <category lang="en">Sports Stars &amp; Stories</category>
+    <category lang="en">Sports</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/7JVxl/dJtN_DBdFPvRVYiFw.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-signature-east" start="20261107115100 -0500" stop="20261107124900 -0500">
+    <title lang="en">Lens</title>
+    <desc lang="en">Nora and Erika face some painful questions about their losses and lives; Kevin admits to a secret.</desc>
+    <date>2015</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Science Fiction</category>
+    <category lang="en">Suspense</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-signature-west" start="20261107090100 -0800" stop="20261107095800 -0800">
+    <title lang="en">Off Ramp</title>
+    <desc lang="en">Laurie writes a tell-all book, and enlists Tom to help rescue a troubled Guilty Remnant recruit.</desc>
+    <date>2015</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Science Fiction</category>
+    <category lang="en">Suspense</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-zone-west" start="20261107090900 -0800" stop="20261107100900 -0800">
+    <title lang="en">The Out List</title>
+    <desc lang="en">Pop Culture &amp; Celebrities. Documentaries. TV-MA. 2013</desc>
+    <date>2013</date>
+    <category lang="en">Pop Culture &amp; Celebrities</category>
+    <category lang="en">Documentaries</category>
+    <category lang="en">TV-MA</category>
+    <category lang="en">2013</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-east" start="20261107121200 -0500" stop="20261107130600 -0500">
+    <title lang="en">The Simple Act of Paying Attention</title>
+    <desc lang="en">When Molly discovers a troubling error, Johnny tries to downplay the situation, while Serena and Nick question the staff.</desc>
+    <date>2026</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Thrillers</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/ULN-e/z1sfOg7RGD4UiLwCg.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-latino-east" start="20261107121200 -0500" stop="20261107130600 -0500">
+    <title lang="en">The Simple Act of Paying Attention</title>
+    <desc lang="en">When Molly discovers a troubling error, Johnny tries to downplay the situation, while Serena and Nick question the staff.</desc>
+    <date>2026</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Thrillers</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/ULN-e/z1sfOg7RGD4UiLwCg.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo2-east" start="20261107122500 -0500" stop="20261107125600 -0500">
+    <title lang="en">Agent of the Year</title>
+    <desc lang="en">Amid personal and professional crises, Alex and Sam each try to keep things together at the Women’s Literature Awards ceremony. Later, Ruari grows frustrated with Alex when he tries to talk to her about Plum.</desc>
+    <date>2026</date>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/LLaer/Edk9GdcEqxO9guYMA.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-comedy-east" start="20261107122600 -0500" stop="20261107140100 -0500">
+    <title lang="en">Diary of a Wimpy Kid: Dog Days</title>
+    <desc lang="en">Wimpy Kid Greg faces the dog days of summer after a scheme to pretend he has a job at a country club goes awry.</desc>
+    <date>2012</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Kids &amp; Family</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo2-west" start="20261107092600 -0800" stop="20261107114200 -0800">
+    <title lang="en">The Conjuring: Last Rites</title>
+    <desc lang="en">From New Line Cinema comes the ninth entry in the more than $2 billion theatrical Conjuring Universe, The Conjuring: Last Rites, which delivers another thrilling chapter based on real events.</desc>
+    <date>2025</date>
+    <category lang="en">Horror</category>
+    <category lang="en">Supernatural</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-comedy-west" start="20261107093000 -0800" stop="20261107104600 -0800">
+    <title lang="en">Chris Fleming: Live at the Palace</title>
+    <desc lang="en">From the Cadillac Palace Theatre in Chicago, comedian Chris Fleming bursts onto the screen with a fun and lighthearted blend of skillful storytelling and wild physicality in his first HBO stand-up special.</desc>
+    <date>2026</date>
+    <category lang="en">Events</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Stand-Up Specials</category>
+    <category lang="en">Stand-Up</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/rTWiA/UVFaRX0COsXi1YESw.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-zone-east" start="20261107123300 -0500" stop="20261107141800 -0500">
+    <title lang="en">Life of the Party</title>
+    <desc lang="en">Melissa McCarthy goes back to college in this raucous comedy that finds her playing a middle-aged mom on campus.</desc>
+    <date>2018</date>
+    <category lang="en">Comedy</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-signature-east" start="20261107124900 -0500" stop="20261107134700 -0500">
+    <title lang="en">A Most Powerful Adversary</title>
+    <desc lang="en">The Leftovers. Season 2, Episode 7</desc>
+    <date>2015</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Science Fiction</category>
+    <category lang="en">Suspense</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo2-east" start="20261107125600 -0500" stop="20261107135400 -0500">
+    <title lang="en">Ring the Bells</title>
+    <desc lang="en">Bertha faces Gladys’s difficult childbirth, Peggy achieves a milestone, and Agnes makes plans to host a prestigious dinner.</desc>
+    <date>2026</date>
+    <category lang="en">Period Pieces</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/5GORZ/EY910Iz0_fVVcGDKw.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-signature-west" start="20261107095800 -0800" stop="20261107105400 -0800">
+    <title lang="en">Orange Sticker</title>
+    <desc lang="en">Nora is plagued by new fears, while Kevin and John try to piece together a missing-persons mystery.</desc>
+    <date>2015</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Science Fiction</category>
+    <category lang="en">Suspense</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-east" start="20261107130600 -0500" stop="20261107133600 -0500">
+    <title lang="en">Agent of the Year</title>
+    <desc lang="en">Amid personal and professional crises, Alex and Sam each try to keep things together at the Women’s Literature Awards ceremony. Later, Ruari grows frustrated with Alex when he tries to talk to her about Plum.</desc>
+    <date>2026</date>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/LLaer/Edk9GdcEqxO9guYMA.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-latino-east" start="20261107130600 -0500" stop="20261107133600 -0500">
+    <title lang="en">Agent of the Year</title>
+    <desc lang="en">Amid personal and professional crises, Alex and Sam each try to keep things together at the Women’s Literature Awards ceremony. Later, Ruari grows frustrated with Alex when he tries to talk to her about Plum.</desc>
+    <date>2026</date>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/LLaer/Edk9GdcEqxO9guYMA.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-zone-west" start="20261107100900 -0800" stop="20261107110700 -0800">
+    <title lang="en">The Trans List</title>
+    <desc lang="en">Documentaries. Change Makers. TV-MA. 2016</desc>
+    <date>2016</date>
+    <category lang="en">Documentaries</category>
+    <category lang="en">Change Makers</category>
+    <category lang="en">TV-MA</category>
+    <category lang="en">2016</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-west" start="20261107101000 -0800" stop="20261107111000 -0800">
+    <title lang="en">November 6, 2026: Peter Berg, Coleman Hughes, Ali Vitali</title>
+    <desc lang="en">Guests: Peter Berg, Coleman Hughes, Ali Vitali.</desc>
+    <date>2026</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Current Events</category>
+    <category lang="en">News</category>
+    <category lang="en">Talk Show</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-latino-west" start="20261107101500 -0800" stop="20261107111000 -0800">
+    <title lang="en">En Letra de Otro: Goyo</title>
+    <desc lang="en">Colombian artist Goyo of the trio ChocQuibTown offers a glimpse of her history, influences and what the future holds for her career.</desc>
+    <date>2022</date>
+    <category lang="en">Documentary</category>
+    <category lang="en">Musical</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-east" start="20261107133600 -0500" stop="20261107155200 -0500">
+    <title lang="en">Gran Turismo</title>
+    <desc lang="en">Neill Blomkamp (District 9) directs this incredible true story of a young man whose gaming skills on the racing simulator Gran Turismo lead him to become a professional driver and take on the most elite sport in the world.</desc>
+    <date>2023</date>
+    <category lang="en">Action</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Sports</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-latino-east" start="20261107133600 -0500" stop="20261107155200 -0500">
+    <title lang="en">Gran Turismo</title>
+    <desc lang="en">Neill Blomkamp (District 9) directs this incredible true story of a young man whose gaming skills on the racing simulator Gran Turismo lead him to become a professional driver and take on the most elite sport in the world.</desc>
+    <date>2023</date>
+    <category lang="en">Action</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Sports</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-comedy-west" start="20261107104600 -0800" stop="20261107122600 -0800">
+    <title lang="en">Happy Feet Two</title>
+    <desc lang="en">After a humiliating public experience, Mumble's son, Erik, runs away from home. With Mumble on a desperate search to find his boy, calamity strikes, leaving their entire penguin population trapped. Can Mumble and Erik find a way to save the day?</desc>
+    <date>2011</date>
+    <category lang="en">Adventure</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Kids &amp; Family</category>
+    <category lang="en">Musical</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-signature-east" start="20261107134700 -0500" stop="20261107145000 -0500">
+    <title lang="en">International Assassin</title>
+    <desc lang="en">The Leftovers. Season 2, Episode 8</desc>
+    <date>2015</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Science Fiction</category>
+    <category lang="en">Suspense</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-signature-west" start="20261107105400 -0800" stop="20261107115100 -0800">
+    <title lang="en">No Room at the Inn</title>
+    <desc lang="en">A trip out of Miracle turns into a harrowing ordeal for Reverend Matt and his unresponsive wife, Mary.</desc>
+    <date>2015</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Science Fiction</category>
+    <category lang="en">Suspense</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo2-east" start="20261107135400 -0500" stop="20261107144800 -0500">
+    <title lang="en">The Simple Act of Paying Attention</title>
+    <desc lang="en">When Molly discovers a troubling error, Johnny tries to downplay the situation, while Serena and Nick question the staff.</desc>
+    <date>2026</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Thrillers</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/ULN-e/z1sfOg7RGD4UiLwCg.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-comedy-east" start="20261107140100 -0500" stop="20261107154500 -0500">
+    <title lang="en">Paddington 2</title>
+    <desc lang="en">Paddington spots a pop-up book in an antique shop -- the perfect present for his beloved aunt's 100th birthday. When a thief steals the prized book, Paddington embarks on an epic quest to unmask the culprit before her big celebration.</desc>
+    <date>2018</date>
+    <category lang="en">Adventure</category>
+    <category lang="en">Kids &amp; Family</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-zone-west" start="20261107110700 -0800" stop="20261107123300 -0800">
+    <title lang="en">The Stroll</title>
+    <desc lang="en">The history of transgender sex workers in New York City’s Meatpacking District from the 1970s to the early 2000s is chronicled in this powerful and poignant documentary directed by Kristen Lovell and Zackary Drucker (HBO’s The Lady and The Dale).</desc>
+    <date>2023</date>
+    <category lang="en">Documentaries</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/MeGRG/oTG1wO74B3H0ThLRA.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-latino-west" start="20261107111000 -0800" stop="20261107121200 -0800">
+    <title lang="en">Ring the Bells</title>
+    <desc lang="en">Bertha faces Gladys’s difficult childbirth, Peggy achieves a milestone, and Agnes makes plans to host a prestigious dinner.</desc>
+    <date>2026</date>
+    <category lang="en">Period Pieces</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/5GORZ/EY910Iz0_fVVcGDKw.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-west" start="20261107111000 -0800" stop="20261107121200 -0800">
+    <title lang="en">Ring the Bells</title>
+    <desc lang="en">Bertha faces Gladys’s difficult childbirth, Peggy achieves a milestone, and Agnes makes plans to host a prestigious dinner.</desc>
+    <date>2026</date>
+    <category lang="en">Period Pieces</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/5GORZ/EY910Iz0_fVVcGDKw.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-zone-east" start="20261107141800 -0500" stop="20261107155800 -0500">
+    <title lang="en">Knock Knock</title>
+    <desc lang="en">When two gorgeous strangers come knocking on his door, a happily married dad makes the mistake of his life letting them in. What follows is a male fantasy that goes terribly wrong as they seduce him ... and then begin to punish him for his indiscretion.</desc>
+    <date>2015</date>
+    <category lang="en">Crime</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Suspense</category>
+    <category lang="en">Thriller</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo2-west" start="20261107114200 -0800" stop="20261107122500 -0800">
+    <title lang="en">Kordell Stewart / Slash &amp; Burn</title>
+    <desc lang="en">Former Pittsburgh Steelers quarterback/wide receiver Kordell Stewart reflects on how his on-field success as the phenom "Slash" was met with off-the-field backlash, including a malicious rumor that shook the foundation of his life and career.</desc>
+    <date>2026</date>
+    <category lang="en">Documentaries</category>
+    <category lang="en">Sports Stars &amp; Stories</category>
+    <category lang="en">Sports</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/7JVxl/dJtN_DBdFPvRVYiFw.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo2-east" start="20261107144800 -0500" stop="20261107162600 -0500">
+    <title lang="en">The First Purge</title>
+    <desc lang="en">A futuristic U.S. government pushes to lower crime by legalizing it for a single terrifying night. But dark efforts to ensure the program is successful during its test run on Staten Island wind up backfiring as the violence explodes beyond those borders.</desc>
+    <date>2018</date>
+    <category lang="en">Horror</category>
+    <category lang="en">Science Fiction</category>
+    <category lang="en">Thriller</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-signature-east" start="20261107145000 -0500" stop="20261107154500 -0500">
+    <title lang="en">Ten Thirteen</title>
+    <desc lang="en">A personal loss and pilgrimage to Miracle offer clues into Meg's path.</desc>
+    <date>2015</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Science Fiction</category>
+    <category lang="en">Suspense</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-signature-west" start="20261107115100 -0800" stop="20261107124900 -0800">
+    <title lang="en">Lens</title>
+    <desc lang="en">Nora and Erika face some painful questions about their losses and lives; Kevin admits to a secret.</desc>
+    <date>2015</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Science Fiction</category>
+    <category lang="en">Suspense</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-latino-west" start="20261107121200 -0800" stop="20261107130600 -0800">
+    <title lang="en">The Simple Act of Paying Attention</title>
+    <desc lang="en">When Molly discovers a troubling error, Johnny tries to downplay the situation, while Serena and Nick question the staff.</desc>
+    <date>2026</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Thrillers</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/ULN-e/z1sfOg7RGD4UiLwCg.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-west" start="20261107121200 -0800" stop="20261107130600 -0800">
+    <title lang="en">The Simple Act of Paying Attention</title>
+    <desc lang="en">When Molly discovers a troubling error, Johnny tries to downplay the situation, while Serena and Nick question the staff.</desc>
+    <date>2026</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Thrillers</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/ULN-e/z1sfOg7RGD4UiLwCg.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo2-west" start="20261107122500 -0800" stop="20261107125600 -0800">
+    <title lang="en">Agent of the Year</title>
+    <desc lang="en">Amid personal and professional crises, Alex and Sam each try to keep things together at the Women’s Literature Awards ceremony. Later, Ruari grows frustrated with Alex when he tries to talk to her about Plum.</desc>
+    <date>2026</date>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/LLaer/Edk9GdcEqxO9guYMA.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-comedy-west" start="20261107122600 -0800" stop="20261107140100 -0800">
+    <title lang="en">Diary of a Wimpy Kid: Dog Days</title>
+    <desc lang="en">Wimpy Kid Greg faces the dog days of summer after a scheme to pretend he has a job at a country club goes awry.</desc>
+    <date>2012</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Kids &amp; Family</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-zone-west" start="20261107123300 -0800" stop="20261107141800 -0800">
+    <title lang="en">Life of the Party</title>
+    <desc lang="en">Melissa McCarthy goes back to college in this raucous comedy that finds her playing a middle-aged mom on campus.</desc>
+    <date>2018</date>
+    <category lang="en">Comedy</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-comedy-east" start="20261107154500 -0500" stop="20261107171800 -0500">
+    <title lang="en">Pitch Perfect 3</title>
+    <desc lang="en">Having won the World Championships of acapella singing and graduated from college, the Bellas have gone their separate ways...until a USO competition brings them together for one final chance to make their mark.</desc>
+    <date>2017</date>
+    <category lang="en">Adventure</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Musical</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-signature-east" start="20261107154500 -0500" stop="20261107165700 -0500">
+    <title lang="en">I Live Here Now</title>
+    <desc lang="en">Miracle faces and unexpected threat on the fourth anniversary of The Departure.</desc>
+    <date>2015</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Fantasy</category>
+    <category lang="en">Science Fiction</category>
+    <category lang="en">Suspense</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-signature-west" start="20261107124900 -0800" stop="20261107134700 -0800">
+    <title lang="en">A Most Powerful Adversary</title>
+    <desc lang="en">The Leftovers. Season 2, Episode 7</desc>
+    <date>2015</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Science Fiction</category>
+    <category lang="en">Suspense</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-east" start="20261107155200 -0500" stop="20261107162300 -0500">
+    <title lang="en">A Story of Derry</title>
+    <desc lang="en">Hundreds of years before Pennywise, three youngsters venture into the Western Wood...where they encounter a terrifying ancient spirit.</desc>
+    <date>2026</date>
+    <category lang="en">Horror</category>
+    <category lang="en">Mystery</category>
+    <category lang="en">Supernatural</category>
+    <category lang="en">Thriller</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-latino-east" start="20261107155200 -0500" stop="20261107162300 -0500">
+    <title lang="en">A Story of Derry</title>
+    <desc lang="en">Hundreds of years before Pennywise, three youngsters venture into the Western Wood...where they encounter a terrifying ancient spirit.</desc>
+    <date>2026</date>
+    <category lang="en">Horror</category>
+    <category lang="en">Mystery</category>
+    <category lang="en">Supernatural</category>
+    <category lang="en">Thriller</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo2-west" start="20261107125600 -0800" stop="20261107135400 -0800">
+    <title lang="en">Ring the Bells</title>
+    <desc lang="en">Bertha faces Gladys’s difficult childbirth, Peggy achieves a milestone, and Agnes makes plans to host a prestigious dinner.</desc>
+    <date>2026</date>
+    <category lang="en">Period Pieces</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/5GORZ/EY910Iz0_fVVcGDKw.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-zone-east" start="20261107155800 -0500" stop="20261107173600 -0500">
+    <title lang="en">Final Destination</title>
+    <desc lang="en">Death comes for a group of teens who escaped their fate on a doomed airliner in this first frightening foray in the Final Destination series.</desc>
+    <date>2000</date>
+    <category lang="en">Horror</category>
+    <category lang="en">Thriller</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-latino-west" start="20261107130600 -0800" stop="20261107133600 -0800">
+    <title lang="en">Agent of the Year</title>
+    <desc lang="en">Amid personal and professional crises, Alex and Sam each try to keep things together at the Women’s Literature Awards ceremony. Later, Ruari grows frustrated with Alex when he tries to talk to her about Plum.</desc>
+    <date>2026</date>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/LLaer/Edk9GdcEqxO9guYMA.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-west" start="20261107130600 -0800" stop="20261107133600 -0800">
+    <title lang="en">Agent of the Year</title>
+    <desc lang="en">Amid personal and professional crises, Alex and Sam each try to keep things together at the Women’s Literature Awards ceremony. Later, Ruari grows frustrated with Alex when he tries to talk to her about Plum.</desc>
+    <date>2026</date>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/LLaer/Edk9GdcEqxO9guYMA.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-east" start="20261107162300 -0500" stop="20261107171800 -0500">
+    <title lang="en">The Simple Act of Paying Attention</title>
+    <desc lang="en">When Molly discovers a troubling error, Johnny tries to downplay the situation, while Serena and Nick question the staff.</desc>
+    <date>2026</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Thrillers</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/ULN-e/z1sfOg7RGD4UiLwCg.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-latino-east" start="20261107162300 -0500" stop="20261107171800 -0500">
+    <title lang="en">The Simple Act of Paying Attention</title>
+    <desc lang="en">When Molly discovers a troubling error, Johnny tries to downplay the situation, while Serena and Nick question the staff.</desc>
+    <date>2026</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Thrillers</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/ULN-e/z1sfOg7RGD4UiLwCg.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo2-east" start="20261107162600 -0500" stop="20261107182900 -0500">
+    <title lang="en">The Amateur</title>
+    <desc lang="en">Charlie Heller (Rami Malek) is a brilliant but deeply introverted decoder for the CIA whose wife is killed in a London terrorist attack. His intelligence serves as the ultimate weapon for his revenge.</desc>
+    <date>2025</date>
+    <category lang="en">Action</category>
+    <category lang="en">High Octane Thrillers</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/U7-dp/iH82_jdRrZ4CIpIXQ.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-latino-west" start="20261107133600 -0800" stop="20261107155200 -0800">
+    <title lang="en">Gran Turismo</title>
+    <desc lang="en">Neill Blomkamp (District 9) directs this incredible true story of a young man whose gaming skills on the racing simulator Gran Turismo lead him to become a professional driver and take on the most elite sport in the world.</desc>
+    <date>2023</date>
+    <category lang="en">Action</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Sports</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-west" start="20261107133600 -0800" stop="20261107155200 -0800">
+    <title lang="en">Gran Turismo</title>
+    <desc lang="en">Neill Blomkamp (District 9) directs this incredible true story of a young man whose gaming skills on the racing simulator Gran Turismo lead him to become a professional driver and take on the most elite sport in the world.</desc>
+    <date>2023</date>
+    <category lang="en">Action</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Sports</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-signature-west" start="20261107134700 -0800" stop="20261107145000 -0800">
+    <title lang="en">International Assassin</title>
+    <desc lang="en">The Leftovers. Season 2, Episode 8</desc>
+    <date>2015</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Science Fiction</category>
+    <category lang="en">Suspense</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo2-west" start="20261107135400 -0800" stop="20261107144800 -0800">
+    <title lang="en">The Simple Act of Paying Attention</title>
+    <desc lang="en">When Molly discovers a troubling error, Johnny tries to downplay the situation, while Serena and Nick question the staff.</desc>
+    <date>2026</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Thrillers</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/ULN-e/z1sfOg7RGD4UiLwCg.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-signature-east" start="20261107165700 -0500" stop="20261107175800 -0500">
+    <title lang="en">The Book of Kevin</title>
+    <desc lang="en">The Leftovers. Season 3, Episode 1</desc>
+    <date>2017</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Science Fiction</category>
+    <category lang="en">Suspense</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-comedy-west" start="20261107140100 -0800" stop="20261107154500 -0800">
+    <title lang="en">Paddington 2</title>
+    <desc lang="en">Paddington spots a pop-up book in an antique shop -- the perfect present for his beloved aunt's 100th birthday. When a thief steals the prized book, Paddington embarks on an epic quest to unmask the culprit before her big celebration.</desc>
+    <date>2018</date>
+    <category lang="en">Adventure</category>
+    <category lang="en">Kids &amp; Family</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-comedy-east" start="20261107171800 -0500" stop="20261107174700 -0500">
+    <title lang="en">Lockjaw</title>
+    <desc lang="en">After a surprising diagnosis, Alex deals with Ruari’s graduation stunt, her ex’s decision to move to Canada, and a setup with an older man</desc>
+    <date>2026</date>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/ExkaC/Osc71D6UFTdRz10vQ.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-east" start="20261107171800 -0500" stop="20261107182000 -0500">
+    <title lang="en">Ring the Bells</title>
+    <desc lang="en">Bertha faces Gladys’s difficult childbirth, Peggy achieves a milestone, and Agnes makes plans to host a prestigious dinner.</desc>
+    <date>2026</date>
+    <category lang="en">Period Pieces</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/5GORZ/EY910Iz0_fVVcGDKw.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-latino-east" start="20261107171800 -0500" stop="20261107182000 -0500">
+    <title lang="en">Ring the Bells</title>
+    <desc lang="en">Bertha faces Gladys’s difficult childbirth, Peggy achieves a milestone, and Agnes makes plans to host a prestigious dinner.</desc>
+    <date>2026</date>
+    <category lang="en">Period Pieces</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/5GORZ/EY910Iz0_fVVcGDKw.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-zone-west" start="20261107141800 -0800" stop="20261107155800 -0800">
+    <title lang="en">Knock Knock</title>
+    <desc lang="en">When two gorgeous strangers come knocking on his door, a happily married dad makes the mistake of his life letting them in. What follows is a male fantasy that goes terribly wrong as they seduce him ... and then begin to punish him for his indiscretion.</desc>
+    <date>2015</date>
+    <category lang="en">Crime</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Suspense</category>
+    <category lang="en">Thriller</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-zone-east" start="20261107173600 -0500" stop="20261107190700 -0500">
+    <title lang="en">Final Destination 2</title>
+    <desc lang="en">One year after the Flight 180 tragedy, a group of lucky individuals cheat death in a horrific chain-reaction highway wreck. But Death will not be denied, and it comes to claim their lives in increasingly ghastly (and creative) ways.</desc>
+    <date>2003</date>
+    <category lang="en">Horror</category>
+    <category lang="en">Supernatural</category>
+    <category lang="en">Thriller</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-comedy-east" start="20261107174700 -0500" stop="20261107181600 -0500">
+    <title lang="en">Wagon Burner</title>
+    <desc lang="en">Alex has a delicate meeting with the agency’s most lucrative author, tries to get Ruari to open up, and reconnects with Patrick.</desc>
+    <date>2026</date>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/sJ-EX/lsbuU6fM4CVqcK_dg.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo2-west" start="20261107144800 -0800" stop="20261107162600 -0800">
+    <title lang="en">The First Purge</title>
+    <desc lang="en">A futuristic U.S. government pushes to lower crime by legalizing it for a single terrifying night. But dark efforts to ensure the program is successful during its test run on Staten Island wind up backfiring as the violence explodes beyond those borders.</desc>
+    <date>2018</date>
+    <category lang="en">Horror</category>
+    <category lang="en">Science Fiction</category>
+    <category lang="en">Thriller</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-signature-west" start="20261107145000 -0800" stop="20261107154500 -0800">
+    <title lang="en">Ten Thirteen</title>
+    <desc lang="en">A personal loss and pilgrimage to Miracle offer clues into Meg's path.</desc>
+    <date>2015</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Science Fiction</category>
+    <category lang="en">Suspense</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-signature-east" start="20261107175800 -0500" stop="20261107185700 -0500">
+    <title lang="en">Don't Be Ridiculous</title>
+    <desc lang="en">Nora investigates a scam that claims there's a way to reunite victims of the Sudden Departure with their families.</desc>
+    <date>2017</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Science Fiction</category>
+    <category lang="en">Suspense</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-comedy-east" start="20261107181600 -0500" stop="20261107184500 -0500">
+    <title lang="en">Welcome to the Rat's Nest</title>
+    <desc lang="en">At the Frankfurt Book Fair, Alex tries to keep Ruari occupied while being bombarded by the viral success of Malcolm’s self-published novel.</desc>
+    <date>2026</date>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/BhL8z/NRKNVJUbmdXmm7Hcw.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-east" start="20261107182000 -0500" stop="20261107200000 -0500">
+    <title lang="en">Fuze</title>
+    <desc lang="en">London is thrown into panic by the discovery of an unexploded WWII bomb on a construction site. Amidst the chaos of a widespread evacuation, a gang of criminals begins an audacious heist.</desc>
+    <date>2026</date>
+    <category lang="en">Crime</category>
+    <category lang="en">Big Screen Crime</category>
+    <category lang="en">Action</category>
+    <category lang="en">High Octane Thrillers</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/0uhps/wMlXoJXde1yor44UQ.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-latino-east" start="20261107182000 -0500" stop="20261107200000 -0500">
+    <title lang="en">Fuze</title>
+    <desc lang="en">London is thrown into panic by the discovery of an unexploded WWII bomb on a construction site. Amidst the chaos of a widespread evacuation, a gang of criminals begins an audacious heist.</desc>
+    <date>2026</date>
+    <category lang="en">Crime</category>
+    <category lang="en">Big Screen Crime</category>
+    <category lang="en">Action</category>
+    <category lang="en">High Octane Thrillers</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/0uhps/wMlXoJXde1yor44UQ.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo2-east" start="20261107182900 -0500" stop="20261107192200 -0500">
+    <title lang="en">The Simple Act of Paying Attention</title>
+    <desc lang="en">When Molly discovers a troubling error, Johnny tries to downplay the situation, while Serena and Nick question the staff.</desc>
+    <date>2026</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Thrillers</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/ULN-e/z1sfOg7RGD4UiLwCg.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-comedy-east" start="20261107184500 -0500" stop="20261107191700 -0500">
+    <title lang="en">Michael Man</title>
+    <desc lang="en">Sam gives Alex the unsavory task of getting Malcom back as a client. Later, Alex leans on Michael at a family dinner.</desc>
+    <date>2026</date>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/DWo9K/GPse4g2WlWzJVkNBQ.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-comedy-west" start="20261107154500 -0800" stop="20261107171800 -0800">
+    <title lang="en">Pitch Perfect 3</title>
+    <desc lang="en">Having won the World Championships of acapella singing and graduated from college, the Bellas have gone their separate ways...until a USO competition brings them together for one final chance to make their mark.</desc>
+    <date>2017</date>
+    <category lang="en">Adventure</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Musical</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-signature-west" start="20261107154500 -0800" stop="20261107165700 -0800">
+    <title lang="en">I Live Here Now</title>
+    <desc lang="en">Miracle faces and unexpected threat on the fourth anniversary of The Departure.</desc>
+    <date>2015</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Fantasy</category>
+    <category lang="en">Science Fiction</category>
+    <category lang="en">Suspense</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-latino-west" start="20261107155200 -0800" stop="20261107162300 -0800">
+    <title lang="en">A Story of Derry</title>
+    <desc lang="en">Hundreds of years before Pennywise, three youngsters venture into the Western Wood...where they encounter a terrifying ancient spirit.</desc>
+    <date>2026</date>
+    <category lang="en">Horror</category>
+    <category lang="en">Mystery</category>
+    <category lang="en">Supernatural</category>
+    <category lang="en">Thriller</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-west" start="20261107155200 -0800" stop="20261107162300 -0800">
+    <title lang="en">A Story of Derry</title>
+    <desc lang="en">Hundreds of years before Pennywise, three youngsters venture into the Western Wood...where they encounter a terrifying ancient spirit.</desc>
+    <date>2026</date>
+    <category lang="en">Horror</category>
+    <category lang="en">Mystery</category>
+    <category lang="en">Supernatural</category>
+    <category lang="en">Thriller</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-signature-east" start="20261107185700 -0500" stop="20261107195500 -0500">
+    <title lang="en">Crazy Whitefella Thinking</title>
+    <desc lang="en">The Leftovers. Season 3, Episode 3</desc>
+    <date>2017</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Fantasy</category>
+    <category lang="en">Science Fiction</category>
+    <category lang="en">Suspense</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-zone-west" start="20261107155800 -0800" stop="20261107173600 -0800">
+    <title lang="en">Final Destination</title>
+    <desc lang="en">Death comes for a group of teens who escaped their fate on a doomed airliner in this first frightening foray in the Final Destination series.</desc>
+    <date>2000</date>
+    <category lang="en">Horror</category>
+    <category lang="en">Thriller</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-zone-east" start="20261107190700 -0500" stop="20261107204000 -0500">
+    <title lang="en">Final Destination 3</title>
+    <desc lang="en">Death makes a bloody date with a group of unlucky teens who escaped a fatal roller-coaster crash in this harrowing horror sequel.</desc>
+    <date>2006</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Suspense</category>
+    <category lang="en">Thriller</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-comedy-east" start="20261107191700 -0500" stop="20261107205800 -0500">
+    <title lang="en">A Minecraft Movie</title>
+    <desc lang="en">Four misfits are pulled through a portal into the Overworld, a cubic wonderland of imagination. To get back home, they'll have to master this world while embarking on a magical quest with an unexpected expert crafter, Steve.</desc>
+    <date>2025</date>
+    <category lang="en">Action</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Fantasy</category>
+    <category lang="en">Kids &amp; Family</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo2-east" start="20261107192200 -0500" stop="20261107202000 -0500">
+    <title lang="en">Ring the Bells</title>
+    <desc lang="en">Bertha faces Gladys’s difficult childbirth, Peggy achieves a milestone, and Agnes makes plans to host a prestigious dinner.</desc>
+    <date>2026</date>
+    <category lang="en">Period Pieces</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/5GORZ/EY910Iz0_fVVcGDKw.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-latino-west" start="20261107162300 -0800" stop="20261107171800 -0800">
+    <title lang="en">The Simple Act of Paying Attention</title>
+    <desc lang="en">When Molly discovers a troubling error, Johnny tries to downplay the situation, while Serena and Nick question the staff.</desc>
+    <date>2026</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Thrillers</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/ULN-e/z1sfOg7RGD4UiLwCg.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-west" start="20261107162300 -0800" stop="20261107171800 -0800">
+    <title lang="en">The Simple Act of Paying Attention</title>
+    <desc lang="en">When Molly discovers a troubling error, Johnny tries to downplay the situation, while Serena and Nick question the staff.</desc>
+    <date>2026</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Thrillers</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/ULN-e/z1sfOg7RGD4UiLwCg.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo2-west" start="20261107162600 -0800" stop="20261107182900 -0800">
+    <title lang="en">The Amateur</title>
+    <desc lang="en">Charlie Heller (Rami Malek) is a brilliant but deeply introverted decoder for the CIA whose wife is killed in a London terrorist attack. His intelligence serves as the ultimate weapon for his revenge.</desc>
+    <date>2025</date>
+    <category lang="en">Action</category>
+    <category lang="en">High Octane Thrillers</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/U7-dp/iH82_jdRrZ4CIpIXQ.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-signature-east" start="20261107195500 -0500" stop="20261107205100 -0500">
+    <title lang="en">G'Day Melbourne</title>
+    <desc lang="en">Kevin tags along with Nora to Australia and it all goes down under from there.</desc>
+    <date>2017</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Fantasy</category>
+    <category lang="en">Science Fiction</category>
+    <category lang="en">Suspense</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-signature-west" start="20261107165700 -0800" stop="20261107175800 -0800">
+    <title lang="en">The Book of Kevin</title>
+    <desc lang="en">The Leftovers. Season 3, Episode 1</desc>
+    <date>2017</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Science Fiction</category>
+    <category lang="en">Suspense</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-east" start="20261107200000 -0500" stop="20261107214500 -0500">
+    <title lang="en">Skyscraper</title>
+    <desc lang="en">Action. Adventure. Thriller. PG-13. 2018</desc>
+    <date>2018</date>
+    <category lang="en">Action</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">PG-13</category>
+    <category lang="en">2018</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-latino-east" start="20261107200000 -0500" stop="20261107214500 -0500">
+    <title lang="en">Skyscraper</title>
+    <desc lang="en">Action. Adventure. Thriller. PG-13. 2018</desc>
+    <date>2018</date>
+    <category lang="en">Action</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">PG-13</category>
+    <category lang="en">2018</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-comedy-west" start="20261107171800 -0800" stop="20261107174700 -0800">
+    <title lang="en">Lockjaw</title>
+    <desc lang="en">After a surprising diagnosis, Alex deals with Ruari’s graduation stunt, her ex’s decision to move to Canada, and a setup with an older man</desc>
+    <date>2026</date>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/ExkaC/Osc71D6UFTdRz10vQ.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-latino-west" start="20261107171800 -0800" stop="20261107182000 -0800">
+    <title lang="en">Ring the Bells</title>
+    <desc lang="en">Bertha faces Gladys’s difficult childbirth, Peggy achieves a milestone, and Agnes makes plans to host a prestigious dinner.</desc>
+    <date>2026</date>
+    <category lang="en">Period Pieces</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/5GORZ/EY910Iz0_fVVcGDKw.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-west" start="20261107171800 -0800" stop="20261107182000 -0800">
+    <title lang="en">Ring the Bells</title>
+    <desc lang="en">Bertha faces Gladys’s difficult childbirth, Peggy achieves a milestone, and Agnes makes plans to host a prestigious dinner.</desc>
+    <date>2026</date>
+    <category lang="en">Period Pieces</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/5GORZ/EY910Iz0_fVVcGDKw.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo2-east" start="20261107202000 -0500" stop="20261107204900 -0500">
+    <title lang="en">Agent of the Year</title>
+    <desc lang="en">Amid personal and professional crises, Alex and Sam each try to keep things together at the Women’s Literature Awards ceremony. Later, Ruari grows frustrated with Alex when he tries to talk to her about Plum.</desc>
+    <date>2026</date>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/LLaer/Edk9GdcEqxO9guYMA.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-zone-west" start="20261107173600 -0800" stop="20261107190700 -0800">
+    <title lang="en">Final Destination 2</title>
+    <desc lang="en">One year after the Flight 180 tragedy, a group of lucky individuals cheat death in a horrific chain-reaction highway wreck. But Death will not be denied, and it comes to claim their lives in increasingly ghastly (and creative) ways.</desc>
+    <date>2003</date>
+    <category lang="en">Horror</category>
+    <category lang="en">Supernatural</category>
+    <category lang="en">Thriller</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-zone-east" start="20261107204000 -0500" stop="20261107221200 -0500">
+    <title lang="en">Final Destination 5</title>
+    <desc lang="en">Thanks to a psychic vision, young sales rep Sam and a handful of his co-workers manage to survive a horrific bridge collapse. But Death doesn't like to be cheated, and one by one the unsuspecting souls end up meeting their gruesome fates.</desc>
+    <date>2011</date>
+    <category lang="en">Horror</category>
+    <category lang="en">Thriller</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-comedy-west" start="20261107174700 -0800" stop="20261107181600 -0800">
+    <title lang="en">Wagon Burner</title>
+    <desc lang="en">Alex has a delicate meeting with the agency’s most lucrative author, tries to get Ruari to open up, and reconnects with Patrick.</desc>
+    <date>2026</date>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/sJ-EX/lsbuU6fM4CVqcK_dg.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo2-east" start="20261107204900 -0500" stop="20261107230900 -0500">
+    <title lang="en">Ready Player One</title>
+    <desc lang="en">Steven Spielberg's futuristic tale in which the late creator of a virtual universe leaves it to be inherited (along with his fortune) by anyone who can find an Easter Egg. From a horde of competitors, one hardscrabble youth emerges to lead the chase.</desc>
+    <date>2018</date>
+    <category lang="en">Action</category>
+    <category lang="en">Science Fiction</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-signature-east" start="20261107205100 -0500" stop="20261107214700 -0500">
+    <title lang="en">It's A Matt, Matt, Matt, Matt World</title>
+    <desc lang="en">Matt Jamison leads his fellow disciples to Australia on a 'rescue' mission.</desc>
+    <date>2017</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Fantasy</category>
+    <category lang="en">Science Fiction</category>
+    <category lang="en">Suspense</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-comedy-east" start="20261107205800 -0500" stop="20261107222500 -0500">
+    <title lang="en">Boys Go to Jupiter</title>
+    <desc lang="en">In writer/director Julian Glander's wildly unique adult animated tale, suburban teen Billy 5000 encounters various quirky characters--including a creature he names Donut--while working for a food delivery app.</desc>
+    <date>2024</date>
+    <category lang="en">Adult Animation</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/Pl8jd/Tg97xkXmezvj_-LAQ.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-signature-west" start="20261107175800 -0800" stop="20261107185700 -0800">
+    <title lang="en">Don't Be Ridiculous</title>
+    <desc lang="en">Nora investigates a scam that claims there's a way to reunite victims of the Sudden Departure with their families.</desc>
+    <date>2017</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Science Fiction</category>
+    <category lang="en">Suspense</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-comedy-west" start="20261107181600 -0800" stop="20261107184500 -0800">
+    <title lang="en">Welcome to the Rat's Nest</title>
+    <desc lang="en">At the Frankfurt Book Fair, Alex tries to keep Ruari occupied while being bombarded by the viral success of Malcolm’s self-published novel.</desc>
+    <date>2026</date>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/BhL8z/NRKNVJUbmdXmm7Hcw.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-latino-west" start="20261107182000 -0800" stop="20261107200000 -0800">
+    <title lang="en">Fuze</title>
+    <desc lang="en">London is thrown into panic by the discovery of an unexploded WWII bomb on a construction site. Amidst the chaos of a widespread evacuation, a gang of criminals begins an audacious heist.</desc>
+    <date>2026</date>
+    <category lang="en">Crime</category>
+    <category lang="en">Big Screen Crime</category>
+    <category lang="en">Action</category>
+    <category lang="en">High Octane Thrillers</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/0uhps/wMlXoJXde1yor44UQ.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-west" start="20261107182000 -0800" stop="20261107200000 -0800">
+    <title lang="en">Fuze</title>
+    <desc lang="en">London is thrown into panic by the discovery of an unexploded WWII bomb on a construction site. Amidst the chaos of a widespread evacuation, a gang of criminals begins an audacious heist.</desc>
+    <date>2026</date>
+    <category lang="en">Crime</category>
+    <category lang="en">Big Screen Crime</category>
+    <category lang="en">Action</category>
+    <category lang="en">High Octane Thrillers</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/0uhps/wMlXoJXde1yor44UQ.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo2-west" start="20261107182900 -0800" stop="20261107192200 -0800">
+    <title lang="en">The Simple Act of Paying Attention</title>
+    <desc lang="en">When Molly discovers a troubling error, Johnny tries to downplay the situation, while Serena and Nick question the staff.</desc>
+    <date>2026</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Thrillers</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/ULN-e/z1sfOg7RGD4UiLwCg.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-comedy-west" start="20261107184500 -0800" stop="20261107191700 -0800">
+    <title lang="en">Michael Man</title>
+    <desc lang="en">Sam gives Alex the unsavory task of getting Malcom back as a client. Later, Alex leans on Michael at a family dinner.</desc>
+    <date>2026</date>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/DWo9K/GPse4g2WlWzJVkNBQ.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-east" start="20261107214500 -0500" stop="20261107232500 -0500">
+    <title lang="en">The First Purge</title>
+    <desc lang="en">A futuristic U.S. government pushes to lower crime by legalizing it for a single terrifying night. But dark efforts to ensure the program is successful during its test run on Staten Island wind up backfiring as the violence explodes beyond those borders.</desc>
+    <date>2018</date>
+    <category lang="en">Horror</category>
+    <category lang="en">Science Fiction</category>
+    <category lang="en">Thriller</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-latino-east" start="20261107214500 -0500" stop="20261107232500 -0500">
+    <title lang="en">The First Purge</title>
+    <desc lang="en">A futuristic U.S. government pushes to lower crime by legalizing it for a single terrifying night. But dark efforts to ensure the program is successful during its test run on Staten Island wind up backfiring as the violence explodes beyond those borders.</desc>
+    <date>2018</date>
+    <category lang="en">Horror</category>
+    <category lang="en">Science Fiction</category>
+    <category lang="en">Thriller</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-signature-east" start="20261107214700 -0500" stop="20261107224600 -0500">
+    <title lang="en">Certified</title>
+    <desc lang="en">Laurie Garvey, a former therapist, must become one again as she heads to Australia to help Nora and Kevin along their paths.</desc>
+    <date>2017</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Fantasy</category>
+    <category lang="en">Science Fiction</category>
+    <category lang="en">Suspense</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-signature-west" start="20261107185700 -0800" stop="20261107195500 -0800">
+    <title lang="en">Crazy Whitefella Thinking</title>
+    <desc lang="en">The Leftovers. Season 3, Episode 3</desc>
+    <date>2017</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Fantasy</category>
+    <category lang="en">Science Fiction</category>
+    <category lang="en">Suspense</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-zone-west" start="20261107190700 -0800" stop="20261107204000 -0800">
+    <title lang="en">Final Destination 3</title>
+    <desc lang="en">Death makes a bloody date with a group of unlucky teens who escaped a fatal roller-coaster crash in this harrowing horror sequel.</desc>
+    <date>2006</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Suspense</category>
+    <category lang="en">Thriller</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-zone-east" start="20261107221200 -0500" stop="20261108000200 -0500">
+    <title lang="en">Final Destination Bloodlines</title>
+    <desc lang="en">Plagued by a violent recurring nightmare, college student Stefani heads home to track down the one person who might be able to break the cycle -- her grandmother, Iris -- and save her family from the grisly demise that inevitably awaits them all.</desc>
+    <date>2025</date>
+    <category lang="en">Horror</category>
+    <category lang="en">Supernatural</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-comedy-west" start="20261107191700 -0800" stop="20261107205800 -0800">
+    <title lang="en">A Minecraft Movie</title>
+    <desc lang="en">Four misfits are pulled through a portal into the Overworld, a cubic wonderland of imagination. To get back home, they'll have to master this world while embarking on a magical quest with an unexpected expert crafter, Steve.</desc>
+    <date>2025</date>
+    <category lang="en">Action</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Fantasy</category>
+    <category lang="en">Kids &amp; Family</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo2-west" start="20261107192200 -0800" stop="20261107202000 -0800">
+    <title lang="en">Ring the Bells</title>
+    <desc lang="en">Bertha faces Gladys’s difficult childbirth, Peggy achieves a milestone, and Agnes makes plans to host a prestigious dinner.</desc>
+    <date>2026</date>
+    <category lang="en">Period Pieces</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/5GORZ/EY910Iz0_fVVcGDKw.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-comedy-east" start="20261107222500 -0500" stop="20261108000300 -0500">
+    <title lang="en">Smallfoot</title>
+    <desc lang="en">Migo is a friendly Yeti who discovers something that he didn't know existed -- a human. When his fellow villagers refuse to believe him, Migo embarks on an epic journey to find the mysterious creature that can put him back in his community's good graces.</desc>
+    <date>2018</date>
+    <category lang="en">Adventure</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Fantasy</category>
+    <category lang="en">Kids &amp; Family</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-signature-east" start="20261107224600 -0500" stop="20261107234700 -0500">
+    <title lang="en">The Most Powerful Man In The World</title>
+    <desc lang="en">On a mission of mercy, Kevin assumes an alternate identity.</desc>
+    <date>2017</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Fantasy</category>
+    <category lang="en">Science Fiction</category>
+    <category lang="en">Suspense</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-signature-west" start="20261107195500 -0800" stop="20261107205100 -0800">
+    <title lang="en">G'Day Melbourne</title>
+    <desc lang="en">Kevin tags along with Nora to Australia and it all goes down under from there.</desc>
+    <date>2017</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Fantasy</category>
+    <category lang="en">Science Fiction</category>
+    <category lang="en">Suspense</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-latino-west" start="20261107200000 -0800" stop="20261107214500 -0800">
+    <title lang="en">Skyscraper</title>
+    <desc lang="en">Action. Adventure. Thriller. PG-13. 2018</desc>
+    <date>2018</date>
+    <category lang="en">Action</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">PG-13</category>
+    <category lang="en">2018</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-west" start="20261107200000 -0800" stop="20261107214500 -0800">
+    <title lang="en">Skyscraper</title>
+    <desc lang="en">Action. Adventure. Thriller. PG-13. 2018</desc>
+    <date>2018</date>
+    <category lang="en">Action</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">PG-13</category>
+    <category lang="en">2018</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo2-east" start="20261107230900 -0500" stop="20261108000300 -0500">
+    <title lang="en">The Simple Act of Paying Attention</title>
+    <desc lang="en">When Molly discovers a troubling error, Johnny tries to downplay the situation, while Serena and Nick question the staff.</desc>
+    <date>2026</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Thrillers</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/ULN-e/z1sfOg7RGD4UiLwCg.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo2-west" start="20261107202000 -0800" stop="20261107204900 -0800">
+    <title lang="en">Agent of the Year</title>
+    <desc lang="en">Amid personal and professional crises, Alex and Sam each try to keep things together at the Women’s Literature Awards ceremony. Later, Ruari grows frustrated with Alex when he tries to talk to her about Plum.</desc>
+    <date>2026</date>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/LLaer/Edk9GdcEqxO9guYMA.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-east" start="20261107232500 -0500" stop="20261108002700 -0500">
+    <title lang="en">Ring the Bells</title>
+    <desc lang="en">Bertha faces Gladys’s difficult childbirth, Peggy achieves a milestone, and Agnes makes plans to host a prestigious dinner.</desc>
+    <date>2026</date>
+    <category lang="en">Period Pieces</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/5GORZ/EY910Iz0_fVVcGDKw.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-latino-east" start="20261107232500 -0500" stop="20261108002700 -0500">
+    <title lang="en">Ring the Bells</title>
+    <desc lang="en">Bertha faces Gladys’s difficult childbirth, Peggy achieves a milestone, and Agnes makes plans to host a prestigious dinner.</desc>
+    <date>2026</date>
+    <category lang="en">Period Pieces</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/5GORZ/EY910Iz0_fVVcGDKw.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-zone-west" start="20261107204000 -0800" stop="20261107221200 -0800">
+    <title lang="en">Final Destination 5</title>
+    <desc lang="en">Thanks to a psychic vision, young sales rep Sam and a handful of his co-workers manage to survive a horrific bridge collapse. But Death doesn't like to be cheated, and one by one the unsuspecting souls end up meeting their gruesome fates.</desc>
+    <date>2011</date>
+    <category lang="en">Horror</category>
+    <category lang="en">Thriller</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-signature-east" start="20261107234700 -0500" stop="20261108010000 -0500">
+    <title lang="en">The Book Of Nora</title>
+    <desc lang="en">Nothing is answered. Everything is answered. And then it ends.</desc>
+    <date>2017</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Fantasy</category>
+    <category lang="en">Science Fiction</category>
+    <category lang="en">Suspense</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo2-west" start="20261107204900 -0800" stop="20261107230900 -0800">
+    <title lang="en">Ready Player One</title>
+    <desc lang="en">Steven Spielberg's futuristic tale in which the late creator of a virtual universe leaves it to be inherited (along with his fortune) by anyone who can find an Easter Egg. From a horde of competitors, one hardscrabble youth emerges to lead the chase.</desc>
+    <date>2018</date>
+    <category lang="en">Action</category>
+    <category lang="en">Science Fiction</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-signature-west" start="20261107205100 -0800" stop="20261107214700 -0800">
+    <title lang="en">It's A Matt, Matt, Matt, Matt World</title>
+    <desc lang="en">Matt Jamison leads his fellow disciples to Australia on a 'rescue' mission.</desc>
+    <date>2017</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Fantasy</category>
+    <category lang="en">Science Fiction</category>
+    <category lang="en">Suspense</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-comedy-west" start="20261107205800 -0800" stop="20261107222500 -0800">
+    <title lang="en">Boys Go to Jupiter</title>
+    <desc lang="en">In writer/director Julian Glander's wildly unique adult animated tale, suburban teen Billy 5000 encounters various quirky characters--including a creature he names Donut--while working for a food delivery app.</desc>
+    <date>2024</date>
+    <category lang="en">Adult Animation</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/Pl8jd/Tg97xkXmezvj_-LAQ.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-latino-west" start="20261107214500 -0800" stop="20261107232500 -0800">
+    <title lang="en">The First Purge</title>
+    <desc lang="en">A futuristic U.S. government pushes to lower crime by legalizing it for a single terrifying night. But dark efforts to ensure the program is successful during its test run on Staten Island wind up backfiring as the violence explodes beyond those borders.</desc>
+    <date>2018</date>
+    <category lang="en">Horror</category>
+    <category lang="en">Science Fiction</category>
+    <category lang="en">Thriller</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-west" start="20261107214500 -0800" stop="20261107232500 -0800">
+    <title lang="en">The First Purge</title>
+    <desc lang="en">A futuristic U.S. government pushes to lower crime by legalizing it for a single terrifying night. But dark efforts to ensure the program is successful during its test run on Staten Island wind up backfiring as the violence explodes beyond those borders.</desc>
+    <date>2018</date>
+    <category lang="en">Horror</category>
+    <category lang="en">Science Fiction</category>
+    <category lang="en">Thriller</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-signature-west" start="20261107214700 -0800" stop="20261107224600 -0800">
+    <title lang="en">Certified</title>
+    <desc lang="en">Laurie Garvey, a former therapist, must become one again as she heads to Australia to help Nora and Kevin along their paths.</desc>
+    <date>2017</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Fantasy</category>
+    <category lang="en">Science Fiction</category>
+    <category lang="en">Suspense</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-zone-west" start="20261107221200 -0800" stop="20261108000200 -0800">
+    <title lang="en">Final Destination Bloodlines</title>
+    <desc lang="en">Plagued by a violent recurring nightmare, college student Stefani heads home to track down the one person who might be able to break the cycle -- her grandmother, Iris -- and save her family from the grisly demise that inevitably awaits them all.</desc>
+    <date>2025</date>
+    <category lang="en">Horror</category>
+    <category lang="en">Supernatural</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-comedy-west" start="20261107222500 -0800" stop="20261108000300 -0800">
+    <title lang="en">Smallfoot</title>
+    <desc lang="en">Migo is a friendly Yeti who discovers something that he didn't know existed -- a human. When his fellow villagers refuse to believe him, Migo embarks on an epic journey to find the mysterious creature that can put him back in his community's good graces.</desc>
+    <date>2018</date>
+    <category lang="en">Adventure</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Fantasy</category>
+    <category lang="en">Kids &amp; Family</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-signature-west" start="20261107224600 -0800" stop="20261107234700 -0800">
+    <title lang="en">The Most Powerful Man In The World</title>
+    <desc lang="en">On a mission of mercy, Kevin assumes an alternate identity.</desc>
+    <date>2017</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Fantasy</category>
+    <category lang="en">Science Fiction</category>
+    <category lang="en">Suspense</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo2-west" start="20261107230900 -0800" stop="20261108000300 -0800">
+    <title lang="en">The Simple Act of Paying Attention</title>
+    <desc lang="en">When Molly discovers a troubling error, Johnny tries to downplay the situation, while Serena and Nick question the staff.</desc>
+    <date>2026</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Thrillers</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/ULN-e/z1sfOg7RGD4UiLwCg.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-latino-west" start="20261107232500 -0800" stop="20261108002700 -0800">
+    <title lang="en">Ring the Bells</title>
+    <desc lang="en">Bertha faces Gladys’s difficult childbirth, Peggy achieves a milestone, and Agnes makes plans to host a prestigious dinner.</desc>
+    <date>2026</date>
+    <category lang="en">Period Pieces</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/5GORZ/EY910Iz0_fVVcGDKw.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-west" start="20261107232500 -0800" stop="20261108002700 -0800">
+    <title lang="en">Ring the Bells</title>
+    <desc lang="en">Bertha faces Gladys’s difficult childbirth, Peggy achieves a milestone, and Agnes makes plans to host a prestigious dinner.</desc>
+    <date>2026</date>
+    <category lang="en">Period Pieces</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/5GORZ/EY910Iz0_fVVcGDKw.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-signature-west" start="20261107234700 -0800" stop="20261108010000 -0800">
+    <title lang="en">The Book Of Nora</title>
+    <desc lang="en">Nothing is answered. Everything is answered. And then it ends.</desc>
+    <date>2017</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Fantasy</category>
+    <category lang="en">Science Fiction</category>
+    <category lang="en">Suspense</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+</tv>
