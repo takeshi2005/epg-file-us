@@ -1,0 +1,2207 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tv generator-info-name="hbo">
+  <channel id="hbo-east">
+    <display-name lang="en">HBO East</display-name>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </channel>
+  <channel id="hbo2-east">
+    <display-name lang="en">HBO2 East</display-name>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </channel>
+  <channel id="hbo-signature-east">
+    <display-name lang="en">HBO Signature East</display-name>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </channel>
+  <channel id="hbo-comedy-east">
+    <display-name lang="en">HBO Comedy East</display-name>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </channel>
+  <channel id="hbo-zone-east">
+    <display-name lang="en">HBO Zone East</display-name>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </channel>
+  <channel id="hbo-latino-east">
+    <display-name lang="en">HBO Latino East</display-name>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </channel>
+  <channel id="hbo-west">
+    <display-name lang="en">HBO West</display-name>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </channel>
+  <channel id="hbo2-west">
+    <display-name lang="en">HBO2 West</display-name>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </channel>
+  <channel id="hbo-signature-west">
+    <display-name lang="en">HBO Signature West</display-name>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </channel>
+  <channel id="hbo-comedy-west">
+    <display-name lang="en">HBO Comedy West</display-name>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </channel>
+  <channel id="hbo-zone-west">
+    <display-name lang="en">HBO Zone West</display-name>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </channel>
+  <channel id="hbo-latino-west">
+    <display-name lang="en">HBO Latino West</display-name>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </channel>
+  <programme channel="hbo-latino-east" start="20261114000800 -0500" stop="20261114015500 -0500">
+    <title lang="en">Maria Full of Grace</title>
+    <desc lang="en">A 17-year-old Colombian girl in search of adventure and a better life elects to become a "mule" for international drug smugglers.</desc>
+    <date>2004</date>
+    <category lang="en">Crime</category>
+    <category lang="en">Drama</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-signature-east" start="20261114000900 -0500" stop="20261114010800 -0500">
+    <title lang="en">Everything I Do Gonh Be Funky</title>
+    <desc lang="en">Antoine decides to form a band. Vincent Abreu drops a suspicious death case on Toni. Hidalgo makes lucrative connections. Sonny realizes playing music on the street is a dead end.</desc>
+    <date>2011</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Musical</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-comedy-east" start="20261114002900 -0500" stop="20261114010100 -0500">
+    <title lang="en">Alone Again, Naturally</title>
+    <desc lang="en">Frances needs Robert's help. Diane falls off the wagon.</desc>
+    <date>2018</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Romantic Comedy</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/3iifi/O9uiQo75NKjZrbm4Q.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo2-east" start="20261114004100 -0500" stop="20261114013500 -0500">
+    <title lang="en">You Won't Hear Me Beg</title>
+    <desc lang="en">Bertha returns to a frosty household, Peggy’s career aspirations clash with the Newport crowd, and Agnes reluctantly gives an interview.</desc>
+    <date>2026</date>
+    <category lang="en">Period Pieces</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/TiOF8/E9PaeNiVrgQLhYcYw.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-east" start="20261114005500 -0500" stop="20261114014500 -0500">
+    <title lang="en">The Juicy Bit</title>
+    <desc lang="en">As the trial begins, Morgan faces pointed questioning from Budgie about Carla's involvement in the early days of Zephyr. Meanwhile, Johnny is tasked with finding proof of a potentially damaging financial transaction.</desc>
+    <date>2026</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Thrillers</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/UkRWs/YgBntwY5nkJmQz0FA.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-zone-east" start="20261114005900 -0500" stop="20261114024400 -0500">
+    <title lang="en">Anyone But You</title>
+    <desc lang="en">Bea and Ben's initial attraction quickly sours after their first date. But when they meet again at a destination wedding, they do what any two mature adults would do: pretend to be a couple.</desc>
+    <date>2023</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Romance</category>
+    <category lang="en">Romantic Comedy</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-comedy-east" start="20261114010100 -0500" stop="20261114013000 -0500">
+    <title lang="en">Charred</title>
+    <desc lang="en">Frances and Robert discover that their new lives are more complicated than anticipated.</desc>
+    <date>2018</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Romantic Comedy</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/_65pQ/H7rZHFsGxR_JBqkoA.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-signature-east" start="20261114010800 -0500" stop="20261114020700 -0500">
+    <title lang="en">On Your Way Down</title>
+    <desc lang="en">LaDonna confronts the return of the crime problem. Sofia channels her father's YouTube rants. Toni takes the Abreu case. Janette and Albert apply for Road Home money. Sonny barely escapes arrest.</desc>
+    <date>2011</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Musical</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-comedy-east" start="20261114013000 -0500" stop="20261114015900 -0500">
+    <title lang="en">Miami</title>
+    <desc lang="en">Robert admits to pre-wedding jitters as Frances prepares for a weekend getaway with Henry.</desc>
+    <date>2019</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Romantic Comedy</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/q8lrD/EiKCo-LBHWsmwxXpg.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo2-east" start="20261114013500 -0500" stop="20261114031400 -0500">
+    <title lang="en">Stoker</title>
+    <desc lang="en">Reeling from the death of her beloved father, an introverted young girl is changed by the sudden arrival of a mysterious relative. Although she's wary of "Uncle Charlie," her unstable mother lets him move in, leading all of them down a dark, twisted path.</desc>
+    <date>2013</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Thriller</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-east" start="20261114014500 -0500" stop="20261114024500 -0500">
+    <title lang="en">November 13, 2026: Gov. Sarah Huckabee Sanders, Aaron Parnas, Dasha Burns</title>
+    <desc lang="en">Guests: Gov. Sarah Huckabee Sanders, Aaron Parnas, Dasha Burns.</desc>
+    <date>2026</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Current Events</category>
+    <category lang="en">News</category>
+    <category lang="en">Talk Show</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-latino-east" start="20261114015500 -0500" stop="20261114024500 -0500">
+    <title lang="en">The Juicy Bit</title>
+    <desc lang="en">As the trial begins, Morgan faces pointed questioning from Budgie about Carla's involvement in the early days of Zephyr. Meanwhile, Johnny is tasked with finding proof of a potentially damaging financial transaction.</desc>
+    <date>2026</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Thrillers</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/UkRWs/YgBntwY5nkJmQz0FA.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-comedy-east" start="20261114015900 -0500" stop="20261114022800 -0500">
+    <title lang="en">Gaps &amp; Bunches</title>
+    <desc lang="en">Frances and Robert disagree on how to handle Tom's college application process.</desc>
+    <date>2019</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Romantic Comedy</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/-HuCO/9SwR7OpoeWGNWTo9g.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-signature-east" start="20261114020700 -0500" stop="20261114030600 -0500">
+    <title lang="en">Santa Claus, Do You Ever Get The Blues?</title>
+    <desc lang="en">Aunt Mimi and Davis form a record company and sign rapper Katey Red. Janette makes her dramatic departure from Restaurant Brulard. Antoine reluctantly lands a teaching job.</desc>
+    <date>2011</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Musical</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-comedy-east" start="20261114022800 -0500" stop="20261114025500 -0500">
+    <title lang="en">Bad Manners</title>
+    <desc lang="en">At a dinner party gone wrong, both Robert and Frances' relationships are tested. Frances makes a big effort at work.</desc>
+    <date>2019</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Romantic Comedy</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/3cThg/HWXORSuAP1U7EKNmA.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-zone-east" start="20261114024400 -0500" stop="20261114042600 -0500">
+    <title lang="en">House Party</title>
+    <desc lang="en">Fired from their jobs as house cleaners, two aspiring club promoters throw a wild bash at LeBron James' mansion in this hilarious remix.</desc>
+    <date>2023</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Musical</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-east" start="20261114024500 -0500" stop="20261114043100 -0500">
+    <title lang="en">The Man Who Invented Christmas</title>
+    <desc lang="en">In 1840s London, author Charles Dickens mixes real-life inspirations with his vivid imagination to create the unforgettable characters and timeless tale of "A Christmas Carol," forever changing the holiday season into the celebration we know today.</desc>
+    <date>2017</date>
+    <category lang="en">Biography</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Period Piece</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-latino-east" start="20261114024500 -0500" stop="20261114043100 -0500">
+    <title lang="en">The Man Who Invented Christmas</title>
+    <desc lang="en">In 1840s London, author Charles Dickens mixes real-life inspirations with his vivid imagination to create the unforgettable characters and timeless tale of "A Christmas Carol," forever changing the holiday season into the celebration we know today.</desc>
+    <date>2017</date>
+    <category lang="en">Biography</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Period Piece</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-comedy-east" start="20261114025500 -0500" stop="20261114032500 -0500">
+    <title lang="en">Away Games</title>
+    <desc lang="en">Robert and Frances are thrown together for a weekend as they chaperone Lila's away-game.</desc>
+    <date>2019</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Romantic Comedy</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/vOrkm/UekZV717Pi_6--XtQ.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-signature-east" start="20261114030600 -0500" stop="20261114040500 -0500">
+    <title lang="en">Slip Away</title>
+    <desc lang="en">Lt. Colson questions the quality of police investigations. Janette lands at Le Bernardin. Annie tries composing. Aunt Mimi gets a track from rapper Mannie Fresh, while Davis discovers a new talent. Sofia lands an internship.</desc>
+    <date>2011</date>
+    <category lang="en">Family Relationships</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/6LdDG/q8DpeD82iSi_IDPdw.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-latino-west" start="20261114000800 -0800" stop="20261114015500 -0800">
+    <title lang="en">Maria Full of Grace</title>
+    <desc lang="en">A 17-year-old Colombian girl in search of adventure and a better life elects to become a "mule" for international drug smugglers.</desc>
+    <date>2004</date>
+    <category lang="en">Crime</category>
+    <category lang="en">Drama</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-signature-west" start="20261114000900 -0800" stop="20261114010800 -0800">
+    <title lang="en">Everything I Do Gonh Be Funky</title>
+    <desc lang="en">Antoine decides to form a band. Vincent Abreu drops a suspicious death case on Toni. Hidalgo makes lucrative connections. Sonny realizes playing music on the street is a dead end.</desc>
+    <date>2011</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Musical</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo2-east" start="20261114031400 -0500" stop="20261114040400 -0500">
+    <title lang="en">The Juicy Bit</title>
+    <desc lang="en">As the trial begins, Morgan faces pointed questioning from Budgie about Carla's involvement in the early days of Zephyr. Meanwhile, Johnny is tasked with finding proof of a potentially damaging financial transaction.</desc>
+    <date>2026</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Thrillers</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/UkRWs/YgBntwY5nkJmQz0FA.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-comedy-east" start="20261114032500 -0500" stop="20261114035400 -0500">
+    <title lang="en">Lockjaw</title>
+    <desc lang="en">After a surprising diagnosis, Alex deals with Ruari’s graduation stunt, her ex’s decision to move to Canada, and a setup with an older man</desc>
+    <date>2026</date>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/ExkaC/Osc71D6UFTdRz10vQ.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-comedy-west" start="20261114002900 -0800" stop="20261114010100 -0800">
+    <title lang="en">Alone Again, Naturally</title>
+    <desc lang="en">Frances needs Robert's help. Diane falls off the wagon.</desc>
+    <date>2018</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Romantic Comedy</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/3iifi/O9uiQo75NKjZrbm4Q.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo2-west" start="20261114004100 -0800" stop="20261114013500 -0800">
+    <title lang="en">You Won't Hear Me Beg</title>
+    <desc lang="en">Bertha returns to a frosty household, Peggy’s career aspirations clash with the Newport crowd, and Agnes reluctantly gives an interview.</desc>
+    <date>2026</date>
+    <category lang="en">Period Pieces</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/TiOF8/E9PaeNiVrgQLhYcYw.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-comedy-east" start="20261114035400 -0500" stop="20261114042300 -0500">
+    <title lang="en">Wagon Burner</title>
+    <desc lang="en">Alex has a delicate meeting with the agency’s most lucrative author, tries to get Ruari to open up, and reconnects with Patrick.</desc>
+    <date>2026</date>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/sJ-EX/lsbuU6fM4CVqcK_dg.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-west" start="20261114005500 -0800" stop="20261114014500 -0800">
+    <title lang="en">The Juicy Bit</title>
+    <desc lang="en">As the trial begins, Morgan faces pointed questioning from Budgie about Carla's involvement in the early days of Zephyr. Meanwhile, Johnny is tasked with finding proof of a potentially damaging financial transaction.</desc>
+    <date>2026</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Thrillers</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/UkRWs/YgBntwY5nkJmQz0FA.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-zone-west" start="20261114005900 -0800" stop="20261114024400 -0800">
+    <title lang="en">Anyone But You</title>
+    <desc lang="en">Bea and Ben's initial attraction quickly sours after their first date. But when they meet again at a destination wedding, they do what any two mature adults would do: pretend to be a couple.</desc>
+    <date>2023</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Romance</category>
+    <category lang="en">Romantic Comedy</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-comedy-west" start="20261114010100 -0800" stop="20261114013000 -0800">
+    <title lang="en">Charred</title>
+    <desc lang="en">Frances and Robert discover that their new lives are more complicated than anticipated.</desc>
+    <date>2018</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Romantic Comedy</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/_65pQ/H7rZHFsGxR_JBqkoA.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo2-east" start="20261114040400 -0500" stop="20261114053400 -0500">
+    <title lang="en">A Very Harold &amp; Kumar 3D Christmas</title>
+    <desc lang="en">Harold and Kumar go on a Christmas Eve bender while trying to replace Harold's father-in law's prized Christmas tree.</desc>
+    <date>2011</date>
+    <category lang="en">Comedy</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-signature-east" start="20261114040500 -0500" stop="20261114050400 -0500">
+    <title lang="en">Feels Like Rain</title>
+    <desc lang="en">Hidalgo does a favor for Councilman Oliver Thomas. Antoine appoints a straw boss. Janette learns that Jacques is in trouble. Sofia has a realization. John Hiatt and Henry Butler perform.</desc>
+    <date>2011</date>
+    <category lang="en">Family Relationships</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/00U53/UVGrV2-Qe8_AX5dZw.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-signature-west" start="20261114010800 -0800" stop="20261114020700 -0800">
+    <title lang="en">On Your Way Down</title>
+    <desc lang="en">LaDonna confronts the return of the crime problem. Sofia channels her father's YouTube rants. Toni takes the Abreu case. Janette and Albert apply for Road Home money. Sonny barely escapes arrest.</desc>
+    <date>2011</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Musical</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-comedy-east" start="20261114042300 -0500" stop="20261114045200 -0500">
+    <title lang="en">Welcome to the Rat's Nest</title>
+    <desc lang="en">At the Frankfurt Book Fair, Alex tries to keep Ruari occupied while being bombarded by the viral success of Malcolm’s self-published novel.</desc>
+    <date>2026</date>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/BhL8z/NRKNVJUbmdXmm7Hcw.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-zone-east" start="20261114042600 -0500" stop="20261114061300 -0500">
+    <title lang="en">Life of the Party</title>
+    <desc lang="en">Melissa McCarthy goes back to college in this raucous comedy that finds her playing a middle-aged mom on campus.</desc>
+    <date>2018</date>
+    <category lang="en">Comedy</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-comedy-west" start="20261114013000 -0800" stop="20261114015900 -0800">
+    <title lang="en">Miami</title>
+    <desc lang="en">Robert admits to pre-wedding jitters as Frances prepares for a weekend getaway with Henry.</desc>
+    <date>2019</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Romantic Comedy</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/q8lrD/EiKCo-LBHWsmwxXpg.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-east" start="20261114043100 -0500" stop="20261114061700 -0500">
+    <title lang="en">The Moment</title>
+    <desc lang="en">As her arena tour debut looms, a pop star (Charli xcx) finds herself caught inside the afterglow of a breakout summer in this sly backstage satire about ambition, excess, and the mounting pressure of what it costs to stay on top.</desc>
+    <date>2026</date>
+    <category lang="en">Offbeat</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Thrillers</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/LYVDF/mhbPKRT8b5WSh9Rcw.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-latino-east" start="20261114043100 -0500" stop="20261114061500 -0500">
+    <title lang="en">The Moment</title>
+    <desc lang="en">As her arena tour debut looms, a pop star (Charli xcx) finds herself caught inside the afterglow of a breakout summer in this sly backstage satire about ambition, excess, and the mounting pressure of what it costs to stay on top.</desc>
+    <date>2026</date>
+    <category lang="en">Offbeat</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Thrillers</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/LYVDF/mhbPKRT8b5WSh9Rcw.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo2-west" start="20261114013500 -0800" stop="20261114031400 -0800">
+    <title lang="en">Stoker</title>
+    <desc lang="en">Reeling from the death of her beloved father, an introverted young girl is changed by the sudden arrival of a mysterious relative. Although she's wary of "Uncle Charlie," her unstable mother lets him move in, leading all of them down a dark, twisted path.</desc>
+    <date>2013</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Thriller</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-west" start="20261114014500 -0800" stop="20261114024500 -0800">
+    <title lang="en">November 13, 2026: Gov. Sarah Huckabee Sanders, Aaron Parnas, Dasha Burns</title>
+    <desc lang="en">Guests: Gov. Sarah Huckabee Sanders, Aaron Parnas, Dasha Burns.</desc>
+    <date>2026</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Current Events</category>
+    <category lang="en">News</category>
+    <category lang="en">Talk Show</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-comedy-east" start="20261114045200 -0500" stop="20261114052100 -0500">
+    <title lang="en">Michael Man</title>
+    <desc lang="en">Sam gives Alex the unsavory task of getting Malcom back as a client. Later, Alex leans on Michael at a family dinner.</desc>
+    <date>2026</date>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/DWo9K/GPse4g2WlWzJVkNBQ.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-latino-west" start="20261114015500 -0800" stop="20261114024500 -0800">
+    <title lang="en">The Juicy Bit</title>
+    <desc lang="en">As the trial begins, Morgan faces pointed questioning from Budgie about Carla's involvement in the early days of Zephyr. Meanwhile, Johnny is tasked with finding proof of a potentially damaging financial transaction.</desc>
+    <date>2026</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Thrillers</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/UkRWs/YgBntwY5nkJmQz0FA.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-comedy-west" start="20261114015900 -0800" stop="20261114022800 -0800">
+    <title lang="en">Gaps &amp; Bunches</title>
+    <desc lang="en">Frances and Robert disagree on how to handle Tom's college application process.</desc>
+    <date>2019</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Romantic Comedy</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/-HuCO/9SwR7OpoeWGNWTo9g.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-signature-east" start="20261114050400 -0500" stop="20261114060600 -0500">
+    <title lang="en">Carnival Time</title>
+    <desc lang="en">As Carnival arrives in New Orleans, Albert unveils his new plumage, and Delmond discovers a new sound. Annie heads to a rural celebration with Harley, while Davis looks for an alibi to party in town. Antoine club-hops with his sons.</desc>
+    <date>2011</date>
+    <category lang="en">Family Relationships</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/1hYSP/BlxI-wIMOURlIniFQ.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-signature-west" start="20261114020700 -0800" stop="20261114030600 -0800">
+    <title lang="en">Santa Claus, Do You Ever Get The Blues?</title>
+    <desc lang="en">Aunt Mimi and Davis form a record company and sign rapper Katey Red. Janette makes her dramatic departure from Restaurant Brulard. Antoine reluctantly lands a teaching job.</desc>
+    <date>2011</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Musical</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-comedy-east" start="20261114052100 -0500" stop="20261114060000 -0500">
+    <title lang="en">The Holiday</title>
+    <desc lang="en">In Ibiza for Sam and Frank's 10-year anniversary, Alex finds herself on a couples' holiday with her ex-husband Lorcan and ex-fling Patrick, both of their new girlfriends, and Ruari as her plus one.</desc>
+    <date>2026</date>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/SdDmD/sXj7br1gn3j6oYRHw.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-comedy-west" start="20261114022800 -0800" stop="20261114025500 -0800">
+    <title lang="en">Bad Manners</title>
+    <desc lang="en">At a dinner party gone wrong, both Robert and Frances' relationships are tested. Frances makes a big effort at work.</desc>
+    <date>2019</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Romantic Comedy</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/3cThg/HWXORSuAP1U7EKNmA.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo2-east" start="20261114053400 -0500" stop="20261114073100 -0500">
+    <title lang="en">Tyler Perry's Madea's Witness Protection</title>
+    <desc lang="en">A clueless Wall Street investment banker, turning state's evidence against the mob, is relocated with his family to Aunt Madea's southern home as part of the Witness Protection program.</desc>
+    <date>2012</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Parody</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-zone-west" start="20261114024400 -0800" stop="20261114042600 -0800">
+    <title lang="en">House Party</title>
+    <desc lang="en">Fired from their jobs as house cleaners, two aspiring club promoters throw a wild bash at LeBron James' mansion in this hilarious remix.</desc>
+    <date>2023</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Musical</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-latino-west" start="20261114024500 -0800" stop="20261114043100 -0800">
+    <title lang="en">The Man Who Invented Christmas</title>
+    <desc lang="en">In 1840s London, author Charles Dickens mixes real-life inspirations with his vivid imagination to create the unforgettable characters and timeless tale of "A Christmas Carol," forever changing the holiday season into the celebration we know today.</desc>
+    <date>2017</date>
+    <category lang="en">Biography</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Period Piece</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-west" start="20261114024500 -0800" stop="20261114043100 -0800">
+    <title lang="en">The Man Who Invented Christmas</title>
+    <desc lang="en">In 1840s London, author Charles Dickens mixes real-life inspirations with his vivid imagination to create the unforgettable characters and timeless tale of "A Christmas Carol," forever changing the holiday season into the celebration we know today.</desc>
+    <date>2017</date>
+    <category lang="en">Biography</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Period Piece</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-comedy-west" start="20261114025500 -0800" stop="20261114032500 -0800">
+    <title lang="en">Away Games</title>
+    <desc lang="en">Robert and Frances are thrown together for a weekend as they chaperone Lila's away-game.</desc>
+    <date>2019</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Romantic Comedy</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/vOrkm/UekZV717Pi_6--XtQ.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-comedy-east" start="20261114060000 -0500" stop="20261114063400 -0500">
+    <title lang="en">Release the Brown Fat</title>
+    <desc lang="en">Writer Greg Russo arrives at Ludlow College to support his daughter Katie as her marriage begins to implode.</desc>
+    <date>2026</date>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/5XJ_R/E1RaT2tKHm7kcMGgQ.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-signature-east" start="20261114060600 -0500" stop="20261114070500 -0500">
+    <title lang="en">Can I Change My Mind</title>
+    <desc lang="en">Delmond pitches his fusion project to Dr. John. Toni enlists a PI. Davis debuts his band while Annie resists debuting her song; LaDonna's marriage is tested. Janette weighs a move to a more casual kitchen. Cornell monitors Sonny's rehab.</desc>
+    <date>2011</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Musical</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-signature-west" start="20261114030600 -0800" stop="20261114040500 -0800">
+    <title lang="en">Slip Away</title>
+    <desc lang="en">Lt. Colson questions the quality of police investigations. Janette lands at Le Bernardin. Annie tries composing. Aunt Mimi gets a track from rapper Mannie Fresh, while Davis discovers a new talent. Sofia lands an internship.</desc>
+    <date>2011</date>
+    <category lang="en">Family Relationships</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/6LdDG/q8DpeD82iSi_IDPdw.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-zone-east" start="20261114061300 -0500" stop="20261114074000 -0500">
+    <title lang="en">Boys Go to Jupiter</title>
+    <desc lang="en">In writer/director Julian Glander's wildly unique adult animated tale, suburban teen Billy 5000 encounters various quirky characters--including a creature he names Donut--while working for a food delivery app.</desc>
+    <date>2024</date>
+    <category lang="en">Adult Animation</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/Pl8jd/Tg97xkXmezvj_-LAQ.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo2-west" start="20261114031400 -0800" stop="20261114040400 -0800">
+    <title lang="en">The Juicy Bit</title>
+    <desc lang="en">As the trial begins, Morgan faces pointed questioning from Budgie about Carla's involvement in the early days of Zephyr. Meanwhile, Johnny is tasked with finding proof of a potentially damaging financial transaction.</desc>
+    <date>2026</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Thrillers</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/UkRWs/YgBntwY5nkJmQz0FA.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-latino-east" start="20261114061500 -0500" stop="20261114070600 -0500">
+    <title lang="en">Episode 1</title>
+    <desc lang="en">As violence threatens to erupt in the streets, Wilson becomes obsessed with finding the truth, and Martinha calls on an old acquaintance.</desc>
+    <date>2026</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Organized Crime</category>
+    <category lang="en">Crime</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/Auhx4/tR_aQegtbt9kQGsOw.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-east" start="20261114061700 -0500" stop="20261114071700 -0500">
+    <title lang="en">November 13, 2026: Gov. Sarah Huckabee Sanders, Aaron Parnas, Dasha Burns</title>
+    <desc lang="en">Guests: Gov. Sarah Huckabee Sanders, Aaron Parnas, Dasha Burns.</desc>
+    <date>2026</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Current Events</category>
+    <category lang="en">News</category>
+    <category lang="en">Talk Show</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-comedy-west" start="20261114032500 -0800" stop="20261114035400 -0800">
+    <title lang="en">Lockjaw</title>
+    <desc lang="en">After a surprising diagnosis, Alex deals with Ruari’s graduation stunt, her ex’s decision to move to Canada, and a setup with an older man</desc>
+    <date>2026</date>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/ExkaC/Osc71D6UFTdRz10vQ.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-comedy-east" start="20261114063400 -0500" stop="20261114070400 -0500">
+    <title lang="en">Trousers</title>
+    <desc lang="en">When Katie’s future at Ludlow is thrown into question, Walt offers Greg a deal to keep them both on campus.</desc>
+    <date>2026</date>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/MWqdb/scDaHUZIZB3yE4PjQ.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-comedy-west" start="20261114035400 -0800" stop="20261114042300 -0800">
+    <title lang="en">Wagon Burner</title>
+    <desc lang="en">Alex has a delicate meeting with the agency’s most lucrative author, tries to get Ruari to open up, and reconnects with Patrick.</desc>
+    <date>2026</date>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/sJ-EX/lsbuU6fM4CVqcK_dg.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-comedy-east" start="20261114070400 -0500" stop="20261114073600 -0500">
+    <title lang="en">White Whale</title>
+    <desc lang="en">While Greg endures his first day of teaching at Ludlow, Katie struggles with her suspension. Later, Archie decides to help Sunny find a suitable advisor, and Dylan is presented with an unexpected new opportunity.</desc>
+    <date>2026</date>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/VtCIg/nQAS6QfXG4l1y2HzA.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo2-west" start="20261114040400 -0800" stop="20261114053400 -0800">
+    <title lang="en">A Very Harold &amp; Kumar 3D Christmas</title>
+    <desc lang="en">Harold and Kumar go on a Christmas Eve bender while trying to replace Harold's father-in law's prized Christmas tree.</desc>
+    <date>2011</date>
+    <category lang="en">Comedy</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-signature-east" start="20261114070500 -0500" stop="20261114080400 -0500">
+    <title lang="en">What Is New Orleans?</title>
+    <desc lang="en">Davis is eclipsed by his protege, Lil Calliope. Albert's quest for authenticity rankles Delmond. Antoine experiences the upside of teaching and downside of band-leading. Larry forces LaDonna to make a choice. Colson lands in Homicide.</desc>
+    <date>2011</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Musical</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-signature-west" start="20261114040500 -0800" stop="20261114050400 -0800">
+    <title lang="en">Feels Like Rain</title>
+    <desc lang="en">Hidalgo does a favor for Councilman Oliver Thomas. Antoine appoints a straw boss. Janette learns that Jacques is in trouble. Sofia has a realization. John Hiatt and Henry Butler perform.</desc>
+    <date>2011</date>
+    <category lang="en">Family Relationships</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/00U53/UVGrV2-Qe8_AX5dZw.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-latino-east" start="20261114070600 -0500" stop="20261114071700 -0500">
+    <title lang="en">When You Clean a Stranger's Home</title>
+    <desc lang="en">A first-generation high school student describes what her and her mom learn about people when cleaning their homes.</desc>
+    <date>2022</date>
+    <category lang="en">Drama</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/B7j_t/cJFK8A07Hr_j_tS-Q.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-east" start="20261114071700 -0500" stop="20261114081200 -0500">
+    <title lang="en">You Won't Hear Me Beg</title>
+    <desc lang="en">Bertha returns to a frosty household, Peggy’s career aspirations clash with the Newport crowd, and Agnes reluctantly gives an interview.</desc>
+    <date>2026</date>
+    <category lang="en">Period Pieces</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/TiOF8/E9PaeNiVrgQLhYcYw.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-latino-east" start="20261114071700 -0500" stop="20261114081200 -0500">
+    <title lang="en">You Won't Hear Me Beg</title>
+    <desc lang="en">Bertha returns to a frosty household, Peggy’s career aspirations clash with the Newport crowd, and Agnes reluctantly gives an interview.</desc>
+    <date>2026</date>
+    <category lang="en">Period Pieces</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/TiOF8/E9PaeNiVrgQLhYcYw.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-comedy-west" start="20261114042300 -0800" stop="20261114045200 -0800">
+    <title lang="en">Welcome to the Rat's Nest</title>
+    <desc lang="en">At the Frankfurt Book Fair, Alex tries to keep Ruari occupied while being bombarded by the viral success of Malcolm’s self-published novel.</desc>
+    <date>2026</date>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/BhL8z/NRKNVJUbmdXmm7Hcw.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-zone-west" start="20261114042600 -0800" stop="20261114061300 -0800">
+    <title lang="en">Life of the Party</title>
+    <desc lang="en">Melissa McCarthy goes back to college in this raucous comedy that finds her playing a middle-aged mom on campus.</desc>
+    <date>2018</date>
+    <category lang="en">Comedy</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-latino-west" start="20261114043100 -0800" stop="20261114061500 -0800">
+    <title lang="en">The Moment</title>
+    <desc lang="en">As her arena tour debut looms, a pop star (Charli xcx) finds herself caught inside the afterglow of a breakout summer in this sly backstage satire about ambition, excess, and the mounting pressure of what it costs to stay on top.</desc>
+    <date>2026</date>
+    <category lang="en">Offbeat</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Thrillers</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/LYVDF/mhbPKRT8b5WSh9Rcw.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-west" start="20261114043100 -0800" stop="20261114061700 -0800">
+    <title lang="en">The Moment</title>
+    <desc lang="en">As her arena tour debut looms, a pop star (Charli xcx) finds herself caught inside the afterglow of a breakout summer in this sly backstage satire about ambition, excess, and the mounting pressure of what it costs to stay on top.</desc>
+    <date>2026</date>
+    <category lang="en">Offbeat</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Thrillers</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/LYVDF/mhbPKRT8b5WSh9Rcw.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo2-east" start="20261114073100 -0500" stop="20261114094000 -0500">
+    <title lang="en">Jurassic World: Fallen Kingdom</title>
+    <desc lang="en">Three years after the disaster at Jurassic World, a volcano is about to erupt, threatening to eliminate all life on the island. Desperate to save the surviving creatures, ex-employees Owen Grady and Claire Dearing return to the island on a rescue mission.</desc>
+    <date>2018</date>
+    <category lang="en">Action</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Science Fiction</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-comedy-east" start="20261114073600 -0500" stop="20261114081000 -0500">
+    <title lang="en">Angry, Like An Angry Person</title>
+    <desc lang="en">To avoid Walt's party, Greg throws himself into helping a student. With her suspension lifted, Katie contemplates casual dating.</desc>
+    <date>2026</date>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/7xWUN/hEsyxkmVp87H7sDGw.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-zone-east" start="20261114074000 -0500" stop="20261114091400 -0500">
+    <title lang="en">David Bowie: The Last Five Years</title>
+    <desc lang="en">Experience the evolving genius of rock icon David Bowie in this documentary that chronicles the last five years of his life.</desc>
+    <date>2018</date>
+    <category lang="en">Documentaries</category>
+    <category lang="en">Biographies</category>
+    <category lang="en">Music Documentaries</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/cijUq/lGhNBkogLkVv6sr5w.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-comedy-west" start="20261114045200 -0800" stop="20261114052100 -0800">
+    <title lang="en">Michael Man</title>
+    <desc lang="en">Sam gives Alex the unsavory task of getting Malcom back as a client. Later, Alex leans on Michael at a family dinner.</desc>
+    <date>2026</date>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/DWo9K/GPse4g2WlWzJVkNBQ.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-signature-east" start="20261114080400 -0500" stop="20261114090300 -0500">
+    <title lang="en">That's What Lovers Do</title>
+    <desc lang="en">The community mourns a fallen artist. Toni asks Colson for inside help. Sonny is smitten at the docks. Janette earns a new nickname at the Lucky Peach. Sofia is tempted at her job. Antoine's showboating costs him a singer. Delmond and Albert head south.</desc>
+    <date>2011</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Musical</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-signature-west" start="20261114050400 -0800" stop="20261114060600 -0800">
+    <title lang="en">Carnival Time</title>
+    <desc lang="en">As Carnival arrives in New Orleans, Albert unveils his new plumage, and Delmond discovers a new sound. Annie heads to a rural celebration with Harley, while Davis looks for an alibi to party in town. Antoine club-hops with his sons.</desc>
+    <date>2011</date>
+    <category lang="en">Family Relationships</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/1hYSP/BlxI-wIMOURlIniFQ.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-comedy-east" start="20261114081000 -0500" stop="20261114084100 -0500">
+    <title lang="en">Mr. Razzles</title>
+    <desc lang="en">When his ex-wife Beth shows up for a dedication ceremony on campus, Greg starts to backslide into old habits. Later, Katie reconnects with Archie, and Dylan finds herself flourishing in her new role.</desc>
+    <date>2026</date>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/e5MLi/co9SuqkJoXBNhwn9g.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-east" start="20261114081200 -0500" stop="20261114090300 -0500">
+    <title lang="en">The Juicy Bit</title>
+    <desc lang="en">As the trial begins, Morgan faces pointed questioning from Budgie about Carla's involvement in the early days of Zephyr. Meanwhile, Johnny is tasked with finding proof of a potentially damaging financial transaction.</desc>
+    <date>2026</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Thrillers</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/UkRWs/YgBntwY5nkJmQz0FA.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-latino-east" start="20261114081200 -0500" stop="20261114090300 -0500">
+    <title lang="en">The Juicy Bit</title>
+    <desc lang="en">As the trial begins, Morgan faces pointed questioning from Budgie about Carla's involvement in the early days of Zephyr. Meanwhile, Johnny is tasked with finding proof of a potentially damaging financial transaction.</desc>
+    <date>2026</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Thrillers</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/UkRWs/YgBntwY5nkJmQz0FA.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-comedy-west" start="20261114052100 -0800" stop="20261114060000 -0800">
+    <title lang="en">The Holiday</title>
+    <desc lang="en">In Ibiza for Sam and Frank's 10-year anniversary, Alex finds herself on a couples' holiday with her ex-husband Lorcan and ex-fling Patrick, both of their new girlfriends, and Ruari as her plus one.</desc>
+    <date>2026</date>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/SdDmD/sXj7br1gn3j6oYRHw.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo2-west" start="20261114053400 -0800" stop="20261114073100 -0800">
+    <title lang="en">Tyler Perry's Madea's Witness Protection</title>
+    <desc lang="en">A clueless Wall Street investment banker, turning state's evidence against the mob, is relocated with his family to Aunt Madea's southern home as part of the Witness Protection program.</desc>
+    <date>2012</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Parody</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-comedy-east" start="20261114084100 -0500" stop="20261114091200 -0500">
+    <title lang="en">Cop Hawk</title>
+    <desc lang="en">While relishing in his new fling, Greg offers a struggling Tommy a place to crash. Later, Katie confronts the student behind some personal campus graffiti, Dylan impresses Walt in her new role, and Sunny wrestles with a prestigious job offer.</desc>
+    <date>2026</date>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/jvqLl/lYbVQ2NoepX_wG78w.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-comedy-west" start="20261114060000 -0800" stop="20261114063400 -0800">
+    <title lang="en">Release the Brown Fat</title>
+    <desc lang="en">Writer Greg Russo arrives at Ludlow College to support his daughter Katie as her marriage begins to implode.</desc>
+    <date>2026</date>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/5XJ_R/E1RaT2tKHm7kcMGgQ.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-east" start="20261114090300 -0500" stop="20261114110000 -0500">
+    <title lang="en">Tyler Perry's Madea's Witness Protection</title>
+    <desc lang="en">A clueless Wall Street investment banker, turning state's evidence against the mob, is relocated with his family to Aunt Madea's southern home as part of the Witness Protection program.</desc>
+    <date>2012</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Parody</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-latino-east" start="20261114090300 -0500" stop="20261114110000 -0500">
+    <title lang="en">Tyler Perry's Madea's Witness Protection</title>
+    <desc lang="en">A clueless Wall Street investment banker, turning state's evidence against the mob, is relocated with his family to Aunt Madea's southern home as part of the Witness Protection program.</desc>
+    <date>2012</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Parody</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-signature-east" start="20261114090300 -0500" stop="20261114103200 -0500">
+    <title lang="en">Do Whatcha Wanna</title>
+    <desc lang="en">Jazz Fest takes center stage in New Orleans, giving Treme residents a welcome respite from a challenging year.</desc>
+    <date>2011</date>
+    <category lang="en">Family Relationships</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/dvGBf/vK9UhmTeiEorpWARQ.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-signature-west" start="20261114060600 -0800" stop="20261114070500 -0800">
+    <title lang="en">Can I Change My Mind</title>
+    <desc lang="en">Delmond pitches his fusion project to Dr. John. Toni enlists a PI. Davis debuts his band while Annie resists debuting her song; LaDonna's marriage is tested. Janette weighs a move to a more casual kitchen. Cornell monitors Sonny's rehab.</desc>
+    <date>2011</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Musical</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-comedy-east" start="20261114091200 -0500" stop="20261114094300 -0500">
+    <title lang="en">All the Dogs' Names</title>
+    <desc lang="en">Greg, Cristle, and Tommy attempt a return to normalcy after an embarrassing mishap. Meanwhile, Archie meets Sunny's father, Walt offers Dylan a new position following Dean Riggs' return, and Katie deals with her evolving feelings for Archie.</desc>
+    <date>2026</date>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/Yc5uC/WEFN7ta7NSPkHyXDQ.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-zone-west" start="20261114061300 -0800" stop="20261114074000 -0800">
+    <title lang="en">Boys Go to Jupiter</title>
+    <desc lang="en">In writer/director Julian Glander's wildly unique adult animated tale, suburban teen Billy 5000 encounters various quirky characters--including a creature he names Donut--while working for a food delivery app.</desc>
+    <date>2024</date>
+    <category lang="en">Adult Animation</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/Pl8jd/Tg97xkXmezvj_-LAQ.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-zone-east" start="20261114091400 -0500" stop="20261114105400 -0500">
+    <title lang="en">Paul Anka: His Way</title>
+    <desc lang="en">Part road movie and part living biography, this documentary from Emmy®-winning filmmaker John Maggio (HBO's Mr. Saturday Night) traces musician Paul Anka on his journey through stardom and constant reinvention in an ever-changing industry.</desc>
+    <date>2025</date>
+    <category lang="en">Documentary</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-latino-west" start="20261114061500 -0800" stop="20261114070600 -0800">
+    <title lang="en">Episode 1</title>
+    <desc lang="en">As violence threatens to erupt in the streets, Wilson becomes obsessed with finding the truth, and Martinha calls on an old acquaintance.</desc>
+    <date>2026</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Organized Crime</category>
+    <category lang="en">Crime</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/Auhx4/tR_aQegtbt9kQGsOw.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-west" start="20261114061700 -0800" stop="20261114071700 -0800">
+    <title lang="en">November 13, 2026: Gov. Sarah Huckabee Sanders, Aaron Parnas, Dasha Burns</title>
+    <desc lang="en">Guests: Gov. Sarah Huckabee Sanders, Aaron Parnas, Dasha Burns.</desc>
+    <date>2026</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Current Events</category>
+    <category lang="en">News</category>
+    <category lang="en">Talk Show</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-comedy-west" start="20261114063400 -0800" stop="20261114070400 -0800">
+    <title lang="en">Trousers</title>
+    <desc lang="en">When Katie’s future at Ludlow is thrown into question, Walt offers Greg a deal to keep them both on campus.</desc>
+    <date>2026</date>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/MWqdb/scDaHUZIZB3yE4PjQ.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo2-east" start="20261114094000 -0500" stop="20261114113000 -0500">
+    <title lang="en">Love, Simon</title>
+    <desc lang="en">Simon Spier is an average American teen leading a perfectly "normal" life, except that he's gay and hasn't told anyone. How he deals with his sexual identity and comes out to his family and friends is the focus of this charming coming-of-age tale.</desc>
+    <date>2018</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Romantic Comedy</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-comedy-east" start="20261114094300 -0500" stop="20261114101300 -0500">
+    <title lang="en">Nobody Spook It</title>
+    <desc lang="en">While Greg tries to support an increasingly emotional Katie, Dylan attempts to steer a promising student towards poetry. Later, Sunny is delighted when Archie starts to engage more with her pregnancy.</desc>
+    <date>2026</date>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/l4vNm/sTiDnFW9g01E-Vh_Q.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-comedy-west" start="20261114070400 -0800" stop="20261114073600 -0800">
+    <title lang="en">White Whale</title>
+    <desc lang="en">While Greg endures his first day of teaching at Ludlow, Katie struggles with her suspension. Later, Archie decides to help Sunny find a suitable advisor, and Dylan is presented with an unexpected new opportunity.</desc>
+    <date>2026</date>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/VtCIg/nQAS6QfXG4l1y2HzA.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-signature-west" start="20261114070500 -0800" stop="20261114080400 -0800">
+    <title lang="en">What Is New Orleans?</title>
+    <desc lang="en">Davis is eclipsed by his protege, Lil Calliope. Albert's quest for authenticity rankles Delmond. Antoine experiences the upside of teaching and downside of band-leading. Larry forces LaDonna to make a choice. Colson lands in Homicide.</desc>
+    <date>2011</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Musical</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-latino-west" start="20261114070600 -0800" stop="20261114071700 -0800">
+    <title lang="en">When You Clean a Stranger's Home</title>
+    <desc lang="en">A first-generation high school student describes what her and her mom learn about people when cleaning their homes.</desc>
+    <date>2022</date>
+    <category lang="en">Drama</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/B7j_t/cJFK8A07Hr_j_tS-Q.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-comedy-east" start="20261114101300 -0500" stop="20261114104400 -0500">
+    <title lang="en">Ludlow’s Fourth Hottest Professor</title>
+    <desc lang="en">Thriving in and out of the classroom, Greg empowers the hockey team before a key game. Meanwhile, Archie receives feedback on his book and Katie focuses on getting tenure – which reveals the extent of her parents’ involvement in her life.</desc>
+    <date>2026</date>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/SxQmU/P80mXEcCF6fdeJRrg.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-latino-west" start="20261114071700 -0800" stop="20261114081200 -0800">
+    <title lang="en">You Won't Hear Me Beg</title>
+    <desc lang="en">Bertha returns to a frosty household, Peggy’s career aspirations clash with the Newport crowd, and Agnes reluctantly gives an interview.</desc>
+    <date>2026</date>
+    <category lang="en">Period Pieces</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/TiOF8/E9PaeNiVrgQLhYcYw.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-west" start="20261114071700 -0800" stop="20261114081200 -0800">
+    <title lang="en">You Won't Hear Me Beg</title>
+    <desc lang="en">Bertha returns to a frosty household, Peggy’s career aspirations clash with the Newport crowd, and Agnes reluctantly gives an interview.</desc>
+    <date>2026</date>
+    <category lang="en">Period Pieces</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/TiOF8/E9PaeNiVrgQLhYcYw.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo2-west" start="20261114073100 -0800" stop="20261114094000 -0800">
+    <title lang="en">Jurassic World: Fallen Kingdom</title>
+    <desc lang="en">Three years after the disaster at Jurassic World, a volcano is about to erupt, threatening to eliminate all life on the island. Desperate to save the surviving creatures, ex-employees Owen Grady and Claire Dearing return to the island on a rescue mission.</desc>
+    <date>2018</date>
+    <category lang="en">Action</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Science Fiction</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-signature-east" start="20261114103200 -0500" stop="20261114113100 -0500">
+    <title lang="en">Knock With Me - Rock With Me</title>
+    <desc lang="en">Antoine Batiste flirts with martyrdom. Janette Desautel encounters her old nemesis, Enrico Brulard, and a new suitor. Delmond and Albert Lambreaux debut their Indian-jazz album. Toni Bernette meets L.P. Everett, a new ally in her investigation.</desc>
+    <date>2012</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Musical</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-comedy-west" start="20261114073600 -0800" stop="20261114081000 -0800">
+    <title lang="en">Angry, Like An Angry Person</title>
+    <desc lang="en">To avoid Walt's party, Greg throws himself into helping a student. With her suspension lifted, Katie contemplates casual dating.</desc>
+    <date>2026</date>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/7xWUN/hEsyxkmVp87H7sDGw.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-zone-west" start="20261114074000 -0800" stop="20261114091400 -0800">
+    <title lang="en">David Bowie: The Last Five Years</title>
+    <desc lang="en">Experience the evolving genius of rock icon David Bowie in this documentary that chronicles the last five years of his life.</desc>
+    <date>2018</date>
+    <category lang="en">Documentaries</category>
+    <category lang="en">Biographies</category>
+    <category lang="en">Music Documentaries</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/cijUq/lGhNBkogLkVv6sr5w.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-comedy-east" start="20261114104400 -0500" stop="20261114111700 -0500">
+    <title lang="en">Songs for Raisa</title>
+    <desc lang="en">After setting boundaries with her parents, Katie makes a decision about her marriage to Archie – who has his own talk with Sunny about the future. Then, as he grapples with Katie's independence, Greg prepares to say goodbye to his semester at Ludlow.</desc>
+    <date>2026</date>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/gkbql/Qrg0T34ssIPU-PTEA.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-zone-east" start="20261114105400 -0500" stop="20261114123400 -0500">
+    <title lang="en">Happy Feet Two</title>
+    <desc lang="en">After a humiliating public experience, Mumble's son, Erik, runs away from home. With Mumble on a desperate search to find his boy, calamity strikes, leaving their entire penguin population trapped. Can Mumble and Erik find a way to save the day?</desc>
+    <date>2011</date>
+    <category lang="en">Adventure</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Kids &amp; Family</category>
+    <category lang="en">Musical</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-east" start="20261114110000 -0500" stop="20261114124700 -0500">
+    <title lang="en">Cocktail</title>
+    <desc lang="en">Young hotshot bartender Tom Cruise takes the Third Avenue bar scene by storm in this intoxicating drama.</desc>
+    <date>1988</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Romance</category>
+    <category lang="en">Romantic Comedy</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-latino-east" start="20261114110000 -0500" stop="20261114124700 -0500">
+    <title lang="en">Cocktail</title>
+    <desc lang="en">Young hotshot bartender Tom Cruise takes the Third Avenue bar scene by storm in this intoxicating drama.</desc>
+    <date>1988</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Romance</category>
+    <category lang="en">Romantic Comedy</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-signature-west" start="20261114080400 -0800" stop="20261114090300 -0800">
+    <title lang="en">That's What Lovers Do</title>
+    <desc lang="en">The community mourns a fallen artist. Toni asks Colson for inside help. Sonny is smitten at the docks. Janette earns a new nickname at the Lucky Peach. Sofia is tempted at her job. Antoine's showboating costs him a singer. Delmond and Albert head south.</desc>
+    <date>2011</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Musical</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-comedy-west" start="20261114081000 -0800" stop="20261114084100 -0800">
+    <title lang="en">Mr. Razzles</title>
+    <desc lang="en">When his ex-wife Beth shows up for a dedication ceremony on campus, Greg starts to backslide into old habits. Later, Katie reconnects with Archie, and Dylan finds herself flourishing in her new role.</desc>
+    <date>2026</date>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/e5MLi/co9SuqkJoXBNhwn9g.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-latino-west" start="20261114081200 -0800" stop="20261114090300 -0800">
+    <title lang="en">The Juicy Bit</title>
+    <desc lang="en">As the trial begins, Morgan faces pointed questioning from Budgie about Carla's involvement in the early days of Zephyr. Meanwhile, Johnny is tasked with finding proof of a potentially damaging financial transaction.</desc>
+    <date>2026</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Thrillers</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/UkRWs/YgBntwY5nkJmQz0FA.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-west" start="20261114081200 -0800" stop="20261114090300 -0800">
+    <title lang="en">The Juicy Bit</title>
+    <desc lang="en">As the trial begins, Morgan faces pointed questioning from Budgie about Carla's involvement in the early days of Zephyr. Meanwhile, Johnny is tasked with finding proof of a potentially damaging financial transaction.</desc>
+    <date>2026</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Thrillers</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/UkRWs/YgBntwY5nkJmQz0FA.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-comedy-east" start="20261114111700 -0500" stop="20261114121800 -0500">
+    <title lang="en">Whitmer Thomas: Terminal Crew of Dudes</title>
+    <desc lang="en">In his second HBO special, Whitmer Thomas digs into his adolescent years, longtime friendships, and ongoing quest to be cool.</desc>
+    <date>2026</date>
+    <category lang="en">Stand-Up Specials</category>
+    <category lang="en">Events</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Stand-Up</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/7tx8R/QiH3JsmO0FUkSykSA.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo2-east" start="20261114113000 -0500" stop="20261114122000 -0500">
+    <title lang="en">The Juicy Bit</title>
+    <desc lang="en">As the trial begins, Morgan faces pointed questioning from Budgie about Carla's involvement in the early days of Zephyr. Meanwhile, Johnny is tasked with finding proof of a potentially damaging financial transaction.</desc>
+    <date>2026</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Thrillers</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/UkRWs/YgBntwY5nkJmQz0FA.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-signature-east" start="20261114113100 -0500" stop="20261114123000 -0500">
+    <title lang="en">Saints</title>
+    <desc lang="en">Antoine's students show interest and Annie's demo hits its mark. Heat at the in-laws' house forces LaDonna to move.</desc>
+    <date>2012</date>
+    <category lang="en">Family Relationships</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/j0CRa/vwR9lmDAMk-r7CV4A.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-comedy-west" start="20261114084100 -0800" stop="20261114091200 -0800">
+    <title lang="en">Cop Hawk</title>
+    <desc lang="en">While relishing in his new fling, Greg offers a struggling Tommy a place to crash. Later, Katie confronts the student behind some personal campus graffiti, Dylan impresses Walt in her new role, and Sunny wrestles with a prestigious job offer.</desc>
+    <date>2026</date>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/jvqLl/lYbVQ2NoepX_wG78w.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-latino-west" start="20261114090300 -0800" stop="20261114110000 -0800">
+    <title lang="en">Tyler Perry's Madea's Witness Protection</title>
+    <desc lang="en">A clueless Wall Street investment banker, turning state's evidence against the mob, is relocated with his family to Aunt Madea's southern home as part of the Witness Protection program.</desc>
+    <date>2012</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Parody</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-signature-west" start="20261114090300 -0800" stop="20261114103200 -0800">
+    <title lang="en">Do Whatcha Wanna</title>
+    <desc lang="en">Jazz Fest takes center stage in New Orleans, giving Treme residents a welcome respite from a challenging year.</desc>
+    <date>2011</date>
+    <category lang="en">Family Relationships</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/dvGBf/vK9UhmTeiEorpWARQ.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-west" start="20261114090300 -0800" stop="20261114110000 -0800">
+    <title lang="en">Tyler Perry's Madea's Witness Protection</title>
+    <desc lang="en">A clueless Wall Street investment banker, turning state's evidence against the mob, is relocated with his family to Aunt Madea's southern home as part of the Witness Protection program.</desc>
+    <date>2012</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Parody</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-comedy-west" start="20261114091200 -0800" stop="20261114094300 -0800">
+    <title lang="en">All the Dogs' Names</title>
+    <desc lang="en">Greg, Cristle, and Tommy attempt a return to normalcy after an embarrassing mishap. Meanwhile, Archie meets Sunny's father, Walt offers Dylan a new position following Dean Riggs' return, and Katie deals with her evolving feelings for Archie.</desc>
+    <date>2026</date>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/Yc5uC/WEFN7ta7NSPkHyXDQ.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-zone-west" start="20261114091400 -0800" stop="20261114105400 -0800">
+    <title lang="en">Paul Anka: His Way</title>
+    <desc lang="en">Part road movie and part living biography, this documentary from Emmy®-winning filmmaker John Maggio (HBO's Mr. Saturday Night) traces musician Paul Anka on his journey through stardom and constant reinvention in an ever-changing industry.</desc>
+    <date>2025</date>
+    <category lang="en">Documentary</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-comedy-east" start="20261114121800 -0500" stop="20261114133400 -0500">
+    <title lang="en">Chris Fleming: Live at the Palace</title>
+    <desc lang="en">From the Cadillac Palace Theatre in Chicago, comedian Chris Fleming bursts onto the screen with a fun and lighthearted blend of skillful storytelling and wild physicality in his first HBO stand-up special.</desc>
+    <date>2026</date>
+    <category lang="en">Events</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Stand-Up Specials</category>
+    <category lang="en">Stand-Up</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/rTWiA/UVFaRX0COsXi1YESw.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo2-east" start="20261114122000 -0500" stop="20261114125200 -0500">
+    <title lang="en">A Story of Derry</title>
+    <desc lang="en">Hundreds of years before Pennywise, three youngsters venture into the Western Wood...where they encounter a terrifying ancient spirit.</desc>
+    <date>2026</date>
+    <category lang="en">Horror</category>
+    <category lang="en">Mystery</category>
+    <category lang="en">Supernatural</category>
+    <category lang="en">Thriller</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-signature-east" start="20261114123000 -0500" stop="20261114132900 -0500">
+    <title lang="en">Me Donkey Want Water</title>
+    <desc lang="en">Janette, Aunt Mimi and Annie commit to new deals, with varying degrees of enthusiasm. Toni may have found the killer she seeks. Terry is still looking for his. L.P. Everett meets his victim's family. Batiste plays his bone in Texas.</desc>
+    <date>2012</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Musical</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-zone-east" start="20261114123400 -0500" stop="20261114141900 -0500">
+    <title lang="en">The Man Who Invented Christmas</title>
+    <desc lang="en">In 1840s London, author Charles Dickens mixes real-life inspirations with his vivid imagination to create the unforgettable characters and timeless tale of "A Christmas Carol," forever changing the holiday season into the celebration we know today.</desc>
+    <date>2017</date>
+    <category lang="en">Biography</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Period Piece</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo2-west" start="20261114094000 -0800" stop="20261114113000 -0800">
+    <title lang="en">Love, Simon</title>
+    <desc lang="en">Simon Spier is an average American teen leading a perfectly "normal" life, except that he's gay and hasn't told anyone. How he deals with his sexual identity and comes out to his family and friends is the focus of this charming coming-of-age tale.</desc>
+    <date>2018</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Romantic Comedy</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-comedy-west" start="20261114094300 -0800" stop="20261114101300 -0800">
+    <title lang="en">Nobody Spook It</title>
+    <desc lang="en">While Greg tries to support an increasingly emotional Katie, Dylan attempts to steer a promising student towards poetry. Later, Sunny is delighted when Archie starts to engage more with her pregnancy.</desc>
+    <date>2026</date>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/l4vNm/sTiDnFW9g01E-Vh_Q.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-east" start="20261114124700 -0500" stop="20261114133800 -0500">
+    <title lang="en">The Juicy Bit</title>
+    <desc lang="en">As the trial begins, Morgan faces pointed questioning from Budgie about Carla's involvement in the early days of Zephyr. Meanwhile, Johnny is tasked with finding proof of a potentially damaging financial transaction.</desc>
+    <date>2026</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Thrillers</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/UkRWs/YgBntwY5nkJmQz0FA.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-latino-east" start="20261114124700 -0500" stop="20261114133800 -0500">
+    <title lang="en">The Juicy Bit</title>
+    <desc lang="en">As the trial begins, Morgan faces pointed questioning from Budgie about Carla's involvement in the early days of Zephyr. Meanwhile, Johnny is tasked with finding proof of a potentially damaging financial transaction.</desc>
+    <date>2026</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Thrillers</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/UkRWs/YgBntwY5nkJmQz0FA.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo2-east" start="20261114125200 -0500" stop="20261114134600 -0500">
+    <title lang="en">You Won't Hear Me Beg</title>
+    <desc lang="en">Bertha returns to a frosty household, Peggy’s career aspirations clash with the Newport crowd, and Agnes reluctantly gives an interview.</desc>
+    <date>2026</date>
+    <category lang="en">Period Pieces</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/TiOF8/E9PaeNiVrgQLhYcYw.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-comedy-west" start="20261114101300 -0800" stop="20261114104400 -0800">
+    <title lang="en">Ludlow’s Fourth Hottest Professor</title>
+    <desc lang="en">Thriving in and out of the classroom, Greg empowers the hockey team before a key game. Meanwhile, Archie receives feedback on his book and Katie focuses on getting tenure – which reveals the extent of her parents’ involvement in her life.</desc>
+    <date>2026</date>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/SxQmU/P80mXEcCF6fdeJRrg.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-signature-east" start="20261114132900 -0500" stop="20261114142800 -0500">
+    <title lang="en">The Greatest Love</title>
+    <desc lang="en">Antoine Batiste does a good deed, and a homeowner suspects Nelson Hidalgo's deeds may not be good. Davis McAlary fails to sign Sugar Boy Crawford for his opera, but Lambreaux gets his father to sign up for assistance from New Orleans Musicians' Clinic.</desc>
+    <date>2012</date>
+    <category lang="en">Family Relationships</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/IhqhC/MqdEP2_tByT8oBfcA.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-signature-west" start="20261114103200 -0800" stop="20261114113100 -0800">
+    <title lang="en">Knock With Me - Rock With Me</title>
+    <desc lang="en">Antoine Batiste flirts with martyrdom. Janette Desautel encounters her old nemesis, Enrico Brulard, and a new suitor. Delmond and Albert Lambreaux debut their Indian-jazz album. Toni Bernette meets L.P. Everett, a new ally in her investigation.</desc>
+    <date>2012</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Musical</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-comedy-east" start="20261114133400 -0500" stop="20261114143400 -0500">
+    <title lang="en">Josh Johnson: Symphony</title>
+    <desc lang="en">In his debut HBO special, comedian Josh Johnson weaves stories of strange childhood experiences, family, and his ever-present awkwardness.</desc>
+    <date>2026</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Stand-Up Specials</category>
+    <category lang="en">Events</category>
+    <category lang="en">Stand-Up</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/3hDc_/O467xIRZ1ZCz6hWQQ.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-east" start="20261114133800 -0500" stop="20261114150800 -0500">
+    <title lang="en">Breaking In</title>
+    <desc lang="en">When criminals break into a remote smart home and hold her kids hostage, a determined mother (Gabrielle Union) turns the tables. Denied entry, but not defeated, she'll use wit and grit to do whatever it takes to rescue her children.</desc>
+    <date>2018</date>
+    <category lang="en">Action</category>
+    <category lang="en">Drama</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-latino-east" start="20261114133800 -0500" stop="20261114150800 -0500">
+    <title lang="en">Breaking In</title>
+    <desc lang="en">When criminals break into a remote smart home and hold her kids hostage, a determined mother (Gabrielle Union) turns the tables. Denied entry, but not defeated, she'll use wit and grit to do whatever it takes to rescue her children.</desc>
+    <date>2018</date>
+    <category lang="en">Action</category>
+    <category lang="en">Drama</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-comedy-west" start="20261114104400 -0800" stop="20261114111700 -0800">
+    <title lang="en">Songs for Raisa</title>
+    <desc lang="en">After setting boundaries with her parents, Katie makes a decision about her marriage to Archie – who has his own talk with Sunny about the future. Then, as he grapples with Katie's independence, Greg prepares to say goodbye to his semester at Ludlow.</desc>
+    <date>2026</date>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/gkbql/Qrg0T34ssIPU-PTEA.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo2-east" start="20261114134600 -0500" stop="20261114160600 -0500">
+    <title lang="en">Ready Player One</title>
+    <desc lang="en">Steven Spielberg's futuristic tale in which the late creator of a virtual universe leaves it to be inherited (along with his fortune) by anyone who can find an Easter Egg. From a horde of competitors, one hardscrabble youth emerges to lead the chase.</desc>
+    <date>2018</date>
+    <category lang="en">Action</category>
+    <category lang="en">Science Fiction</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-zone-west" start="20261114105400 -0800" stop="20261114123400 -0800">
+    <title lang="en">Happy Feet Two</title>
+    <desc lang="en">After a humiliating public experience, Mumble's son, Erik, runs away from home. With Mumble on a desperate search to find his boy, calamity strikes, leaving their entire penguin population trapped. Can Mumble and Erik find a way to save the day?</desc>
+    <date>2011</date>
+    <category lang="en">Adventure</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Kids &amp; Family</category>
+    <category lang="en">Musical</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-latino-west" start="20261114110000 -0800" stop="20261114124700 -0800">
+    <title lang="en">Cocktail</title>
+    <desc lang="en">Young hotshot bartender Tom Cruise takes the Third Avenue bar scene by storm in this intoxicating drama.</desc>
+    <date>1988</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Romance</category>
+    <category lang="en">Romantic Comedy</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-west" start="20261114110000 -0800" stop="20261114124700 -0800">
+    <title lang="en">Cocktail</title>
+    <desc lang="en">Young hotshot bartender Tom Cruise takes the Third Avenue bar scene by storm in this intoxicating drama.</desc>
+    <date>1988</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Romance</category>
+    <category lang="en">Romantic Comedy</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-comedy-west" start="20261114111700 -0800" stop="20261114121800 -0800">
+    <title lang="en">Whitmer Thomas: Terminal Crew of Dudes</title>
+    <desc lang="en">In his second HBO special, Whitmer Thomas digs into his adolescent years, longtime friendships, and ongoing quest to be cool.</desc>
+    <date>2026</date>
+    <category lang="en">Stand-Up Specials</category>
+    <category lang="en">Events</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Stand-Up</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/7tx8R/QiH3JsmO0FUkSykSA.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-zone-east" start="20261114141900 -0500" stop="20261114160500 -0500">
+    <title lang="en">Prancer: A Christmas Tale</title>
+    <desc lang="en">A plucky 10-year-old girl and her grandfather discover a mysterious reindeer near their family home over the holidays. Together, they work to protect the magical animal while trying to understand why he's visited them in this charming Christmas tale.</desc>
+    <date>2022</date>
+    <category lang="en">Kids &amp; Family</category>
+    <category lang="en">Family Adventures</category>
+    <category lang="en">Fantasy &amp; Sci-Fi</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/eJNAE/_7JmhNv3bsjEQE7Zw.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-signature-east" start="20261114142800 -0500" stop="20261114152700 -0500">
+    <title lang="en">I Thought I Heard Buddy Bolden Say</title>
+    <desc lang="en">Antoine Batiste does the "Cupid Shuffle," as Desiree's mother's house collapses. Annie T's visiting parents learn about her record deal. Albert Lambreaux's kids learn about his lymphoma. Toni Berrnette learns about Sofia's boyfriend.</desc>
+    <date>2012</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Musical</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo2-west" start="20261114113000 -0800" stop="20261114122000 -0800">
+    <title lang="en">The Juicy Bit</title>
+    <desc lang="en">As the trial begins, Morgan faces pointed questioning from Budgie about Carla's involvement in the early days of Zephyr. Meanwhile, Johnny is tasked with finding proof of a potentially damaging financial transaction.</desc>
+    <date>2026</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Thrillers</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/UkRWs/YgBntwY5nkJmQz0FA.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-signature-west" start="20261114113100 -0800" stop="20261114123000 -0800">
+    <title lang="en">Saints</title>
+    <desc lang="en">Antoine's students show interest and Annie's demo hits its mark. Heat at the in-laws' house forces LaDonna to move.</desc>
+    <date>2012</date>
+    <category lang="en">Family Relationships</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/j0CRa/vwR9lmDAMk-r7CV4A.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-comedy-east" start="20261114143400 -0500" stop="20261114153100 -0500">
+    <title lang="en">An Intimate Evening with Adam Pally</title>
+    <desc lang="en">In his debut special, actor and comedian Adam Pally takes the stage in Brooklyn, NY for a hilarious musical evening. Featuring special guests, the show puts the comedian's musical acumen on full display as he sings a mix of original and cover songs.</desc>
+    <date>2025</date>
+    <category lang="en">Comedy</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-east" start="20261114150800 -0500" stop="20261114160500 -0500">
+    <title lang="en">Ring the Bells</title>
+    <desc lang="en">Bertha faces Gladys’s difficult childbirth, Peggy achieves a milestone, and Agnes makes plans to host a prestigious dinner.</desc>
+    <date>2026</date>
+    <category lang="en">Period Pieces</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/5GORZ/EY910Iz0_fVVcGDKw.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-latino-east" start="20261114150800 -0500" stop="20261114160500 -0500">
+    <title lang="en">Ring the Bells</title>
+    <desc lang="en">Bertha faces Gladys’s difficult childbirth, Peggy achieves a milestone, and Agnes makes plans to host a prestigious dinner.</desc>
+    <date>2026</date>
+    <category lang="en">Period Pieces</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/5GORZ/EY910Iz0_fVVcGDKw.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-comedy-west" start="20261114121800 -0800" stop="20261114133400 -0800">
+    <title lang="en">Chris Fleming: Live at the Palace</title>
+    <desc lang="en">From the Cadillac Palace Theatre in Chicago, comedian Chris Fleming bursts onto the screen with a fun and lighthearted blend of skillful storytelling and wild physicality in his first HBO stand-up special.</desc>
+    <date>2026</date>
+    <category lang="en">Events</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Stand-Up Specials</category>
+    <category lang="en">Stand-Up</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/rTWiA/UVFaRX0COsXi1YESw.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo2-west" start="20261114122000 -0800" stop="20261114125200 -0800">
+    <title lang="en">A Story of Derry</title>
+    <desc lang="en">Hundreds of years before Pennywise, three youngsters venture into the Western Wood...where they encounter a terrifying ancient spirit.</desc>
+    <date>2026</date>
+    <category lang="en">Horror</category>
+    <category lang="en">Mystery</category>
+    <category lang="en">Supernatural</category>
+    <category lang="en">Thriller</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-signature-east" start="20261114152700 -0500" stop="20261114162600 -0500">
+    <title lang="en">Careless Love</title>
+    <desc lang="en">Sonny rushes, but still misses the boat. Fats Domino tickles Davis McAlary's fancy. Antoine Batiste seeks reading help for Jennifer. Janette Desautel endures corporate hell. Toni Bernette and L.P. Everett get a witness. Desiree gets a new ally.</desc>
+    <date>2012</date>
+    <category lang="en">Family Relationships</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/HWpzo/AMFN_MbL1_fhEeo7A.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-signature-west" start="20261114123000 -0800" stop="20261114132900 -0800">
+    <title lang="en">Me Donkey Want Water</title>
+    <desc lang="en">Janette, Aunt Mimi and Annie commit to new deals, with varying degrees of enthusiasm. Toni may have found the killer she seeks. Terry is still looking for his. L.P. Everett meets his victim's family. Batiste plays his bone in Texas.</desc>
+    <date>2012</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Musical</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-comedy-east" start="20261114153100 -0500" stop="20261114163000 -0500">
+    <title lang="en">Ramy Youssef: More Feelings</title>
+    <desc lang="en">Ramy Youssef reflects on issues big and small–from global events to his childhood book report to finding unity in our divided world.</desc>
+    <date>2024</date>
+    <category lang="en">Comedy</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-zone-west" start="20261114123400 -0800" stop="20261114141900 -0800">
+    <title lang="en">The Man Who Invented Christmas</title>
+    <desc lang="en">In 1840s London, author Charles Dickens mixes real-life inspirations with his vivid imagination to create the unforgettable characters and timeless tale of "A Christmas Carol," forever changing the holiday season into the celebration we know today.</desc>
+    <date>2017</date>
+    <category lang="en">Biography</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Period Piece</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-latino-west" start="20261114124700 -0800" stop="20261114133800 -0800">
+    <title lang="en">The Juicy Bit</title>
+    <desc lang="en">As the trial begins, Morgan faces pointed questioning from Budgie about Carla's involvement in the early days of Zephyr. Meanwhile, Johnny is tasked with finding proof of a potentially damaging financial transaction.</desc>
+    <date>2026</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Thrillers</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/UkRWs/YgBntwY5nkJmQz0FA.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-west" start="20261114124700 -0800" stop="20261114133800 -0800">
+    <title lang="en">The Juicy Bit</title>
+    <desc lang="en">As the trial begins, Morgan faces pointed questioning from Budgie about Carla's involvement in the early days of Zephyr. Meanwhile, Johnny is tasked with finding proof of a potentially damaging financial transaction.</desc>
+    <date>2026</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Thrillers</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/UkRWs/YgBntwY5nkJmQz0FA.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo2-west" start="20261114125200 -0800" stop="20261114134600 -0800">
+    <title lang="en">You Won't Hear Me Beg</title>
+    <desc lang="en">Bertha returns to a frosty household, Peggy’s career aspirations clash with the Newport crowd, and Agnes reluctantly gives an interview.</desc>
+    <date>2026</date>
+    <category lang="en">Period Pieces</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/TiOF8/E9PaeNiVrgQLhYcYw.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-east" start="20261114160500 -0500" stop="20261114170000 -0500">
+    <title lang="en">You Won't Hear Me Beg</title>
+    <desc lang="en">Bertha returns to a frosty household, Peggy’s career aspirations clash with the Newport crowd, and Agnes reluctantly gives an interview.</desc>
+    <date>2026</date>
+    <category lang="en">Period Pieces</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/TiOF8/E9PaeNiVrgQLhYcYw.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-latino-east" start="20261114160500 -0500" stop="20261114170000 -0500">
+    <title lang="en">You Won't Hear Me Beg</title>
+    <desc lang="en">Bertha returns to a frosty household, Peggy’s career aspirations clash with the Newport crowd, and Agnes reluctantly gives an interview.</desc>
+    <date>2026</date>
+    <category lang="en">Period Pieces</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/TiOF8/E9PaeNiVrgQLhYcYw.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-zone-east" start="20261114160500 -0500" stop="20261114174400 -0500">
+    <title lang="en">Christmas with the Kranks</title>
+    <desc lang="en">Tim Allen and Jamie Lee Curtis star in this Christmas comedy as a married couple who decides to skip Christmas since her daughter is in Peru. But when she decides to come home at the last minute, they must rush to get Christmas set up for her.</desc>
+    <date>2004</date>
+    <category lang="en">Comedy</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo2-east" start="20261114160600 -0500" stop="20261114165600 -0500">
+    <title lang="en">The Juicy Bit</title>
+    <desc lang="en">As the trial begins, Morgan faces pointed questioning from Budgie about Carla's involvement in the early days of Zephyr. Meanwhile, Johnny is tasked with finding proof of a potentially damaging financial transaction.</desc>
+    <date>2026</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Thrillers</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/UkRWs/YgBntwY5nkJmQz0FA.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-signature-east" start="20261114162600 -0500" stop="20261114173600 -0500">
+    <title lang="en">Promised Land</title>
+    <desc lang="en">It's Carnival time. Toni Bernette finds Judge Gatling dispensing orders and potables at Galatoire's.</desc>
+    <date>2012</date>
+    <category lang="en">Family Relationships</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/ayIaH/Jtu9D7NILWvAOaFRQ.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-signature-west" start="20261114132900 -0800" stop="20261114142800 -0800">
+    <title lang="en">The Greatest Love</title>
+    <desc lang="en">Antoine Batiste does a good deed, and a homeowner suspects Nelson Hidalgo's deeds may not be good. Davis McAlary fails to sign Sugar Boy Crawford for his opera, but Lambreaux gets his father to sign up for assistance from New Orleans Musicians' Clinic.</desc>
+    <date>2012</date>
+    <category lang="en">Family Relationships</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/IhqhC/MqdEP2_tByT8oBfcA.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-comedy-east" start="20261114163000 -0500" stop="20261114170200 -0500">
+    <title lang="en">Block Her</title>
+    <desc lang="en">On her 27th birthday, Maia deals with the sudden return of her best friend Tallulah.</desc>
+    <date>2025</date>
+    <category lang="en">Comedy</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-comedy-west" start="20261114133400 -0800" stop="20261114143400 -0800">
+    <title lang="en">Josh Johnson: Symphony</title>
+    <desc lang="en">In his debut HBO special, comedian Josh Johnson weaves stories of strange childhood experiences, family, and his ever-present awkwardness.</desc>
+    <date>2026</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Stand-Up Specials</category>
+    <category lang="en">Events</category>
+    <category lang="en">Stand-Up</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/3hDc_/O467xIRZ1ZCz6hWQQ.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-latino-west" start="20261114133800 -0800" stop="20261114150800 -0800">
+    <title lang="en">Breaking In</title>
+    <desc lang="en">When criminals break into a remote smart home and hold her kids hostage, a determined mother (Gabrielle Union) turns the tables. Denied entry, but not defeated, she'll use wit and grit to do whatever it takes to rescue her children.</desc>
+    <date>2018</date>
+    <category lang="en">Action</category>
+    <category lang="en">Drama</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-west" start="20261114133800 -0800" stop="20261114150800 -0800">
+    <title lang="en">Breaking In</title>
+    <desc lang="en">When criminals break into a remote smart home and hold her kids hostage, a determined mother (Gabrielle Union) turns the tables. Denied entry, but not defeated, she'll use wit and grit to do whatever it takes to rescue her children.</desc>
+    <date>2018</date>
+    <category lang="en">Action</category>
+    <category lang="en">Drama</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo2-west" start="20261114134600 -0800" stop="20261114160600 -0800">
+    <title lang="en">Ready Player One</title>
+    <desc lang="en">Steven Spielberg's futuristic tale in which the late creator of a virtual universe leaves it to be inherited (along with his fortune) by anyone who can find an Easter Egg. From a horde of competitors, one hardscrabble youth emerges to lead the chase.</desc>
+    <date>2018</date>
+    <category lang="en">Action</category>
+    <category lang="en">Science Fiction</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo2-east" start="20261114165600 -0500" stop="20261114192500 -0500">
+    <title lang="en">Eddington</title>
+    <desc lang="en">A standoff between a small-town sheriff (Joaquin Phoenix) and mayor (Pedro Pascal) sparks a powder keg as neighbor is pitted against neighbor in May of 2020 in Eddington, New Mexico. A provocative, era-defining thriller from Ari Aster (Hereditary).</desc>
+    <date>2025</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Westerns</category>
+    <category lang="en">Dark Comedy</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Action</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/Oz4BB/Jfiy-hn1Db6fGy4qw.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-east" start="20261114170000 -0500" stop="20261114175000 -0500">
+    <title lang="en">The Juicy Bit</title>
+    <desc lang="en">As the trial begins, Morgan faces pointed questioning from Budgie about Carla's involvement in the early days of Zephyr. Meanwhile, Johnny is tasked with finding proof of a potentially damaging financial transaction.</desc>
+    <date>2026</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Thrillers</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/UkRWs/YgBntwY5nkJmQz0FA.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-latino-east" start="20261114170000 -0500" stop="20261114175000 -0500">
+    <title lang="en">The Juicy Bit</title>
+    <desc lang="en">As the trial begins, Morgan faces pointed questioning from Budgie about Carla's involvement in the early days of Zephyr. Meanwhile, Johnny is tasked with finding proof of a potentially damaging financial transaction.</desc>
+    <date>2026</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Thrillers</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/UkRWs/YgBntwY5nkJmQz0FA.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-comedy-east" start="20261114170200 -0500" stop="20261114173200 -0500">
+    <title lang="en">Roger &amp; Munchy</title>
+    <desc lang="en">After reconciling, Maia and Tallulah step into their new roles as manager and client while tackling an increasingly erratic situation.</desc>
+    <date>2025</date>
+    <category lang="en">Comedy</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-zone-west" start="20261114141900 -0800" stop="20261114160500 -0800">
+    <title lang="en">Prancer: A Christmas Tale</title>
+    <desc lang="en">A plucky 10-year-old girl and her grandfather discover a mysterious reindeer near their family home over the holidays. Together, they work to protect the magical animal while trying to understand why he's visited them in this charming Christmas tale.</desc>
+    <date>2022</date>
+    <category lang="en">Kids &amp; Family</category>
+    <category lang="en">Family Adventures</category>
+    <category lang="en">Fantasy &amp; Sci-Fi</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/eJNAE/_7JmhNv3bsjEQE7Zw.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-signature-west" start="20261114142800 -0800" stop="20261114152700 -0800">
+    <title lang="en">I Thought I Heard Buddy Bolden Say</title>
+    <desc lang="en">Antoine Batiste does the "Cupid Shuffle," as Desiree's mother's house collapses. Annie T's visiting parents learn about her record deal. Albert Lambreaux's kids learn about his lymphoma. Toni Berrnette learns about Sofia's boyfriend.</desc>
+    <date>2012</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Musical</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-comedy-east" start="20261114173200 -0500" stop="20261114180200 -0500">
+    <title lang="en">Girl's Girl</title>
+    <desc lang="en">After a viral rant, Tallulah struggles with online hate, while Maia wrestles with following her managerial instincts.</desc>
+    <date>2025</date>
+    <category lang="en">Comedy</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-comedy-west" start="20261114143400 -0800" stop="20261114153100 -0800">
+    <title lang="en">An Intimate Evening with Adam Pally</title>
+    <desc lang="en">In his debut special, actor and comedian Adam Pally takes the stage in Brooklyn, NY for a hilarious musical evening. Featuring special guests, the show puts the comedian's musical acumen on full display as he sings a mix of original and cover songs.</desc>
+    <date>2025</date>
+    <category lang="en">Comedy</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-signature-east" start="20261114173600 -0500" stop="20261114183500 -0500">
+    <title lang="en">Don't You Leave Me Here</title>
+    <desc lang="en">Desautel's on the Avenue opens softly. Sonny pawns instruments to buy jewelry. LaDonna Batiste-Williams gets threats from a stranger and support from Albert Lambreaux. Sofia Bernette gets evicted for her own protection.</desc>
+    <date>2012</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Musical</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-zone-east" start="20261114174400 -0500" stop="20261114191400 -0500">
+    <title lang="en">A Very Harold &amp; Kumar 3D Christmas</title>
+    <desc lang="en">Harold and Kumar go on a Christmas Eve bender while trying to replace Harold's father-in law's prized Christmas tree.</desc>
+    <date>2011</date>
+    <category lang="en">Comedy</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-east" start="20261114175000 -0500" stop="20261114200000 -0500">
+    <title lang="en">Jurassic World: Fallen Kingdom</title>
+    <desc lang="en">Three years after the disaster at Jurassic World, a volcano is about to erupt, threatening to eliminate all life on the island. Desperate to save the surviving creatures, ex-employees Owen Grady and Claire Dearing return to the island on a rescue mission.</desc>
+    <date>2018</date>
+    <category lang="en">Action</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Science Fiction</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-latino-east" start="20261114175000 -0500" stop="20261114200000 -0500">
+    <title lang="en">Jurassic World: Fallen Kingdom</title>
+    <desc lang="en">Three years after the disaster at Jurassic World, a volcano is about to erupt, threatening to eliminate all life on the island. Desperate to save the surviving creatures, ex-employees Owen Grady and Claire Dearing return to the island on a rescue mission.</desc>
+    <date>2018</date>
+    <category lang="en">Action</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Science Fiction</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-comedy-east" start="20261114180200 -0500" stop="20261114183100 -0500">
+    <title lang="en">Upstairses</title>
+    <desc lang="en">At a party, Maia and Alani have a once-in-a-lifetime encounter, Tallulah gets roped into making content, and Charlie meets someone new.</desc>
+    <date>2025</date>
+    <category lang="en">Comedy</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-latino-west" start="20261114150800 -0800" stop="20261114160500 -0800">
+    <title lang="en">Ring the Bells</title>
+    <desc lang="en">Bertha faces Gladys’s difficult childbirth, Peggy achieves a milestone, and Agnes makes plans to host a prestigious dinner.</desc>
+    <date>2026</date>
+    <category lang="en">Period Pieces</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/5GORZ/EY910Iz0_fVVcGDKw.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-west" start="20261114150800 -0800" stop="20261114160500 -0800">
+    <title lang="en">Ring the Bells</title>
+    <desc lang="en">Bertha faces Gladys’s difficult childbirth, Peggy achieves a milestone, and Agnes makes plans to host a prestigious dinner.</desc>
+    <date>2026</date>
+    <category lang="en">Period Pieces</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/5GORZ/EY910Iz0_fVVcGDKw.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-signature-west" start="20261114152700 -0800" stop="20261114162600 -0800">
+    <title lang="en">Careless Love</title>
+    <desc lang="en">Sonny rushes, but still misses the boat. Fats Domino tickles Davis McAlary's fancy. Antoine Batiste seeks reading help for Jennifer. Janette Desautel endures corporate hell. Toni Bernette and L.P. Everett get a witness. Desiree gets a new ally.</desc>
+    <date>2012</date>
+    <category lang="en">Family Relationships</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/HWpzo/AMFN_MbL1_fhEeo7A.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-comedy-east" start="20261114183100 -0500" stop="20261114190000 -0500">
+    <title lang="en">They Can't All Be Jeremys</title>
+    <desc lang="en">Impressed with Maia's strides at work, Alyssa invites her and Dylan over for dinner. Meanwhile, Charlie finds himself charmed by Lukas and his friend group, and Alani teaches Tallulah to drive.</desc>
+    <date>2025</date>
+    <category lang="en">Comedy</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-comedy-west" start="20261114153100 -0800" stop="20261114163000 -0800">
+    <title lang="en">Ramy Youssef: More Feelings</title>
+    <desc lang="en">Ramy Youssef reflects on issues big and small–from global events to his childhood book report to finding unity in our divided world.</desc>
+    <date>2024</date>
+    <category lang="en">Comedy</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-signature-east" start="20261114183500 -0500" stop="20261114193400 -0500">
+    <title lang="en">Poor Man's Paradise</title>
+    <desc lang="en">Janette Desautel gets attacked by crawfish ravioli. Terry Colson survives an assault. His position at NOPD is "untenable," but his position with Toni Bernette is improving. LaDonna Batiste-Williams learns the meaning of those threatening gestures.</desc>
+    <date>2012</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Musical</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-comedy-east" start="20261114190000 -0500" stop="20261114193000 -0500">
+    <title lang="en">Game Night</title>
+    <desc lang="en">Maia scores Tallulah a high-profile ad campaign, but Tallulah questions its resulting impact on her brand. Maia joins Dylan’s work friends for a game night, and things get horny. Meanwhile, Charlie runs into an ex at a funeral.</desc>
+    <date>2025</date>
+    <category lang="en">Comedy</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-latino-west" start="20261114160500 -0800" stop="20261114170000 -0800">
+    <title lang="en">You Won't Hear Me Beg</title>
+    <desc lang="en">Bertha returns to a frosty household, Peggy’s career aspirations clash with the Newport crowd, and Agnes reluctantly gives an interview.</desc>
+    <date>2026</date>
+    <category lang="en">Period Pieces</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/TiOF8/E9PaeNiVrgQLhYcYw.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-west" start="20261114160500 -0800" stop="20261114170000 -0800">
+    <title lang="en">You Won't Hear Me Beg</title>
+    <desc lang="en">Bertha returns to a frosty household, Peggy’s career aspirations clash with the Newport crowd, and Agnes reluctantly gives an interview.</desc>
+    <date>2026</date>
+    <category lang="en">Period Pieces</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/TiOF8/E9PaeNiVrgQLhYcYw.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-zone-west" start="20261114160500 -0800" stop="20261114174400 -0800">
+    <title lang="en">Christmas with the Kranks</title>
+    <desc lang="en">Tim Allen and Jamie Lee Curtis star in this Christmas comedy as a married couple who decides to skip Christmas since her daughter is in Peru. But when she decides to come home at the last minute, they must rush to get Christmas set up for her.</desc>
+    <date>2004</date>
+    <category lang="en">Comedy</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo2-west" start="20261114160600 -0800" stop="20261114165600 -0800">
+    <title lang="en">The Juicy Bit</title>
+    <desc lang="en">As the trial begins, Morgan faces pointed questioning from Budgie about Carla's involvement in the early days of Zephyr. Meanwhile, Johnny is tasked with finding proof of a potentially damaging financial transaction.</desc>
+    <date>2026</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Thrillers</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/UkRWs/YgBntwY5nkJmQz0FA.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-zone-east" start="20261114191400 -0500" stop="20261114204700 -0500">
+    <title lang="en">Taken 2</title>
+    <desc lang="en">Retired CIA agent Bryan Mills must use every trick in his infinite arsenal to survive when he and his family are targeted by a vengeful Albanian crime lord in Istanbul.</desc>
+    <date>2012</date>
+    <category lang="en">Action</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Thriller</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo2-east" start="20261114192500 -0500" stop="20261114201900 -0500">
+    <title lang="en">You Won't Hear Me Beg</title>
+    <desc lang="en">Bertha returns to a frosty household, Peggy’s career aspirations clash with the Newport crowd, and Agnes reluctantly gives an interview.</desc>
+    <date>2026</date>
+    <category lang="en">Period Pieces</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/TiOF8/E9PaeNiVrgQLhYcYw.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-signature-west" start="20261114162600 -0800" stop="20261114173600 -0800">
+    <title lang="en">Promised Land</title>
+    <desc lang="en">It's Carnival time. Toni Bernette finds Judge Gatling dispensing orders and potables at Galatoire's.</desc>
+    <date>2012</date>
+    <category lang="en">Family Relationships</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/ayIaH/Jtu9D7NILWvAOaFRQ.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-comedy-east" start="20261114193000 -0500" stop="20261114200000 -0500">
+    <title lang="en">Divas Down</title>
+    <desc lang="en">While Tallulah is completely absorbed in her new relationship, Maia turns her attention to scoring a seat for Tallulah at an exclusive fashion dinner. Alani accompanies Charlie home from a surgery.</desc>
+    <date>2025</date>
+    <category lang="en">Comedy</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-comedy-west" start="20261114163000 -0800" stop="20261114170200 -0800">
+    <title lang="en">Block Her</title>
+    <desc lang="en">On her 27th birthday, Maia deals with the sudden return of her best friend Tallulah.</desc>
+    <date>2025</date>
+    <category lang="en">Comedy</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-signature-east" start="20261114193400 -0500" stop="20261114204400 -0500">
+    <title lang="en">Tipitina</title>
+    <desc lang="en">Tim Feeny reveals himself and his intentions to Desautel when he finds out that she's throwing an unauthorized benefit for Gigi's. Delmond Lambreaux parts ways with the powers that be. Toni Bernette sees hope that Joey Abreu's killer may be prosecuted.</desc>
+    <date>2012</date>
+    <category lang="en">Family Relationships</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/a32oA/-wyKUlMg_7eXJGMXw.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo2-west" start="20261114165600 -0800" stop="20261114192500 -0800">
+    <title lang="en">Eddington</title>
+    <desc lang="en">A standoff between a small-town sheriff (Joaquin Phoenix) and mayor (Pedro Pascal) sparks a powder keg as neighbor is pitted against neighbor in May of 2020 in Eddington, New Mexico. A provocative, era-defining thriller from Ari Aster (Hereditary).</desc>
+    <date>2025</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Westerns</category>
+    <category lang="en">Dark Comedy</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Action</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/Oz4BB/Jfiy-hn1Db6fGy4qw.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-comedy-east" start="20261114200000 -0500" stop="20261114203600 -0500">
+    <title lang="en">I Love NY</title>
+    <desc lang="en">The girls return to New York for an exclusive fashion event, and Maia tries to enjoy herself while Tallulah contends with some questionable styling decisions. Alani plans a surprise for her parents' anniversary. Back in LA, Charlie checks on Dylan.</desc>
+    <date>2025</date>
+    <category lang="en">Comedy</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-east" start="20261114200000 -0500" stop="20261114214200 -0500">
+    <title lang="en">The End of Oak Street</title>
+    <desc lang="en">After a mysterious cosmic event rips Oak Street from suburbia and transports the neighborhood to someplace unknown, the Platts discover that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.</desc>
+    <date>2026</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Thrillers</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/DMncn/EPa5J_miw1KedwGXw.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-latino-east" start="20261114200000 -0500" stop="20261114214200 -0500">
+    <title lang="en">The End of Oak Street</title>
+    <desc lang="en">After a mysterious cosmic event rips Oak Street from suburbia and transports the neighborhood to someplace unknown, the Platts discover that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.</desc>
+    <date>2026</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Thrillers</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/DMncn/EPa5J_miw1KedwGXw.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-latino-west" start="20261114170000 -0800" stop="20261114175000 -0800">
+    <title lang="en">The Juicy Bit</title>
+    <desc lang="en">As the trial begins, Morgan faces pointed questioning from Budgie about Carla's involvement in the early days of Zephyr. Meanwhile, Johnny is tasked with finding proof of a potentially damaging financial transaction.</desc>
+    <date>2026</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Thrillers</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/UkRWs/YgBntwY5nkJmQz0FA.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-west" start="20261114170000 -0800" stop="20261114175000 -0800">
+    <title lang="en">The Juicy Bit</title>
+    <desc lang="en">As the trial begins, Morgan faces pointed questioning from Budgie about Carla's involvement in the early days of Zephyr. Meanwhile, Johnny is tasked with finding proof of a potentially damaging financial transaction.</desc>
+    <date>2026</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Thrillers</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/UkRWs/YgBntwY5nkJmQz0FA.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-comedy-west" start="20261114170200 -0800" stop="20261114173200 -0800">
+    <title lang="en">Roger &amp; Munchy</title>
+    <desc lang="en">After reconciling, Maia and Tallulah step into their new roles as manager and client while tackling an increasingly erratic situation.</desc>
+    <date>2025</date>
+    <category lang="en">Comedy</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo2-east" start="20261114201900 -0500" stop="20261114215700 -0500">
+    <title lang="en">Final Destination</title>
+    <desc lang="en">Death comes for a group of teens who escaped their fate on a doomed airliner in this first frightening foray in the Final Destination series.</desc>
+    <date>2000</date>
+    <category lang="en">Horror</category>
+    <category lang="en">Thriller</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-comedy-west" start="20261114173200 -0800" stop="20261114180200 -0800">
+    <title lang="en">Girl's Girl</title>
+    <desc lang="en">After a viral rant, Tallulah struggles with online hate, while Maia wrestles with following her managerial instincts.</desc>
+    <date>2025</date>
+    <category lang="en">Comedy</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-comedy-east" start="20261114203600 -0500" stop="20261114210700 -0500">
+    <title lang="en">Valerie Gets a New Chapter</title>
+    <desc lang="en">Valerie is offered a role in a new multi-cam sitcom – but is hesitant to accept when she learns it will be written by AI.</desc>
+    <date>2026</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Cult Classic</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/IyolL/ntj9Hxi8XdzocXONw.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-signature-west" start="20261114173600 -0800" stop="20261114183500 -0800">
+    <title lang="en">Don't You Leave Me Here</title>
+    <desc lang="en">Desautel's on the Avenue opens softly. Sonny pawns instruments to buy jewelry. LaDonna Batiste-Williams gets threats from a stranger and support from Albert Lambreaux. Sofia Bernette gets evicted for her own protection.</desc>
+    <date>2012</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Musical</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-signature-east" start="20261114204400 -0500" stop="20261114214300 -0500">
+    <title lang="en">Yes We Can</title>
+    <desc lang="en">New Orleans celebrates the election of Barack Obama. Desautel opens her own Bywater restaurant. LaDonna rebuilds Gigi's bar. School band director Batiste gets invested in his students' lives.</desc>
+    <date>2013</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Musical</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-zone-west" start="20261114174400 -0800" stop="20261114191400 -0800">
+    <title lang="en">A Very Harold &amp; Kumar 3D Christmas</title>
+    <desc lang="en">Harold and Kumar go on a Christmas Eve bender while trying to replace Harold's father-in law's prized Christmas tree.</desc>
+    <date>2011</date>
+    <category lang="en">Comedy</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-zone-east" start="20261114204700 -0500" stop="20261114224700 -0500">
+    <title lang="en">Greenland</title>
+    <desc lang="en">Gerard Butler stars as a man who embarks on a harrowing journey of survival with his family in this epic end-of-the-world thriller.</desc>
+    <date>2020</date>
+    <category lang="en">Action</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Suspense</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-latino-west" start="20261114175000 -0800" stop="20261114200000 -0800">
+    <title lang="en">Jurassic World: Fallen Kingdom</title>
+    <desc lang="en">Three years after the disaster at Jurassic World, a volcano is about to erupt, threatening to eliminate all life on the island. Desperate to save the surviving creatures, ex-employees Owen Grady and Claire Dearing return to the island on a rescue mission.</desc>
+    <date>2018</date>
+    <category lang="en">Action</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Science Fiction</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-west" start="20261114175000 -0800" stop="20261114200000 -0800">
+    <title lang="en">Jurassic World: Fallen Kingdom</title>
+    <desc lang="en">Three years after the disaster at Jurassic World, a volcano is about to erupt, threatening to eliminate all life on the island. Desperate to save the surviving creatures, ex-employees Owen Grady and Claire Dearing return to the island on a rescue mission.</desc>
+    <date>2018</date>
+    <category lang="en">Action</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Science Fiction</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-comedy-west" start="20261114180200 -0800" stop="20261114183100 -0800">
+    <title lang="en">Upstairses</title>
+    <desc lang="en">At a party, Maia and Alani have a once-in-a-lifetime encounter, Tallulah gets roped into making content, and Charlie meets someone new.</desc>
+    <date>2025</date>
+    <category lang="en">Comedy</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-comedy-east" start="20261114210700 -0500" stop="20261114213800 -0500">
+    <title lang="en">Valerie Has a Secret</title>
+    <desc lang="en">Valerie meets her human showrunners and tries to convince a TV vet to direct the pilot.</desc>
+    <date>2026</date>
+    <category lang="en">Cult Classic</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/2WstX/HtSEZiC3rgQZxthIw.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-comedy-west" start="20261114183100 -0800" stop="20261114190000 -0800">
+    <title lang="en">They Can't All Be Jeremys</title>
+    <desc lang="en">Impressed with Maia's strides at work, Alyssa invites her and Dylan over for dinner. Meanwhile, Charlie finds himself charmed by Lukas and his friend group, and Alani teaches Tallulah to drive.</desc>
+    <date>2025</date>
+    <category lang="en">Comedy</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-signature-west" start="20261114183500 -0800" stop="20261114193400 -0800">
+    <title lang="en">Poor Man's Paradise</title>
+    <desc lang="en">Janette Desautel gets attacked by crawfish ravioli. Terry Colson survives an assault. His position at NOPD is "untenable," but his position with Toni Bernette is improving. LaDonna Batiste-Williams learns the meaning of those threatening gestures.</desc>
+    <date>2012</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Musical</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-comedy-east" start="20261114213800 -0500" stop="20261114220900 -0500">
+    <title lang="en">Valerie Faces Reality</title>
+    <desc lang="en">Valerie discovers that being back on a soundstage makes her miss her old sitcom team of one: Mickey – whose death she never processed.</desc>
+    <date>2026</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Cult Classic</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/0VSON/ItUdptt8_C8QRPWrQ.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-east" start="20261114214200 -0500" stop="20261114234000 -0500">
+    <title lang="en">Madame Web</title>
+    <desc lang="en">New York City paramedic Cassandra Web is forced to confront her past while trying to protect three young women from a mysterious man who wants them dead.</desc>
+    <date>2024</date>
+    <category lang="en">Action</category>
+    <category lang="en">Fantasy</category>
+    <category lang="en">Supernatural</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-latino-east" start="20261114214200 -0500" stop="20261114234000 -0500">
+    <title lang="en">Madame Web</title>
+    <desc lang="en">New York City paramedic Cassandra Web is forced to confront her past while trying to protect three young women from a mysterious man who wants them dead.</desc>
+    <date>2024</date>
+    <category lang="en">Action</category>
+    <category lang="en">Fantasy</category>
+    <category lang="en">Supernatural</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-signature-east" start="20261114214300 -0500" stop="20261114224200 -0500">
+    <title lang="en">This City</title>
+    <desc lang="en">Lambreaux learns his cancer has spread. Delmond plays with Terence Blanchard in New York. Annie wins song of the year for "This City."</desc>
+    <date>2013</date>
+    <category lang="en">Family Relationships</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/ZlFDh/hB8PoalBv9-IHUP3g.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo2-east" start="20261114215700 -0500" stop="20261114232800 -0500">
+    <title lang="en">Final Destination 2</title>
+    <desc lang="en">One year after the Flight 180 tragedy, a group of lucky individuals cheat death in a horrific chain-reaction highway wreck. But Death will not be denied, and it comes to claim their lives in increasingly ghastly (and creative) ways.</desc>
+    <date>2003</date>
+    <category lang="en">Horror</category>
+    <category lang="en">Supernatural</category>
+    <category lang="en">Thriller</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-comedy-west" start="20261114190000 -0800" stop="20261114193000 -0800">
+    <title lang="en">Game Night</title>
+    <desc lang="en">Maia scores Tallulah a high-profile ad campaign, but Tallulah questions its resulting impact on her brand. Maia joins Dylan’s work friends for a game night, and things get horny. Meanwhile, Charlie runs into an ex at a funeral.</desc>
+    <date>2025</date>
+    <category lang="en">Comedy</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-comedy-east" start="20261114220900 -0500" stop="20261114224000 -0500">
+    <title lang="en">Valerie Does It All</title>
+    <desc lang="en">When AI churns out an unusable script, Valerie is forced to lean into her executive producer role to do damage control.</desc>
+    <date>2026</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Cult Classic</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/cT-0g/NfHU2BlSPO1H1NwNQ.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-zone-west" start="20261114191400 -0800" stop="20261114204700 -0800">
+    <title lang="en">Taken 2</title>
+    <desc lang="en">Retired CIA agent Bryan Mills must use every trick in his infinite arsenal to survive when he and his family are targeted by a vengeful Albanian crime lord in Istanbul.</desc>
+    <date>2012</date>
+    <category lang="en">Action</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Thriller</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo2-west" start="20261114192500 -0800" stop="20261114201900 -0800">
+    <title lang="en">You Won't Hear Me Beg</title>
+    <desc lang="en">Bertha returns to a frosty household, Peggy’s career aspirations clash with the Newport crowd, and Agnes reluctantly gives an interview.</desc>
+    <date>2026</date>
+    <category lang="en">Period Pieces</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/TiOF8/E9PaeNiVrgQLhYcYw.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-comedy-west" start="20261114193000 -0800" stop="20261114200000 -0800">
+    <title lang="en">Divas Down</title>
+    <desc lang="en">While Tallulah is completely absorbed in her new relationship, Maia turns her attention to scoring a seat for Tallulah at an exclusive fashion dinner. Alani accompanies Charlie home from a surgery.</desc>
+    <date>2025</date>
+    <category lang="en">Comedy</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-signature-west" start="20261114193400 -0800" stop="20261114204400 -0800">
+    <title lang="en">Tipitina</title>
+    <desc lang="en">Tim Feeny reveals himself and his intentions to Desautel when he finds out that she's throwing an unauthorized benefit for Gigi's. Delmond Lambreaux parts ways with the powers that be. Toni Bernette sees hope that Joey Abreu's killer may be prosecuted.</desc>
+    <date>2012</date>
+    <category lang="en">Family Relationships</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/a32oA/-wyKUlMg_7eXJGMXw.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-comedy-east" start="20261114224000 -0500" stop="20261114231100 -0500">
+    <title lang="en">Valerie Lights a Candle</title>
+    <desc lang="en">Faced with a new and unqualified showrunner, Valerie does everything she can to save the day and keep her show afloat – even if it means making a deal with a very familiar devil from her showbiz past...all to Jane's disapproval.</desc>
+    <date>2026</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Cult Classic</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/eF-fy/fmj1hIW78zV0ghv0w.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-signature-east" start="20261114224200 -0500" stop="20261114234100 -0500">
+    <title lang="en">Dippermouth Blues</title>
+    <desc lang="en">McAlary and Desautel spend New Year's Eve together. Batiste picks up a movie job. LaDonna comforts Lambreaux. Colson offers to testify. NOPD retaliates.</desc>
+    <date>2013</date>
+    <category lang="en">Family Relationships</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/XGaSw/R_iGbo2JhXxnJ1F5A.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-zone-east" start="20261114224700 -0500" stop="20261115002600 -0500">
+    <title lang="en">Greenland 2: Migration</title>
+    <desc lang="en">In the aftermath of a comet strike that decimated most of the earth, this sequel follows the Garrity family as they are forced to leave the safety of their bunker in Greenland to traverse a shattered world in search of a new home.</desc>
+    <date>2026</date>
+    <category lang="en">Action</category>
+    <category lang="en">High Octane Thrillers</category>
+    <category lang="en">Fantasy &amp; Sci-Fi</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/DbhZW/D5RZu7qbyoPFgfDYQ.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-comedy-west" start="20261114200000 -0800" stop="20261114203600 -0800">
+    <title lang="en">I Love NY</title>
+    <desc lang="en">The girls return to New York for an exclusive fashion event, and Maia tries to enjoy herself while Tallulah contends with some questionable styling decisions. Alani plans a surprise for her parents' anniversary. Back in LA, Charlie checks on Dylan.</desc>
+    <date>2025</date>
+    <category lang="en">Comedy</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-latino-west" start="20261114200000 -0800" stop="20261114214200 -0800">
+    <title lang="en">The End of Oak Street</title>
+    <desc lang="en">After a mysterious cosmic event rips Oak Street from suburbia and transports the neighborhood to someplace unknown, the Platts discover that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.</desc>
+    <date>2026</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Thrillers</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/DMncn/EPa5J_miw1KedwGXw.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-west" start="20261114200000 -0800" stop="20261114214200 -0800">
+    <title lang="en">The End of Oak Street</title>
+    <desc lang="en">After a mysterious cosmic event rips Oak Street from suburbia and transports the neighborhood to someplace unknown, the Platts discover that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.</desc>
+    <date>2026</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Thrillers</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/DMncn/EPa5J_miw1KedwGXw.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-comedy-east" start="20261114231100 -0500" stop="20261114234200 -0500">
+    <title lang="en">Valerie's Home Alone</title>
+    <desc lang="en">As Mark heads off to Burning Man, Valerie finds herself alone amid a media meltdown after news of her AI written show is somehow leaked to the public. Later, Val is further shocked to discover that a member of her team has not signed the studio's NDA.</desc>
+    <date>2026</date>
+    <category lang="en">Cult Classic</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/CPL5C/XkNRlkAQw0Hiq0jSg.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo2-west" start="20261114201900 -0800" stop="20261114215700 -0800">
+    <title lang="en">Final Destination</title>
+    <desc lang="en">Death comes for a group of teens who escaped their fate on a doomed airliner in this first frightening foray in the Final Destination series.</desc>
+    <date>2000</date>
+    <category lang="en">Horror</category>
+    <category lang="en">Thriller</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo2-east" start="20261114232800 -0500" stop="20261115010100 -0500">
+    <title lang="en">Final Destination 3</title>
+    <desc lang="en">Death makes a bloody date with a group of unlucky teens who escaped a fatal roller-coaster crash in this harrowing horror sequel.</desc>
+    <date>2006</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Suspense</category>
+    <category lang="en">Thriller</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-comedy-west" start="20261114203600 -0800" stop="20261114210700 -0800">
+    <title lang="en">Valerie Gets a New Chapter</title>
+    <desc lang="en">Valerie is offered a role in a new multi-cam sitcom – but is hesitant to accept when she learns it will be written by AI.</desc>
+    <date>2026</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Cult Classic</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/IyolL/ntj9Hxi8XdzocXONw.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-east" start="20261114234000 -0500" stop="20261115003700 -0500">
+    <title lang="en">Ring the Bells</title>
+    <desc lang="en">Bertha faces Gladys’s difficult childbirth, Peggy achieves a milestone, and Agnes makes plans to host a prestigious dinner.</desc>
+    <date>2026</date>
+    <category lang="en">Period Pieces</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/5GORZ/EY910Iz0_fVVcGDKw.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-latino-east" start="20261114234000 -0500" stop="20261115003700 -0500">
+    <title lang="en">Ring the Bells</title>
+    <desc lang="en">Bertha faces Gladys’s difficult childbirth, Peggy achieves a milestone, and Agnes makes plans to host a prestigious dinner.</desc>
+    <date>2026</date>
+    <category lang="en">Period Pieces</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/5GORZ/EY910Iz0_fVVcGDKw.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-signature-east" start="20261114234100 -0500" stop="20261115004000 -0500">
+    <title lang="en">Sunset On Louisianne</title>
+    <desc lang="en">McAlary celebrates his 40th. Bernette gets a break in her case. Annie dumps her band. Lambreaux insists that Delmond carry on as Big Chief after he's gone. Everett returns to New Orleans.</desc>
+    <date>2013</date>
+    <category lang="en">Family Relationships</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/XJlQY/ZQ-zpK0E5RzaRW7RA.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-comedy-east" start="20261114234200 -0500" stop="20261115001300 -0500">
+    <title lang="en">Valerie Chases the Truth</title>
+    <desc lang="en">Valerie tries to repair the damage caused by negative AI press – and save Mark's reality show job by making an appearance on Finance Dudes.</desc>
+    <date>2026</date>
+    <category lang="en">Cult Classic</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/_lB6P/Gr00vyqRBS0_TdqbQ.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-signature-west" start="20261114204400 -0800" stop="20261114214300 -0800">
+    <title lang="en">Yes We Can</title>
+    <desc lang="en">New Orleans celebrates the election of Barack Obama. Desautel opens her own Bywater restaurant. LaDonna rebuilds Gigi's bar. School band director Batiste gets invested in his students' lives.</desc>
+    <date>2013</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Musical</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-zone-west" start="20261114204700 -0800" stop="20261114224700 -0800">
+    <title lang="en">Greenland</title>
+    <desc lang="en">Gerard Butler stars as a man who embarks on a harrowing journey of survival with his family in this epic end-of-the-world thriller.</desc>
+    <date>2020</date>
+    <category lang="en">Action</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Suspense</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-comedy-west" start="20261114210700 -0800" stop="20261114213800 -0800">
+    <title lang="en">Valerie Has a Secret</title>
+    <desc lang="en">Valerie meets her human showrunners and tries to convince a TV vet to direct the pilot.</desc>
+    <date>2026</date>
+    <category lang="en">Cult Classic</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/2WstX/HtSEZiC3rgQZxthIw.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-comedy-west" start="20261114213800 -0800" stop="20261114220900 -0800">
+    <title lang="en">Valerie Faces Reality</title>
+    <desc lang="en">Valerie discovers that being back on a soundstage makes her miss her old sitcom team of one: Mickey – whose death she never processed.</desc>
+    <date>2026</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Cult Classic</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/0VSON/ItUdptt8_C8QRPWrQ.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-latino-west" start="20261114214200 -0800" stop="20261114234000 -0800">
+    <title lang="en">Madame Web</title>
+    <desc lang="en">New York City paramedic Cassandra Web is forced to confront her past while trying to protect three young women from a mysterious man who wants them dead.</desc>
+    <date>2024</date>
+    <category lang="en">Action</category>
+    <category lang="en">Fantasy</category>
+    <category lang="en">Supernatural</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-west" start="20261114214200 -0800" stop="20261114234000 -0800">
+    <title lang="en">Madame Web</title>
+    <desc lang="en">New York City paramedic Cassandra Web is forced to confront her past while trying to protect three young women from a mysterious man who wants them dead.</desc>
+    <date>2024</date>
+    <category lang="en">Action</category>
+    <category lang="en">Fantasy</category>
+    <category lang="en">Supernatural</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-signature-west" start="20261114214300 -0800" stop="20261114224200 -0800">
+    <title lang="en">This City</title>
+    <desc lang="en">Lambreaux learns his cancer has spread. Delmond plays with Terence Blanchard in New York. Annie wins song of the year for "This City."</desc>
+    <date>2013</date>
+    <category lang="en">Family Relationships</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/ZlFDh/hB8PoalBv9-IHUP3g.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo2-west" start="20261114215700 -0800" stop="20261114232800 -0800">
+    <title lang="en">Final Destination 2</title>
+    <desc lang="en">One year after the Flight 180 tragedy, a group of lucky individuals cheat death in a horrific chain-reaction highway wreck. But Death will not be denied, and it comes to claim their lives in increasingly ghastly (and creative) ways.</desc>
+    <date>2003</date>
+    <category lang="en">Horror</category>
+    <category lang="en">Supernatural</category>
+    <category lang="en">Thriller</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-comedy-west" start="20261114220900 -0800" stop="20261114224000 -0800">
+    <title lang="en">Valerie Does It All</title>
+    <desc lang="en">When AI churns out an unusable script, Valerie is forced to lean into her executive producer role to do damage control.</desc>
+    <date>2026</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Cult Classic</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/cT-0g/NfHU2BlSPO1H1NwNQ.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-comedy-west" start="20261114224000 -0800" stop="20261114231100 -0800">
+    <title lang="en">Valerie Lights a Candle</title>
+    <desc lang="en">Faced with a new and unqualified showrunner, Valerie does everything she can to save the day and keep her show afloat – even if it means making a deal with a very familiar devil from her showbiz past...all to Jane's disapproval.</desc>
+    <date>2026</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Cult Classic</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/eF-fy/fmj1hIW78zV0ghv0w.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-signature-west" start="20261114224200 -0800" stop="20261114234100 -0800">
+    <title lang="en">Dippermouth Blues</title>
+    <desc lang="en">McAlary and Desautel spend New Year's Eve together. Batiste picks up a movie job. LaDonna comforts Lambreaux. Colson offers to testify. NOPD retaliates.</desc>
+    <date>2013</date>
+    <category lang="en">Family Relationships</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/XGaSw/R_iGbo2JhXxnJ1F5A.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-zone-west" start="20261114224700 -0800" stop="20261115002600 -0800">
+    <title lang="en">Greenland 2: Migration</title>
+    <desc lang="en">In the aftermath of a comet strike that decimated most of the earth, this sequel follows the Garrity family as they are forced to leave the safety of their bunker in Greenland to traverse a shattered world in search of a new home.</desc>
+    <date>2026</date>
+    <category lang="en">Action</category>
+    <category lang="en">High Octane Thrillers</category>
+    <category lang="en">Fantasy &amp; Sci-Fi</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/DbhZW/D5RZu7qbyoPFgfDYQ.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-comedy-west" start="20261114231100 -0800" stop="20261114234200 -0800">
+    <title lang="en">Valerie's Home Alone</title>
+    <desc lang="en">As Mark heads off to Burning Man, Valerie finds herself alone amid a media meltdown after news of her AI written show is somehow leaked to the public. Later, Val is further shocked to discover that a member of her team has not signed the studio's NDA.</desc>
+    <date>2026</date>
+    <category lang="en">Cult Classic</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/CPL5C/XkNRlkAQw0Hiq0jSg.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo2-west" start="20261114232800 -0800" stop="20261115010100 -0800">
+    <title lang="en">Final Destination 3</title>
+    <desc lang="en">Death makes a bloody date with a group of unlucky teens who escaped a fatal roller-coaster crash in this harrowing horror sequel.</desc>
+    <date>2006</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Suspense</category>
+    <category lang="en">Thriller</category>
+    <icon src="https://www.hbo.com/img/hbo-logo-blk.svg" />
+  </programme>
+  <programme channel="hbo-latino-west" start="20261114234000 -0800" stop="20261115003700 -0800">
+    <title lang="en">Ring the Bells</title>
+    <desc lang="en">Bertha faces Gladys’s difficult childbirth, Peggy achieves a milestone, and Agnes makes plans to host a prestigious dinner.</desc>
+    <date>2026</date>
+    <category lang="en">Period Pieces</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/5GORZ/EY910Iz0_fVVcGDKw.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-west" start="20261114234000 -0800" stop="20261115003700 -0800">
+    <title lang="en">Ring the Bells</title>
+    <desc lang="en">Bertha faces Gladys’s difficult childbirth, Peggy achieves a milestone, and Agnes makes plans to host a prestigious dinner.</desc>
+    <date>2026</date>
+    <category lang="en">Period Pieces</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/5GORZ/EY910Iz0_fVVcGDKw.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-signature-west" start="20261114234100 -0800" stop="20261115004000 -0800">
+    <title lang="en">Sunset On Louisianne</title>
+    <desc lang="en">McAlary celebrates his 40th. Bernette gets a break in her case. Annie dumps her band. Lambreaux insists that Delmond carry on as Big Chief after he's gone. Everett returns to New Orleans.</desc>
+    <date>2013</date>
+    <category lang="en">Family Relationships</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/XJlQY/ZQ-zpK0E5RzaRW7RA.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+  <programme channel="hbo-comedy-west" start="20261114234200 -0800" stop="20261115001300 -0800">
+    <title lang="en">Valerie Chases the Truth</title>
+    <desc lang="en">Valerie tries to repair the damage caused by negative AI press – and save Mark's reality show job by making an appearance on Finance Dudes.</desc>
+    <date>2026</date>
+    <category lang="en">Cult Classic</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.cdn.prd.api.discomax.com/_lB6P/Gr00vyqRBS0_TdqbQ.jpeg?f=jpg&amp;q=75&amp;w=640" />
+  </programme>
+</tv>
